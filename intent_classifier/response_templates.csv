@@ -1,0 +1,392 @@
+input,target
+disease=MEL intent=intro,初步判斷這個可能是黑色素瘤（MEL），這是一種需要特別留意的皮膚狀況喔。
+disease=MEL intent=intro,看起來有點像大家說的黑色素瘤（MEL），這個情況我們需要謹慎對待。
+disease=MEL intent=intro,根據我們的分析，這個病灶的特徵與黑色素瘤（MEL）有點類似，建議您多加注意。
+disease=MEL intent=need_doctor,如果真的是黑色素瘤（MEL），那真的不能拖，最好趕快找皮膚科醫生看看。
+disease=MEL intent=need_doctor,考量到可能是黑色素瘤（MEL），我強烈建議您盡快預約專業醫師進行詳細診斷。
+disease=MEL intent=need_doctor,面對黑色素瘤（MEL）的可能性，還是讓專業的皮膚科醫師來判斷最保險，別耽擱了。
+disease=MEL intent=treatment,黑色素瘤（MEL）的治療方式比較多樣，早期發現的話，手術切除通常效果不錯。
+disease=MEL intent=treatment,針對黑色素瘤（MEL），醫生會評估期別和狀況，可能會建議手術、化療或標靶治療。
+disease=MEL intent=treatment,一旦確診是黑色素瘤（MEL），治療計畫會很個人化，一定要跟醫生好好配合。
+disease=MEL intent=contagious,黑色素瘤（MEL）主要是體內細胞病變，並不是細菌或病毒感染，所以不用擔心傳染問題。
+disease=MEL intent=contagious,您可以放心，黑色素瘤（MEL）這種情況是不會透過接觸傳染給家人的。
+disease=MEL intent=contagious,關於黑色素瘤（MEL）的傳染性，目前醫學上認為它不具備人傳人的特性。
+disease=MEL intent=risk,黑色素瘤（MEL）的風險在於它可能比較活躍，甚至有轉移的可能性，需要密切追蹤。
+disease=MEL intent=risk,要特別注意，黑色素瘤（MEL）如果沒有妥善處理，它惡化的速度可能會比較快。
+disease=MEL intent=risk,我們必須了解，黑色素瘤（MEL）是一種侵襲性較強的皮膚問題，輕忽不得。
+disease=NV intent=intro,這個看起來比較像是一般的黑色素痣（NV），很多人身上都會有的那種。
+disease=NV intent=intro,初步判斷是黑色素痣（NV），這在皮膚上其實還蠻常見的，不用太緊張。
+disease=NV intent=intro,您的這個小點點，根據特徵分析，應該是良性的黑色素痣（NV）。
+disease=NV intent=need_doctor,雖然黑色素痣（NV）大多是良性的，但如果形狀、顏色有變，還是給醫生看一下比較好。
+disease=NV intent=need_doctor,一般的黑色素痣（NV）不太需要特別處理，但定期自我檢查，有異狀再就醫即可。
+disease=NV intent=need_doctor,如果這顆黑色素痣（NV）讓您不太放心，或者有癢痛感，可以找個時間讓醫師評估。
+disease=NV intent=treatment,黑色素痣（NV）如果沒有惡性變化，通常不太需要治療，除非是美觀考量想去除。
+disease=NV intent=treatment,對於黑色素痣（NV）的處理，若醫師判斷是良性的，通常觀察就好，不必特別治療。
+disease=NV intent=treatment,有些人會因為美觀因素去除黑色素痣（NV），可以考慮雷射或微創手術等方式。
+disease=NV intent=contagious,黑色素痣（NV）是色素細胞聚集形成的，完全沒有傳染給別人的疑慮。
+disease=NV intent=contagious,請放心，您身上的黑色素痣（NV）並不是會傳染的皮膚疾病。
+disease=NV intent=contagious,黑色素痣（NV）跟細菌病毒無關，所以和他人接觸是不會造成傳染的。
+disease=NV intent=risk,大部分黑色素痣（NV）都是安全的，但還是要留意有沒有不規則長大或顏色改變的風險。
+disease=NV intent=risk,黑色素痣（NV）的風險相對較低，但不能完全排除有變化的可能，要多觀察。
+disease=NV intent=risk,雖然只是黑色素痣（NV），但如果家族有相關病史，還是建議您對皮膚變化提高警覺。
+disease=BCC intent=intro,這個病灶的特徵，比較像是基底細胞癌（BCC），這是一種相對常見的皮膚癌。
+disease=BCC intent=intro,根據判斷，這可能是基底細胞癌（BCC），但別太擔心，它通常發展較慢。
+disease=BCC intent=intro,我們看到的這種情況，在皮膚科被稱為基底細胞癌（BCC），需要進一步確認。
+disease=BCC intent=need_doctor,一旦懷疑是基底細胞癌（BCC），建議您要盡快讓皮膚科醫師做個詳細檢查比較妥當。
+disease=BCC intent=need_doctor,基底細胞癌（BCC）雖然比較溫和，但還是要給醫生評估，才能決定後續怎麼處理。
+disease=BCC intent=need_doctor,針對基底細胞癌（BCC）的狀況，最好還是尋求專業醫療建議，不要自己猜測。
+disease=BCC intent=treatment,基底細胞癌（BCC）的治療成功率很高，手術切除是最常見且有效的方式。
+disease=BCC intent=treatment,治療基底細胞癌（BCC）有很多選擇，醫師會根據病灶大小和位置來建議最適合的方案。
+disease=BCC intent=treatment,別擔心，基底細胞癌（BCC）通常透過局部治療就能控制得很好，像是手術或藥膏。
+disease=BCC intent=contagious,基底細胞癌（BCC）是因為細胞異常增生，並非感染所致，所以不會傳染喔。
+disease=BCC intent=contagious,您可以安心與人互動，基底細胞癌（BCC）這種皮膚癌是不具備傳染性的。
+disease=BCC intent=contagious,關於基底細胞癌（BCC）會不會傳染，答案是不會的，它不是由病原體引起的。
+disease=BCC intent=risk,基底細胞癌（BCC）雖然轉移風險低，但若不處理，病灶可能會逐漸擴大並侵犯周圍組織。
+disease=BCC intent=risk,即使是發展緩慢的基底細胞癌（BCC），長期忽視也可能造成局部組織的破壞。
+disease=BCC intent=risk,基底細胞癌（BCC）的主要風險在於局部侵襲性，及早治療才能避免範圍擴大。
+disease=AKIEC intent=intro,這種看起來有點粗糙的斑塊，很可能是日光性角化症（AKIEC），算是癌前病變。
+disease=AKIEC intent=intro,這個可能是日光性角化症（AKIEC），主要是長期日曬造成的皮膚變化。
+disease=AKIEC intent=intro,這個在醫學上常被稱為日光性角化症（AKIEC），可以把它看作是皮膚發出的警訊。
+disease=AKIEC intent=need_doctor,如果發現有類似日光性角化症（AKIEC）的狀況，最好請皮膚科醫生幫您確認一下。
+disease=AKIEC intent=need_doctor,日光性角化症（AKIEC）雖然只是癌前病變，但還是建議讓專業醫師評估是否需要處理。
+disease=AKIEC intent=need_doctor,一旦出現疑似日光性角化症（AKIEC）的紅疹或脫屑，就應該安排時間去看醫生了。
+disease=AKIEC intent=treatment,治療日光性角化症（AKIEC）的方式很多，像是冷凍治療、藥膏塗抹或光動力療法等。
+disease=AKIEC intent=treatment,醫師會根據日光性角化症（AKIEC）的數量和厚度，來決定最適合的治療方法。
+disease=AKIEC intent=treatment,對於日光性角化症（AKIEC），可以考慮局部治療，例如液態氮冷凍或是擦特定的藥膏。
+disease=AKIEC intent=contagious,日光性角化症（AKIEC）是長期紫外線傷害累積的結果，並不會傳染給其他人。
+disease=AKIEC intent=contagious,請放心，日光性角化症（AKIEC）這種皮膚問題，並不是因為感染，所以沒有傳染性。
+disease=AKIEC intent=contagious,日光性角化症（AKIEC）的形成跟個人體質與日曬有關，跟別人接觸不會有事的。
+disease=AKIEC intent=risk,日光性角化症（AKIEC）的風險在於它有一部分機率會轉變成皮膚癌，所以要留意。
+disease=AKIEC intent=risk,雖然日光性角化症（AKIEC）本身不是癌症，但它是個警訊，代表未來皮膚癌風險較高。
+disease=AKIEC intent=risk,要小心日光性角化症（AKIEC）的變化，如果變大、變厚或出血，惡性風險會提高。
+disease=BKL intent=intro,這個看起來比較像是脂漏性角化症（BKL），俗稱老人斑，通常是良性的。
+disease=BKL intent=intro,這個應該是脂漏性角化症（BKL），這是一種常見的良性皮膚增生。
+disease=BKL intent=intro,這種咖啡色、有點突起樣子，很可能是良性的脂漏性角化症（BKL）。
+disease=BKL intent=need_doctor,脂漏性角化症（BKL）一般不用太擔心，但如果突然變大或癢痛，還是給醫生看一下比較好。
+disease=BKL intent=need_doctor,除非脂漏性角化症（BKL）造成不舒服或您覺得影響美觀，不然通常不太需要就醫。
+disease=BKL intent=need_doctor,如果您不確定是不是脂漏性角化症（BKL），或者它長得很快，找醫師確認一下總是好的。
+disease=BKL intent=treatment,脂漏性角化症（BKL）如果想處理，大多是基於美觀考量，可以做冷凍或雷射治療。
+disease=BKL intent=treatment,對於脂漏性角化症（BKL），如果醫師確認是良性，通常可以不用治療，或者選擇美容性去除。
+disease=BKL intent=treatment,一般來說，脂漏性角化症（BKL）的處理方式包括電燒、刮除或雷射等，可以跟醫師討論。
+disease=BKL intent=contagious,脂漏性角化症（BKL）是皮膚老化或個人體質造成的，完全不會傳染給別人，請放心。
+disease=BKL intent=contagious,不用擔心，脂漏性角化症（BKL）這種狀況是體質性的，並不會傳染。
+disease=BKL intent=contagious,脂漏性角化症（BKL），也就是老人斑，是皮膚自然現象，跟傳染一點關係都沒有。
+disease=BKL intent=risk,脂漏性角化症（BKL）基本上是良性的，癌變的風險非常非常低，幾乎可以忽略。
+disease=BKL intent=risk,一般來說，脂漏性角化症（BKL）並不會有什麼嚴重的健康風險，主要是外觀問題。
+disease=BKL intent=risk,脂漏性角化症（BKL）被認為是安全的皮膚增生，通常不用擔心它會變成壞東西。
+disease=DF intent=intro,這個摸起來硬硬的小腫塊，比較像是皮膚纖維瘤（DF），通常是良性的反應。
+disease=DF intent=intro,根據判斷，這可能是皮膚纖維瘤（DF），有時候被蚊蟲叮咬後也可能出現。
+disease=DF intent=intro,這個小突起，醫學上稱為皮膚纖維瘤（DF），您可以把它想成是一種良性的疤痕組織增生。
+disease=DF intent=need_doctor,皮膚纖維瘤（DF）通常沒什麼大問題，但如果會痛或持續長大，還是讓醫生評估一下。
+disease=DF intent=need_doctor,如果這個皮膚纖維瘤（DF）讓您感到困擾，或者不確定診斷，可以找皮膚科醫師看看。
+disease=DF intent=need_doctor,除非皮膚纖維瘤（DF）有明顯變化或造成不適，否則一般觀察即可，不必急著就醫。
+disease=DF intent=treatment,皮膚纖維瘤（DF）如果沒有症狀，通常不太需要治療，除非是為了美觀或會摩擦到。
+disease=DF intent=treatment,對於皮膚纖維瘤（DF），若要處理，可以考慮局部注射類固醇或手術切除等方式。
+disease=DF intent=treatment,如果皮膚纖維瘤（DF）常常發癢或疼痛，醫生可能會建議一些局部治療來緩解。
+disease=DF intent=contagious,皮膚纖維瘤（DF）是局部組織反應，不是感染引起的，所以絕對不會傳染。
+disease=DF intent=contagious,請放心，皮膚纖維瘤（DF）這種小硬塊並不是會傳染給別人的皮膚病。
+disease=DF intent=contagious,皮膚纖維瘤（DF）的形成跟個人體質有關，和細菌病毒無關，沒有傳染性。
+disease=DF intent=risk,皮膚纖維瘤（DF）是良性的，基本上沒有惡性轉變的風險，可以不用太擔心。
+disease=DF intent=risk,皮膚纖維瘤（DF）的主要困擾可能是外觀或偶爾的癢感，健康上的風險很低。
+disease=DF intent=risk,一般認為皮膚纖維瘤（DF）是一種安全的良性增生，不會對身體造成嚴重危害。
+disease=VASC intent=intro,這種紅色或紫色的斑點，看起來像是血管性病灶（VASC），種類還蠻多的。
+disease=VASC intent=intro,判斷這可能是血管性病灶（VASC），例如櫻桃樣血管瘤之類的良性變化。
+disease=VASC intent=intro,您的皮膚上這個情況，我們初步判斷是血管性病灶（VASC），通常跟血管增生有關。
+disease=VASC intent=need_doctor,大部分血管性病灶（VASC）是良性的，但如果快速變大或容易出血，最好給醫生檢查。
+disease=VASC intent=need_doctor,如果這個血管性病灶（VASC）最近有明顯變化，或者您不太放心，建議諮詢皮膚科醫師。
+disease=VASC intent=need_doctor,對於血管性病灶（VASC），若無特殊症狀，可先觀察，若有疑慮隨時可就醫。
+disease=VASC intent=treatment,血管性病灶（VASC）的治療方式很多，像是雷射治療對於某些類型效果不錯。
+disease=VASC intent=treatment,如果血管性病灶（VASC）影響外觀或造成困擾，醫師會評估是否適合進行治療。
+disease=VASC intent=treatment,針對血管性病灶（VASC），有些可以透過藥物、雷射或硬化劑注射等方式處理。
+disease=VASC intent=contagious,血管性病灶（VASC）是血管本身的異常，並非感染所致，所以不會傳染給他人。
+disease=VASC intent=contagious,您可以放心，血管性病灶（VASC）這種皮膚表現是不具備傳染性的。
+disease=VASC intent=contagious,血管性病灶（VASC）跟個人體質或血管狀況有關，不會因為接觸而傳染開來。
+disease=VASC intent=risk,多數血管性病灶（VASC）是良性的，風險不高，但還是要注意是否有異常變化。
+disease=VASC intent=risk,血管性病灶（VASC）的風險視乎其具體類型，有些可能容易出血或影響功能。
+disease=VASC intent=risk,雖然很多血管性病灶（VASC）只是美觀問題，但醫師還是會評估是否有潛在風險。
+disease=BKL intent=contagious,良性角化症（BKL）不會傳染，這是個人體質的表現。
+disease=BKL intent=contagious,BKL 無需擔心傳染問題，它不具備傳染性。
+disease=BKL intent=contagious,這種病變不會透過接觸傳染給他人，請不用擔心。
+disease=BKL intent=intro,良性角化症，或稱脂漏性角化，是常見的皮膚增生。
+disease=BKL intent=intro,這看起來是 BKL，屬於良性且常見的皮膚增生，通常與年齡增長有關。
+disease=BKL intent=intro,識別出 BKL，這是一種常見的皮膚增生，通常呈現棕色或黑色斑塊。
+disease=BKL intent=treatment,BKL 通常不需要治療，若有美觀或不適問題，可考慮冷凍治療或雷射。
+disease=BKL intent=treatment,對於 BKL，您可以諮詢醫生是否適合進行冷凍、電燒或雷射去除。
+disease=BKL intent=treatment,良性角化症的治療多為美容性質，例如雷射或手術切除，但非必要。
+disease=BKL intent=risk,BKL 是良性病變，通常不會惡化為惡性腫瘤。
+disease=BKL intent=risk,這種良性角化症的癌變風險極低，但仍建議觀察其變化。
+disease=BKL intent=risk,BKL 不被視為癌前病變，惡性化的機率微乎其微。
+disease=BKL intent=need_doctor,若 BKL 快速變化、發癢或流血，建議就醫評估。
+disease=BKL intent=need_doctor,如果對 BKL 的外觀有疑慮，或它造成不適，可以諮詢皮膚科醫生。
+disease=BKL intent=need_doctor,儘管 BKL 多為良性，但若發現異常變化，建議尋求專業醫療建議。
+disease=NV intent=contagious,黑色素痣（NV）不具傳染性，請安心。
+disease=NV intent=contagious,您無需擔心黑色素痣會傳染給他人。
+disease=NV intent=contagious,黑色素痣是皮膚細胞的聚集，沒有傳染風險。
+disease=NV intent=intro,這是一個黑色素痣（NV），通常是良性的色素沉積。
+disease=NV intent=intro,判斷為黑色素痣，這是非常普遍的皮膚特徵。
+disease=NV intent=intro,黑色素痣是皮膚上的色素細胞聚集，通常為咖啡色或黑色斑點。
+disease=NV intent=treatment,黑色素痣通常不需要治療，除非有美觀需求或惡性疑慮可手術切除。
+disease=NV intent=treatment,若因美觀因素希望去除黑色素痣，可諮詢醫師進行雷射或手術。
+disease=NV intent=treatment,治療黑色素痣的常見方式包括手術切除或雷射去除，但通常在有特殊情況下才考慮。
+disease=NV intent=risk,多數黑色素痣是良性的，但仍需注意 ABCD 原則（不對稱、邊緣不規則、顏色不均、直徑大於6毫米）。
+disease=NV intent=risk,雖然黑色素痣癌變的機率不高，但若觀察到其形狀、大小或顏色發生變化，應及時就醫。
+disease=NV intent=risk,黑色素痣的風險在於少數情況下可能演變為惡性黑色素瘤，因此定期自我檢查很重要。
+disease=NV intent=need_doctor,若黑色素痣出現變化，例如變大、變色、發癢或出血，應立即就醫。
+disease=NV intent=need_doctor,建議您每年定期請皮膚科醫師檢查一次身上的痣，以確保健康。
+disease=NV intent=need_doctor,如果對黑色素痣有任何疑慮，或希望進行去除，請諮詢專業皮膚科醫生。
+disease=BCC intent=contagious,基底細胞癌（BCC）不具傳染性，它不是由病毒或細菌引起的。
+disease=BCC intent=contagious,您不需要擔心基底細胞癌會傳染給家人或朋友。
+disease=BCC intent=contagious,BCC 是一種皮膚癌，但它不會透過接觸或任何方式傳染。
+disease=BCC intent=intro,基底細胞癌（BCC）是一種常見的皮膚癌，通常生長緩慢。
+disease=BCC intent=intro,根據判斷，這是基底細胞癌，是最常見的皮膚癌類型，通常與長期陽光曝曬有關。
+disease=BCC intent=intro,BCC 是一種低惡性度的皮膚癌，多發生在陽光曝曬的部位。
+disease=BCC intent=treatment,基底細胞癌的主要治療方式是手術切除，通常預後良好。
+disease=BCC intent=treatment,針對 BCC，治療方式可能包括手術切除、冷凍治療、放射治療或局部藥物。
+disease=BCC intent=treatment,基底細胞癌的治療應由醫生根據病變大小、位置和類型來決定，通常手術切除是首選。
+disease=BCC intent=risk,雖然基底細胞癌擴散風險較低，但若不治療會持續局部侵犯，導致組織破壞。
+disease=BCC intent=risk,BCC 惡性度不高，但若延誤治療，可能會導致局部組織損壞，極少數情況下可能轉移。
+disease=BCC intent=risk,基底細胞癌的風險主要在於其局部侵略性，應及早診斷和治療。
+disease=BCC intent=need_doctor,確診基底細胞癌後，應儘快就醫進行治療，以避免病變擴大。
+disease=BCC intent=need_doctor,對於 BCC，建議您尋求皮膚科或腫瘤科醫師的專業診斷和治療方案。
+disease=BCC intent=need_doctor,一旦發現疑似基底細胞癌的病灶，務必及早諮詢醫生進行檢查。
+disease=AKIEC intent=contagious,鱗狀細胞癌前期病變（AKIEC）不具傳染性。
+disease=AKIEC intent=contagious,AKIEC 不會傳染，您可以放心。
+disease=AKIEC intent=contagious,這種病變與傳染無關，它是紫外線長期傷害的結果。
+disease=AKIEC intent=intro,識別出 AKIEC，這是鱗狀細胞癌的前期病變，需要留意。
+disease=AKIEC intent=intro,AKIEC 是指日光性角化病，是長期紫外線曝曬引起的癌前病變。
+disease=AKIEC intent=intro,鱗狀細胞癌前期病變（AKIEC）是一種皮膚癌的早期警訊，需要積極處理。
+disease=AKIEC intent=treatment,AKIEC 的治療包括冷凍治療、外用藥膏、光動力療法或刮除術。
+disease=AKIEC intent=treatment,針對 AKIEC，醫師可能會建議使用外用藥物或進行局部破壞性治療。
+disease=AKIEC intent=treatment,處理 AKIEC 的方式多樣，醫師會依據病灶特性選擇最適合的治療方案。
+disease=AKIEC intent=risk,AKIEC 有演變為鱗狀細胞癌的潛在風險，因此建議積極處理。
+disease=AKIEC intent=risk,這種癌前病變如果沒有及時處理，有機會進展為侵襲性皮膚癌。
+disease=AKIEC intent=risk,AKIEC 雖然是癌前病變，但並非所有病灶都會惡化，但仍需高度警惕。
+disease=AKIEC intent=need_doctor,發現 AKIEC 後，強烈建議立即就醫評估和治療。
+disease=AKIEC intent=need_doctor,AKIEC 需要皮膚科醫生的專業診斷和處理，請儘早預約。
+disease=AKIEC intent=need_doctor,為了避免惡化，請務必諮詢醫生，並遵循治療建議。
+disease=DF intent=contagious,皮膚纖維瘤（DF）不具傳染性。
+disease=DF intent=contagious,DF 不會傳染給他人，請不用擔心。
+disease=DF intent=contagious,皮膚纖維瘤屬於良性增生，沒有傳染的風險。
+disease=DF intent=intro,這是一個皮膚纖維瘤（DF），通常是良性的皮膚增生。
+disease=DF intent=intro,判斷為皮膚纖維瘤，這是一種常見的良性皮膚結節。
+disease=DF intent=intro,皮膚纖維瘤（DF）通常是皮膚內的一種硬結，顏色可能與膚色相近或略深。
+disease=DF intent=treatment,皮膚纖維瘤若無不適通常無需治療，若影響美觀可考慮手術切除。
+disease=DF intent=treatment,DF 的治療方式通常為手術切除，但若無症狀則可選擇觀察。
+disease=DF intent=treatment,對於皮膚纖維瘤，醫師可能會建議手術切除，尤其當它造成搔癢或疼痛時。
+disease=DF intent=risk,皮膚纖維瘤是良性病變，不具惡性潛力。
+disease=DF intent=risk,DF 的癌變風險極低，通常無需擔心。
+disease=DF intent=risk,這種良性纖維瘤不會惡化為癌症。
+disease=DF intent=need_doctor,如果皮膚纖維瘤快速增長、顏色變化或出現不適，建議就醫檢查。
+disease=DF intent=need_doctor,若對皮膚纖維瘤有任何疑慮，或希望進行去除，請諮詢皮膚科醫師。
+disease=DF intent=need_doctor,雖然 DF 多為良性，但若影響日常生活或產生不適，建議尋求醫療協助。
+disease=VASC intent=contagious,血管病變（VASC）不具傳染性。
+disease=VASC intent=contagious,VASC 是血管異常，不會傳染給他人。
+disease=VASC intent=contagious,這種病變與感染無關，因此沒有傳染性。
+disease=VASC intent=intro,這是一個血管病變（VASC），指血管結構或功能異常引起的皮膚問題。
+disease=VASC intent=intro,判斷為血管病變，這類病變可能表現為紅色斑塊或血管擴張。
+disease=VASC intent=intro,血管病變是指皮膚上的血管異常增生或擴張，通常表現為紅色的斑塊或點。
+disease=VASC intent=treatment,血管病變的治療方式多樣，包括雷射治療、硬化劑注射或手術。
+disease=VASC intent=treatment,針對 VASC，醫師會根據病變類型和嚴重程度推薦合適的治療，如雷射或藥物。
+disease=VASC intent=treatment,治療血管病變的方案因人而異，可能涉及雷射、冷凍或外用藥物。
+disease=VASC intent=risk,大部分血管病變是良性的，但有些類型可能與系統性疾病相關。
+disease=VASC intent=risk,VASC 的惡性風險相對較低，但應注意其是否影響功能或持續擴大。
+disease=VASC intent=risk,血管病變多為良性，但若快速增長或出現其他症狀，仍需評估。
+disease=VASC intent=need_doctor,若血管病變快速變化、出血或影響視力、呼吸等功能，請立即就醫。
+disease=VASC intent=need_doctor,如果對血管病變有疑慮，或希望進行治療，請諮詢皮膚科或血管外科醫師。
+disease=VASC intent=need_doctor,血管病變雖然多為良性，但若造成不適或影響功能，建議尋求專業醫療建議。
+disease=MEL intent=contagious,惡性黑色素瘤（MEL）不具傳染性。
+disease=MEL intent=contagious,MEL 不會傳染給他人，它是一種體內細胞變異。
+disease=MEL intent=contagious,黑色素瘤是細胞異常增生，無傳染風險。
+disease=MEL intent=intro,這是一個惡性黑色素瘤（MEL），是一種嚴重的皮膚癌。
+disease=MEL intent=intro,判斷為惡性黑色素瘤，這是最危險的皮膚癌之一，需嚴肅對待。
+disease=MEL intent=intro,惡性黑色素瘤（MEL）起源於黑色素細胞，具有高惡性度，早期診斷至關重要。
+disease=MEL intent=treatment,惡性黑色素瘤的首選治療是手術切除，早期發現治癒率高。
+disease=MEL intent=treatment,針對 MEL，治療方案可能包括手術、放射治療、化療或免疫療法，視分期而定。
+disease=MEL intent=treatment,惡性黑色素瘤的治療會根據其分期進行，可能涉及廣泛切除和輔助治療。
+disease=MEL intent=risk,惡性黑色素瘤具有高侵襲性和轉移風險，若不治療會迅速擴散。
+disease=MEL intent=risk,MEL 是最具致命性的皮膚癌，早期發現並治療對於預後至關重要。
+disease=MEL intent=risk,惡性黑色素瘤的風險在於其快速轉移的能力，因此早期診斷是關鍵。
+disease=MEL intent=need_doctor,確診或高度懷疑惡性黑色素瘤後，必須立即就醫，刻不容緩。
+disease=MEL intent=need_doctor,對於 MEL，請務必尋求皮膚腫瘤科醫師的專業診斷和治療。
+disease=MEL intent=need_doctor,一旦發現疑似惡性黑色素瘤的病灶，請立即預約看診，時間是關鍵。
+disease=MEL intent=intro,根據您提供的資訊，這個病灶的特徵與黑色素瘤（MEL）頗為相符，這是一種需要嚴肅看待的皮膚惡性腫瘤。
+disease=MEL intent=intro,我們的初步分析提示，這可能是黑色素瘤（MEL）。它與一般的痣不同，惡性程度較高，請務必重視。
+disease=MEL intent=intro,從影像特徵來看，例如邊緣不規則、顏色不均勻，這比較傾向於黑色素瘤（MEL）的表現，建議您深入了解。
+disease=MEL intent=intro,系統辨識出的特徵符合黑色素瘤（MEL）的可能性。這種皮膚癌若能早期發現，治療效果會比較理想。
+disease=MEL intent=intro,這看起來像是醫學上所稱的黑色素瘤（MEL），它是一種源自黑色素細胞的惡性腫瘤，需要特別警惕。
+disease=MEL intent=intro,您描述的狀況以及影像，使我們考慮到黑色素瘤（MEL）的可能。建議您尋求專業醫療確認，切勿輕忽。
+disease=MEL intent=need_doctor,考量到黑色素瘤（MEL）的潛在風險，我強烈建議您立即預約皮膚科專科醫師進行全面檢查與評估。
+disease=MEL intent=need_doctor,如果真的是黑色素瘤（MEL），時間非常關鍵。請不要猶豫，盡快尋求專業醫師的診斷與協助。
+disease=MEL intent=need_doctor,面對黑色素瘤（MEL）的可能性，自行判斷風險太高，務必讓經驗豐富的皮膚科醫師為您親自診療。
+disease=MEL intent=need_doctor,黑色素瘤（MEL）的診斷需要專業儀器和醫師經驗，線上資訊僅供參考，請立即就醫確認。
+disease=MEL intent=need_doctor,我理解您可能會感到擔心，但針對黑色素瘤（MEL）的疑慮，最安全的做法就是馬上看醫生，不要拖延。
+disease=MEL intent=treatment,黑色素瘤（MEL）的治療方案會依據期別、位置和患者狀況而定，手術切除是早期常見且有效的選項。
+disease=MEL intent=treatment,針對黑色素瘤（MEL），除了手術，依病情也可能需要輔助治療，如免疫治療或標靶藥物，請與醫師詳談。
+disease=MEL intent=treatment,請問您想了解黑色素瘤（MEL）的非手術治療選項嗎？這需要醫師評估腫瘤特性後才能決定可行性。
+disease=MEL intent=treatment,早期黑色素瘤（MEL）若能完整切除，預後通常較好。治療後也需定期追蹤，以防復發。
+disease=MEL intent=treatment,治療黑色素瘤（MEL）是一項專業的醫療決策，請和您的主治醫師充分溝通，共同制定最適合的計畫。
+disease=MEL intent=contagious,關於黑色素瘤（MEL）是否會傳染，答案是否定的。它是由自身細胞突變引起，並非感染性疾病。
+disease=MEL intent=contagious,您可以放心，黑色素瘤（MEL）並不會透過日常接觸，如握手或共餐等方式，傳染給您的家人或朋友。
+disease=MEL intent=contagious,黑色素瘤（MEL）的成因與遺傳、紫外線暴露等因素有關，與細菌或病毒感染無關，故不具傳染力。
+disease=MEL intent=contagious,不必擔心黑色素瘤（MEL）會傳染給他人，它不是像感冒那樣由病原體引起的疾病。
+disease=MEL intent=contagious,許多人會擔心腫瘤是否傳染，但黑色素瘤（MEL）這類疾病是體內細胞問題，沒有傳染的疑慮。
+disease=MEL intent=risk,黑色素瘤（MEL）的主要風險在於其高度的侵襲性和轉移潛力，若未及時處理，可能危及生命。
+disease=MEL intent=risk,黑色素瘤（MEL）若延誤治療，不僅可能造成皮膚組織的廣泛破壞，也可能擴散到淋巴結或其他器官。
+disease=MEL intent=risk,相較於其他皮膚癌，黑色素瘤（MEL）的惡性度較高，即使是小病灶也可能快速進展，風險不容小覷。
+disease=MEL intent=risk,黑色素瘤（MEL）的預後與發現時的期別密切相關，越早診斷和治療，控制病情的機會越大。
+disease=MEL intent=risk,提醒您，黑色素瘤（MEL）即使治療後，仍有復發的可能，因此術後定期追蹤檢查非常重要。
+disease=NV intent=intro,這個看起來像是一顆普通的黑色素痣（NV），也就是我們平常說的痣，多數情況下是良性的。
+disease=NV intent=intro,根據影像，這應該是黑色素痣（NV）。這類痣在成人身上很常見，通常不需要特別擔心。
+disease=NV intent=intro,從外觀來看，這比較符合黑色素痣（NV）的特徵，是皮膚黑色素細胞良性聚集形成的。
+disease=NV intent=intro,您看到的這顆，很可能是良性的黑色素痣（NV）。我們身上或多或少都會有一些這樣的痣。
+disease=NV intent=intro,這是一顆黑色素痣（NV），是皮膚上常見的色素沉積，一般來說對健康沒有直接影響。
+disease=NV intent=need_doctor,雖然大部分黑色素痣（NV）是良性，但若出現快速長大、形狀不對稱、顏色改變或搔癢疼痛，就建議就醫檢查。
+disease=NV intent=need_doctor,如果這顆黑色素痣（NV）讓您感到不放心，或者它在短時間內有明顯變化，還是請皮膚科醫師評估一下較好。
+disease=NV intent=need_doctor,對於黑色素痣（NV），一般建議定期自我觀察。若有任何疑慮，或有皮膚癌家族史，應諮詢醫師。
+disease=NV intent=need_doctor,若您注意到黑色素痣（NV）的邊緣變得模糊不清，或者表面有糜爛出血，請儘速就醫。
+disease=NV intent=need_doctor,一般而言，穩定的黑色素痣（NV）不需特別處理，但若想去除，也應由醫師評估後進行。
+disease=NV intent=treatment,黑色素痣（NV）若經醫師判斷為良性且無症狀，通常不需治療，除非有美觀考量或摩擦刺激。
+disease=NV intent=treatment,若要去除良性的黑色素痣（NV），常見方式有雷射、冷凍或手術切除，醫師會依痣的狀況建議。
+disease=NV intent=treatment,請問您是想處理黑色素痣（NV）的外觀問題，還是擔心它有其他變化呢？這會影響處理建議。
+disease=NV intent=treatment,大部分黑色素痣（NV）是不需要治療的，除非醫師評估有風險，或者您個人有特殊需求。
+disease=NV intent=treatment,若黑色素痣（NV）經常受到衣物摩擦或刮傷，可以考慮預防性切除，以避免反覆發炎。
+disease=NV intent=contagious,黑色素痣（NV）是個人體質形成的色素細胞增生，完全沒有傳染性，請不必擔心。
+disease=NV intent=contagious,您可以放心，黑色素痣（NV）並不是由細菌或病毒感染所引起，因此不會傳染給他人。
+disease=NV intent=contagious,黑色素痣（NV）的形成與遺傳、日曬等因素有關，與傳染病無關，不會人傳人。
+disease=NV intent=contagious,長痣是很正常的生理現象，就像胎記一樣，黑色素痣（NV）本身不具備任何傳染能力。
+disease=NV intent=contagious,關於黑色素痣（NV）是否會傳染的問題，答案是否定的，它是一種良性的皮膚組織。
+disease=NV intent=risk,絕大多數黑色素痣（NV）是良性的，轉變成惡性黑色素瘤的機率不高，但仍需注意觀察變化。
+disease=NV intent=risk,黑色素痣（NV）的風險在於，極少數情況下可能發生惡性轉變，特別是那些不典型的痣。
+disease=NV intent=risk,若黑色素痣（NV）的直徑大於0.6公分，或出現ABCDE法則中的異常特徵，惡性風險會相對提高。
+disease=NV intent=risk,雖然黑色素痣（NV）風險普遍不高，但對於生長在手掌、腳掌或黏膜處的痣，建議多加留意。
+disease=NV intent=risk,定期自我檢查皮膚，留意黑色素痣（NV）的任何變化，是降低相關風險最簡單有效的方法。
+disease=BCC intent=intro,這個病灶的特徵，像是典型的基底細胞癌（BCC），它是最常見的一種皮膚惡性腫瘤。
+disease=BCC intent=intro,根據系統判斷，這可能是基底細胞癌（BCC）。好消息是，它通常生長緩慢，也較少轉移。
+disease=BCC intent=intro,這看起來像珍珠光澤的丘疹或帶有潰瘍的斑塊，很符合基底細胞癌（BCC）的臨床表現。
+disease=BCC intent=intro,我們辨識出的情況，在皮膚科被診斷為基底細胞癌（BCC）的可能性較高，需要進一步確認。
+disease=BCC intent=intro,基底細胞癌（BCC）是一種起源於表皮基底層細胞的癌症，常見於陽光曝曬部位。
+disease=BCC intent=intro,您所描述的久不癒合的傷口或持續存在的皮膚異常，有可能是基底細胞癌（BCC）的徵兆。
+disease=BCC intent=need_doctor,一旦懷疑是基底細胞癌（BCC），建議您要盡快讓皮膚科醫師做個詳細檢查與皮膚切片以確診。
+disease=BCC intent=need_doctor,雖然基底細胞癌（BCC）惡性度相對較低，但也需要專業醫師評估並規劃治療，不宜自行處理。
+disease=BCC intent=need_doctor,針對基底細胞癌（BCC）的疑慮，請尋求皮膚科醫師的專業意見，他們會提供最準確的診斷。
+disease=BCC intent=need_doctor,基底細胞癌（BCC）若不及早處理，病灶可能會逐漸擴大，建議您安排時間就醫。
+disease=BCC intent=need_doctor,請不要因為基底細胞癌（BCC）生長慢就輕忽，及早就醫才能獲得最佳治療效果並減少併發症。
+disease=BCC intent=treatment,基底細胞癌（BCC）的治療方式多元，手術切除（如莫氏手術）是最常用且治癒率高的方法。
+disease=BCC intent=treatment,除了手術，針對表淺型或不適合手術的基底細胞癌（BCC），也可考慮局部藥膏、冷凍或放射治療。
+disease=BCC intent=treatment,您的醫師會根據基底細胞癌（BCC）的大小、位置、型態及您的健康狀況，來決定最適合的治療方案。
+disease=BCC intent=treatment,請問您是否想了解基底細胞癌（BCC）的非侵入性治療選項？這需要醫師的專業評估。
+disease=BCC intent=treatment,治療基底細胞癌（BCC）的目標是徹底清除癌細胞並盡量保留功能與美觀，請與醫師詳細討論。
+disease=BCC intent=contagious,基底細胞癌（BCC）是自身細胞異常增生導致的，並非由病毒或細菌引起，因此完全不會傳染。
+disease=BCC intent=contagious,您可以安心與他人正常社交，基底細胞癌（BCC）這種皮膚癌是不具備傳染給他人的能力的。
+disease=BCC intent=contagious,基底細胞癌（BCC）的發生主要與紫外線暴露、遺傳等因素相關，和傳染病是兩回事。
+disease=BCC intent=contagious,不必擔心，基底細胞癌（BCC）不是因為接觸了什麼而被感染的，所以也沒有傳染的問題。
+disease=BCC intent=contagious,許多人對癌症是否傳染有誤解，但像基底細胞癌（BCC）這樣的實體腫瘤，是沒有傳染性的。
+disease=BCC intent=risk,基底細胞癌（BCC）雖然轉移風險極低，但若不治療，病灶會持續擴大，侵犯周圍正常組織，造成外觀或功能損害。
+disease=BCC intent=risk,基底細胞癌（BCC）若長期忽視，可能導致局部潰爛、出血，甚至侵犯到深層的肌肉或骨骼。
+disease=BCC intent=risk,即使基底細胞癌（BCC）惡性度不高，但它具有局部破壞性，尤其在眼、鼻、口周圍的病灶需特別小心處理。
+disease=BCC intent=risk,曾患有基底細胞癌（BCC）的患者，未來再發生其他皮膚癌的風險也較高，需定期追蹤。
+disease=BCC intent=risk,基底細胞癌（BCC）的風險在於其潛在的局部侵襲能力，因此早期發現並徹底治療至關重要。
+disease=AKIEC intent=intro,這種粗糙、帶有鱗屑的紅色斑塊，很可能是日光性角化症（AKIEC），屬於皮膚癌前病變。
+disease=AKIEC intent=intro,系統分析顯示，這可能是日光性角化症（AKIEC），主要是長期累積的紫外線傷害所致。
+disease=AKIEC intent=intro,這在醫學上稱為日光性角化症（AKIEC），可以視為皮膚對陽光傷害發出的早期警訊，需要留意。
+disease=AKIEC intent=intro,日光性角化症（AKIEC）通常出現在臉部、耳朵、頭皮或手臂等陽光經常照射到的部位。
+disease=AKIEC intent=intro,您描述的皮膚粗糙感和不易脫落的皮屑，是日光性角化症（AKIEC）的常見特徵之一。
+disease=AKIEC intent=intro,我們判斷這個可能是日光性角化症（AKIEC），它代表皮膚細胞已出現異常，但尚未發展成真正的癌症。
+disease=AKIEC intent=need_doctor,若您發現皮膚有類似日光性角化症（AKIEC）的變化，建議尋求皮膚科醫師的專業診斷與建議。
+disease=AKIEC intent=need_doctor,日光性角化症（AKIEC）雖然只是癌前病變，但也應由醫師評估是否需要治療，以預防進一步發展。
+disease=AKIEC intent=need_doctor,一旦出現疑似日光性角化症（AKIEC）的症狀，如持續存在的粗糙紅斑，就應該安排門診檢查。
+disease=AKIEC intent=need_doctor,請不要自行摳抓或處理疑似日光性角化症（AKIEC）的病灶，應由醫師判斷後續處理方式。
+disease=AKIEC intent=need_doctor,醫師可以透過視診或皮膚鏡檢查來判斷是否為日光性角化症（AKIEC），必要時會做皮膚切片。
+disease=AKIEC intent=treatment,治療日光性角化症（AKIEC）的方法包括冷凍治療、外用藥膏（如Imiquimod、5-FU）、光動力療法或刮除術。
+disease=AKIEC intent=treatment,醫師會根據日光性角化症（AKIEC）的數量、厚度、範圍以及您的個人情況，來選擇最合適的治療。
+disease=AKIEC intent=treatment,對於單個或少數的日光性角化症（AKIEC）病灶，液態氮冷凍治療是快速且有效的處理方式。
+disease=AKIEC intent=treatment,若日光性角化症（AKIEC）範圍較大，醫師可能會建議使用外用藥膏進行區域性治療。
+disease=AKIEC intent=treatment,治療日光性角化症（AKIEC）的目的在於去除異常細胞，降低其轉變成皮膚癌的風險。
+disease=AKIEC intent=contagious,日光性角化症（AKIEC）是長期紫外線暴露造成的皮膚細胞損傷，並不會傳染給其他人。
+disease=AKIEC intent=contagious,請放心，日光性角化症（AKIEC）這種皮膚問題，與細菌或病毒感染無關，故無傳染之虞。
+disease=AKIEC intent=contagious,日光性角化症（AKIEC）的形成是個人皮膚對陽光反應的結果，與他人接觸不會造成傳播。
+disease=AKIEC intent=contagious,這是慢性的光化學損傷，不是感染性疾病，所以日光性角化症（AKIEC）沒有傳染性。
+disease=AKIEC intent=contagious,日光性角化症（AKIEC）和個人日曬史及膚質有關，並非經由接觸傳染的疾病。
+disease=AKIEC intent=risk,日光性角化症（AKIEC）的主要風險在於它有一定比例（約5-10%）可能轉變成鱗狀細胞癌，需積極處理。
+disease=AKIEC intent=risk,若日光性角化症（AKIEC）的病灶出現變硬、快速增大、疼痛或容易出血，惡性轉變的風險會增高。
+disease=AKIEC intent=risk,雖然日光性角化症（AKIEC）本身不是癌症，但它是皮膚癌（特別是鱗狀細胞癌）的重要警訊和前兆。
+disease=AKIEC intent=risk,擁有多處日光性角化症（AKIEC）的患者，代表其皮膚已受較嚴重的紫外線傷害，未來發生皮膚癌的整體風險較高。
+disease=AKIEC intent=risk,積極治療日光性角化症（AKIEC）並加強防曬，是預防其惡化並降低皮膚癌風險的關鍵措施。
+disease=BKL intent=intro,這個棕黑色、略微突起且表面粗糙的斑塊，看起來很像良性的脂漏性角化症（BKL），俗稱老人斑。
+disease=BKL intent=intro,系統判斷這可能是脂漏性角化症（BKL），這是一種隨著年齡增長而常見的良性皮膚增生現象。
+disease=BKL intent=intro,這種像是蠟滴黏在皮膚上的感覺，通常是脂漏性角化症（BKL）的特徵，一般對健康無礙。
+disease=BKL intent=intro,脂漏性角化症（BKL）是表皮細胞良性增生和角化形成的，顏色從淺褐到深黑都有可能。
+disease=BKL intent=intro,您看到的這個，應該是脂漏性角化症（BKL）。許多中老年人皮膚上都會出現類似的斑塊。
+disease=BKL intent=intro,這是一種相當普遍的皮膚良性腫瘤，稱為脂漏性角化症（BKL），通常不需要過度擔心。
+disease=BKL intent=need_doctor,脂漏性角化症（BKL）大多是良性，但若突然快速增大、顏色改變、發炎或出血，建議讓醫師看一下以排除其他問題。
+disease=BKL intent=need_doctor,除非脂漏性角化症（BKL）造成搔癢、刺激感，或您對其外觀感到困擾，否則通常不需特別就醫。
+disease=BKL intent=need_doctor,如果您無法確定這是否為脂漏性角化症（BKL），或者它長得跟其他斑點不太一樣，找醫師確認一下比較安心。
+disease=BKL intent=need_doctor,若脂漏性角化症（BKL）生長的位置容易受到摩擦，例如衣領或腰帶處，可以考慮請醫師評估是否處理。
+disease=BKL intent=need_doctor,對於新出現的皮膚斑塊，即使懷疑是脂漏性角化症（BKL），初次也建議由醫師診斷以求準確。
+disease=BKL intent=treatment,脂漏性角化症（BKL）若要治療，多半是基於美觀考量或緩解症狀，常見方法有冷凍、雷射、電燒或刮除術。
+disease=BKL intent=treatment,醫師會依據脂漏性角化症（BKL）的大小、厚度及位置，來建議最適合您的去除方式。
+disease=BKL intent=treatment,請問您想處理脂漏性角化症（BKL）是因為影響外觀，還是有其他不舒服的感覺呢？
+disease=BKL intent=treatment,如果醫師確認是典型的脂漏性角化症（BKL），且無任何惡性疑慮，是可以選擇不治療，和平共處的。
+disease=BKL intent=treatment,治療脂漏性角化症（BKL）後，局部可能會有些色素沉澱或疤痕風險，醫師會在術前說明。
+disease=BKL intent=contagious,脂漏性角化症（BKL），也就是老人斑，是皮膚老化和個人體質的表現，完全不會傳染給他人。
+disease=BKL intent=contagious,請您放心，脂漏性角化症（BKL）並非由細菌或病毒引起，因此和家人朋友接觸不會有傳染風險。
+disease=BKL intent=contagious,脂漏性角化症（BKL）的形成與日曬、遺傳有關，它不是感染性皮膚病，不會人傳人。
+disease=BKL intent=contagious,這種皮膚增生是良性的，跟傳染一點關係都沒有，脂漏性角化症（BKL）純粹是個人皮膚變化。
+disease=BKL intent=contagious,不用擔心，脂漏性角化症（BKL）不會因為共用毛巾或衣物而傳染，它是非感染性的。
+disease=BKL intent=risk,脂漏性角化症（BKL）本身是良性的，癌變的機率極低，幾乎可以忽略不計，安全性很高。
+disease=BKL intent=risk,一般來說，脂漏性角化症（BKL）並不會對健康構成嚴重威脅，主要影響的是外觀或可能伴隨的癢感。
+disease=BKL intent=risk,脂漏性角化症（BKL）被認為是安全的皮膚老化現象之一，通常不需擔心它會惡化成嚴重疾病。
+disease=BKL intent=risk,唯一的風險可能是，極少數情況下，惡性腫瘤可能偽裝成脂漏性角化症（BKL），所以初次診斷很重要。
+disease=BKL intent=risk,若脂漏性角化症（BKL）突然出現不尋常的變化，例如快速隆起或潰瘍，則需警惕是否有其他問題並存。
+disease=DF intent=intro,這個摸起來堅實、略微陷入或隆起於皮膚的小結節，很可能是皮膚纖維瘤（DF），通常是良性的。
+disease=DF intent=intro,系統判斷，這可能是皮膚纖維瘤（DF），有時在蚊蟲叮咬或輕微皮膚損傷後形成，像是一種疤痕反應。
+disease=DF intent=intro,這種按壓時中央會凹陷的「小鈕扣」樣病灶，是皮膚纖維瘤（DF）的典型特徵之一。
+disease=DF intent=intro,皮膚纖維瘤（DF）是一種常見的真皮層良性增生，由纖維母細胞和膠原蛋白組成。
+disease=DF intent=intro,您描述的這個小硬塊，醫學上稱為皮膚纖維瘤（DF），多數情況下不會造成健康問題。
+disease=DF intent=intro,這看起來像是皮膚纖維瘤（DF），它可能呈現棕色、紅色或膚色，大小通常固定。
+disease=DF intent=need_doctor,皮膚纖維瘤（DF）一般是良性，但如果會疼痛、搔癢、持續長大或您不確定診斷，建議讓醫師評估。
+disease=DF intent=need_doctor,若這個皮膚纖維瘤（DF）讓您感到困擾，或其外觀與典型的皮膚纖維瘤不同，可以諮詢皮膚科醫師。
+disease=DF intent=need_doctor,除非皮膚纖維瘤（DF）有明顯症狀或快速變化，否則通常觀察即可，不一定需要立即就醫。
+disease=DF intent=need_doctor,如果您擔心這個皮膚纖維瘤（DF）是否會惡變，讓醫師檢查一下可以讓您更安心。
+disease=DF intent=need_doctor,有時皮膚纖維瘤（DF）可能與其他結節性病灶混淆，因此由醫師進行鑑別診斷是必要的。
+disease=DF intent=treatment,皮膚纖維瘤（DF）若無症狀且診斷明確，通常不需治療。若有美觀或症狀考量，可考慮切除或局部注射。
+disease=DF intent=treatment,治療皮膚纖維瘤（DF）的方法包括手術切除、冷凍治療或局部類固醇注射，以縮小或緩解癢痛。
+disease=DF intent=treatment,請問您想處理皮膚纖維瘤（DF）的主要原因是？是外觀、搔癢，還是其他不適呢？
+disease=DF intent=treatment,手術切除皮膚纖維瘤（DF）雖然能根治，但可能會留下一條線狀疤痕，需權衡利弊。
+disease=DF intent=treatment,對於皮膚纖維瘤（DF），有時醫師會建議先觀察，若症狀無法忍受再考慮介入治療。
+disease=DF intent=contagious,皮膚纖維瘤（DF）是局部組織的良性增生反應，並非由病原體感染引起，因此絕對不會傳染。
+disease=DF intent=contagious,請放心，皮膚纖維瘤（DF）這種皮膚小硬塊，是不會透過任何接觸方式傳染給他人的。
+disease=DF intent=contagious,皮膚纖維瘤（DF）的形成與個人體質或先前皮膚小創傷有關，和傳染性疾病無關。
+disease=DF intent=contagious,這不是一種感染，所以皮膚纖維瘤（DF）並不會因為您接觸了誰或什麼東西而得到，也不會傳出去。
+disease=DF intent=contagious,關於皮膚纖維瘤（DF）的傳染性，您可以完全放心，它是一種非感染性的良性病灶。
+disease=DF intent=risk,皮膚纖維瘤（DF）本質上是良性的，幾乎沒有惡性轉變的風險，可以不必過度擔憂。
+disease=DF intent=risk,皮膚纖維瘤（DF）主要的困擾可能來自於外觀、偶發的搔癢或觸痛，對整體健康的風險極低。
+disease=DF intent=risk,一般認為皮膚纖維瘤（DF）是一種安全的良性皮膚結節，不會對身體機能造成嚴重影響。
+disease=DF intent=risk,雖然皮膚纖維瘤（DF）本身風險不高，但若診斷不確定，仍需排除其他外觀相似但性質不同的病灶。
+disease=DF intent=risk,皮膚纖維瘤（DF）長期存在的風險很小，多數人與其和平共存，除非有特殊症狀才需處理。
+disease=VASC intent=intro,這種紅色、紫色或藍色的皮膚斑點或小丘疹，看起來像是血管性病灶（VASC），其種類繁多。
+disease=VASC intent=intro,系統判斷這可能是血管性病灶（VASC），例如常見的櫻桃樣血管瘤或蜘蛛狀血管擴張等良性變化。
+disease=VASC intent=intro,您的皮膚上這個情況，初步判斷是血管性病灶（VASC），通常是因局部血管擴張或增生所形成。
+disease=VASC intent=intro,血管性病灶（VASC）可以是先天性的（如葡萄酒色斑），也可能是後天出現的（如老年性血管瘤）。
+disease=VASC intent=intro,從外觀來看，這符合血管性病灶（VASC）的表現，顏色來自於血管內的血液。
+disease=VASC intent=intro,我們看到的可能是血管性病灶（VASC），這類病灶的處理方式會因其具體類型而有很大差異。
+disease=VASC intent=need_doctor,大部分血管性病灶（VASC）是良性的，但若出現快速增大、顏色改變、疼痛或容易出血不止，應立即就醫。
+disease=VASC intent=need_doctor,如果這個血管性病灶（VASC）讓您擔心，或其外觀與您已知的良性血管瘤不同，建議諮詢皮膚科醫師。
+disease=VASC intent=need_doctor,對於新出現的血管性病灶（VASC），特別是在成人時期，最好還是讓醫師評估以排除罕見的惡性可能。
+disease=VASC intent=need_doctor,若血管性病灶（VASC）影響到外觀或功能（如長在眼睛附近），可以尋求醫師的專業建議和處理。
+disease=VASC intent=need_doctor,醫師可以透過視診和皮膚鏡來初步判斷血管性病灶（VASC）的類型，有時可能需要進一步檢查。
+disease=VASC intent=treatment,血管性病灶（VASC）的治療方式取決於其類型、大小、深度和位置，常見的有雷射治療、冷凍治療或手術切除。
+disease=VASC intent=treatment,針對不同種類的血管性病灶（VASC），醫師可能會建議染料雷射、脈衝光或其他特定波長的雷射治療。
+disease=VASC intent=treatment,請問您想處理血管性病灶（VASC）是因為美觀問題，還是它有造成其他不舒服的症狀？
+disease=VASC intent=treatment,有些血管性病灶（VASC），如小型櫻桃樣血管瘤，若無症狀且不影響外觀，是可以選擇觀察而不處理的。
+disease=VASC intent=treatment,治療血管性病灶（VASC）前，醫師會詳細解釋可能的副作用，如暫時性瘀青、色素沉澱或罕見的疤痕。
+disease=VASC intent=contagious,血管性病灶（VASC）是源於血管本身的結構異常或增生，並非由感染引起，因此不會傳染。
+disease=VASC intent=contagious,您可以放心，血管性病灶（VASC）這類皮膚表現是不具備任何傳染性的，與他人接觸無妨。
+disease=VASC intent=contagious,血管性病灶（VASC）的形成與遺傳、荷爾蒙變化或物理因素有關，和傳染病是完全不同的概念。
+disease=VASC intent=contagious,這不是一種感染性疾病，所以血管性病灶（VASC）並不會因為您接觸了什麼而惡化或傳給別人。
+disease=VASC intent=contagious,關於血管性病灶（VASC）的傳染性疑慮，答案是否定的，它是一種非感染性的血管組織變化。
+disease=VASC intent=risk,多數血管性病灶（VASC）是良性的，健康風險不高，但某些類型可能因碰撞而出血，或影響美觀。
+disease=VASC intent=risk,血管性病灶（VASC）的風險主要視其具體診斷而定；例如，某些先天性血管瘤可能隨年齡增長而消退，或需要積極介入。
+disease=VASC intent=risk,雖然許多血管性病灶（VASC）僅是外觀問題，但醫師仍會評估是否有潛在的健康關聯或罕見的併發症風險。
+disease=VASC intent=risk,若血管性病灶（VASC）突然快速生長或性質改變，需警惕是否有其他潛在問題，應及時回診。
+disease=VASC intent=risk,對於某些特定的血管性病灶（VASC），例如位於重要器官附近或伴隨其他症候群，其風險評估會更為複雜。

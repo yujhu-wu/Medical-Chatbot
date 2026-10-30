@@ -1,0 +1,763 @@
+[
+  {
+    "text": "要避免接觸嗎？",
+    "label": "contagious"
+  },
+  {
+    "text": "治療流程是什麼？",
+    "label": "treatment"
+  },
+  {
+    "text": "可以碰其他人嗎？",
+    "label": "contagious"
+  },
+  {
+    "text": "這是什麼皮膚病？",
+    "label": "intro"
+  },
+  {
+    "text": "我該去找皮膚科嗎？",
+    "label": "need_doctor"
+  },
+  {
+    "text": "要做手術嗎？",
+    "label": "treatment"
+  },
+  {
+    "text": "是不是會傳染？",
+    "label": "contagious"
+  },
+  {
+    "text": "該怎麼治療？",
+    "label": "treatment"
+  },
+  {
+    "text": "這個問題是什麼引起的？",
+    "label": "intro"
+  },
+  {
+    "text": "它會威脅生命嗎？",
+    "label": "risk"
+  },
+  {
+    "text": "請問這是什麼？",
+    "label": "intro"
+  },
+  {
+    "text": "這會傳染嗎？",
+    "label": "contagious"
+  },
+  {
+    "text": "要去醫院嗎？",
+    "label": "need_doctor"
+  },
+  {
+    "text": "我該就醫嗎？",
+    "label": "need_doctor"
+  },
+  {
+    "text": "這個叫什麼名字？",
+    "label": "intro"
+  },
+  {
+    "text": "我可以不用看醫生嗎？",
+    "label": "need_doctor"
+  },
+  {
+    "text": "需不需要就醫？",
+    "label": "need_doctor"
+  },
+  {
+    "text": "這個傳染力強嗎？",
+    "label": "contagious"
+  },
+  {
+    "text": "是不是惡性腫瘤？",
+    "label": "risk"
+  },
+  {
+    "text": "是不是應該去醫院檢查一下？",
+    "label": "need_doctor"
+  },
+  {
+    "text": "要用什麼方式治療？",
+    "label": "treatment"
+  },
+  {
+    "text": "這算嚴重的病嗎？",
+    "label": "intro"
+  },
+  {
+    "text": "會不會傳染給別人？",
+    "label": "contagious"
+  },
+  {
+    "text": "這是癌症嗎？",
+    "label": "risk"
+  },
+  {
+    "text": "需要隔離嗎？",
+    "label": "contagious"
+  },
+  {
+    "text": "怎麼處理這個病？",
+    "label": "treatment"
+  },
+  {
+    "text": "你可以告訴我這是什麼病嗎？",
+    "label": "intro"
+  },
+  {
+    "text": "這會不會變得更嚴重？",
+    "label": "risk"
+  },
+  {
+    "text": "需要吃藥嗎？",
+    "label": "treatment"
+  },
+  {
+    "text": "有可能惡化嗎？",
+    "label": "risk"
+  },
+  {
+    "text": "這是不是一種皮膚病？",
+    "label": "intro"
+  },
+  {
+    "text": "這會變成皮膚癌嗎？",
+    "label": "risk"
+  },
+  {
+    "text": "這需要治療嗎？",
+    "label": "need_doctor"
+  },
+  {
+    "text": "這是常見的皮膚問題嗎？",
+    "label": "intro"
+  },
+  {
+    "text": "會不會傳染給家人？",
+    "label": "contagious"
+  },
+  {
+    "text": "可以塗藥膏嗎？",
+    "label": "treatment"
+  },
+  {
+    "text": "是不是接觸傳染？",
+    "label": "contagious"
+  },
+  {
+    "text": "這種病是什麼？",
+    "label": "intro"
+  },
+  {
+    "text": "它會擴散嗎？",
+    "label": "risk"
+  },
+  {
+    "text": "它具不具有傳染性？",
+    "label": "contagious"
+  },
+  {
+    "text": "會不會有危險？",
+    "label": "risk"
+  },
+  {
+    "text": "這種皮膚狀況叫什麼？",
+    "label": "intro"
+  },
+  {
+    "text": "要擦什麼藥？",
+    "label": "treatment"
+  },
+  {
+    "text": "會導致併發症嗎？",
+    "label": "risk"
+  },
+  {
+    "text": "這要去看醫生嗎？",
+    "label": "need_doctor"
+  },
+  {
+    "text": "這會自己好嗎？",
+    "label": "need_doctor"
+  },
+  {
+    "text": "是不是很嚴重？",
+    "label": "risk"
+  },
+  {
+    "text": "這有什麼治療方法？",
+    "label": "treatment"
+  },
+  {
+    "text": "這個要開藥嗎？",
+    "label": "treatment"
+  },
+  {
+    "text": "我需要掛皮膚科嗎？",
+    "label": "need_doctor"
+  },
+  {
+    "text": "你能跟我說這是什麼病嗎？",
+    "label": "intro"
+  },
+  {
+    "text": "這到底叫什麼名字？",
+    "label": "intro"
+  },
+  {
+    "text": "這看起來是什麼皮膚狀況？",
+    "label": "intro"
+  },
+  {
+    "text": "能不能說明一下這是什麼？",
+    "label": "intro"
+  },
+  {
+    "text": "這算是哪一種皮膚病？",
+    "label": "intro"
+  },
+  {
+    "text": "我皮膚長這樣是什麼問題？",
+    "label": "intro"
+  },
+  {
+    "text": "這皮膚問題常見嗎？",
+    "label": "intro"
+  },
+  {
+    "text": "你知道這是什麼東西嗎？",
+    "label": "intro"
+  },
+  {
+    "text": "你覺得我需要看醫生嗎？",
+    "label": "need_doctor"
+  },
+  {
+    "text": "這樣的情況要掛皮膚科嗎？",
+    "label": "need_doctor"
+  },
+  {
+    "text": "我是不是該掛號檢查？",
+    "label": "need_doctor"
+  },
+  {
+    "text": "需要去大醫院嗎？",
+    "label": "need_doctor"
+  },
+  {
+    "text": "這種病情該就診嗎？",
+    "label": "need_doctor"
+  },
+  {
+    "text": "我有必要跑一趟醫院嗎？",
+    "label": "need_doctor"
+  },
+  {
+    "text": "是不是應該去找皮膚科醫師？",
+    "label": "need_doctor"
+  },
+  {
+    "text": "請問這樣需要醫生幫忙嗎？",
+    "label": "need_doctor"
+  },
+  {
+    "text": "要擦什麼藥膏比較好？",
+    "label": "treatment"
+  },
+  {
+    "text": "有建議的治療方式嗎？",
+    "label": "treatment"
+  },
+  {
+    "text": "這應該怎麼處理？",
+    "label": "treatment"
+  },
+  {
+    "text": "我該怎麼讓它好起來？",
+    "label": "treatment"
+  },
+  {
+    "text": "要用吃藥的方式嗎？",
+    "label": "treatment"
+  },
+  {
+    "text": "是不是得用手術治療？",
+    "label": "treatment"
+  },
+  {
+    "text": "可以用家裡的藥膏嗎？",
+    "label": "treatment"
+  },
+  {
+    "text": "這有沒有推薦的療法？",
+    "label": "treatment"
+  },
+  {
+    "text": "這會傳給其他人嗎？",
+    "label": "contagious"
+  },
+  {
+    "text": "我會不會害家人被傳染？",
+    "label": "contagious"
+  },
+  {
+    "text": "是不是傳染性的？",
+    "label": "contagious"
+  },
+  {
+    "text": "會不會碰到就傳染？",
+    "label": "contagious"
+  },
+  {
+    "text": "要不要避免跟別人接觸？",
+    "label": "contagious"
+  },
+  {
+    "text": "會透過皮膚接觸傳播嗎？",
+    "label": "contagious"
+  },
+  {
+    "text": "傳染力會不會很強？",
+    "label": "contagious"
+  },
+  {
+    "text": "這個要隔離嗎？",
+    "label": "contagious"
+  },
+  {
+    "text": "這會不會變嚴重？",
+    "label": "risk"
+  },
+  {
+    "text": "有沒有可能惡化？",
+    "label": "risk"
+  },
+  {
+    "text": "這個會造成生命危險嗎？",
+    "label": "risk"
+  },
+  {
+    "text": "是不是會變成癌症？",
+    "label": "risk"
+  },
+  {
+    "text": "要擔心併發症嗎？",
+    "label": "risk"
+  },
+  {
+    "text": "這種情況會拖很久嗎？",
+    "label": "risk"
+  },
+  {
+    "text": "是不是很危險？",
+    "label": "risk"
+  },
+  {
+    "text": "這病要小心嗎？",
+    "label": "risk"
+  },
+  {
+    "text": "這種變化叫什麼？",
+    "label": "intro"
+  },
+  {
+    "text": "該諮詢醫療專業嗎？",
+    "label": "need_doctor"
+  },
+  {
+    "text": "會增加復發風險？",
+    "label": "risk"
+  },
+  {
+    "text": "有哪些治療選項？",
+    "label": "treatment"
+  },
+  {
+    "text": "這皮膚變化如何命名？",
+    "label": "intro"
+  },
+  {
+    "text": "能傳染給同住者嗎？",
+    "label": "contagious"
+  },
+  {
+    "text": "是否需避免群聚？",
+    "label": "contagious"
+  },
+  {
+    "text": "有無物理治療選擇？",
+    "label": "treatment"
+  },
+  {
+    "text": "這色斑代表什麼？",
+    "label": "intro"
+  },
+  {
+    "text": "這外觀學名是？",
+    "label": "intro"
+  },
+  {
+    "text": "是否需要掛皮膚科門診？",
+    "label": "need_doctor"
+  },
+  {
+    "text": "這症狀專有名稱是什麼？",
+    "label": "intro"
+  },
+  {
+    "text": "這是哪種皮膚狀況？",
+    "label": "intro"
+  },
+  {
+    "text": "這皮膚上的斑點是什麼？",
+    "label": "intro"
+  },
+  {
+    "text": "有罹患癌變風險嗎？",
+    "label": "risk"
+  },
+  {
+    "text": "建議何種消毒方式？",
+    "label": "treatment"
+  },
+  {
+    "text": "要不要去診所？",
+    "label": "need_doctor"
+  },
+  {
+    "text": "是否要到門診？",
+    "label": "need_doctor"
+  },
+  {
+    "text": "接觸後會感染嗎？",
+    "label": "contagious"
+  },
+  {
+    "text": "要不要去診療？",
+    "label": "need_doctor"
+  },
+  {
+    "text": "治療方案要怎麼做？",
+    "label": "treatment"
+  },
+  {
+    "text": "會導致併發腫瘤嗎？",
+    "label": "risk"
+  },
+  {
+    "text": "要去醫院檢查嗎？",
+    "label": "need_doctor"
+  },
+  {
+    "text": "有沒有併發症風險？",
+    "label": "risk"
+  },
+  {
+    "text": "需要立刻就醫嗎？",
+    "label": "need_doctor"
+  },
+  {
+    "text": "是否具傳染性？",
+    "label": "contagious"
+  },
+  {
+    "text": "這種情況有學名嗎？",
+    "label": "intro"
+  },
+  {
+    "text": "這種病理現象叫啥？",
+    "label": "intro"
+  },
+  {
+    "text": "此狀況是否會惡化？",
+    "label": "risk"
+  },
+  {
+    "text": "這種情況是在描述什麼？",
+    "label": "intro"
+  },
+  {
+    "text": "會藉由皮膚接觸擴散嗎？",
+    "label": "contagious"
+  },
+  {
+    "text": "推薦的治療方式有哪些？",
+    "label": "treatment"
+  },
+  {
+    "text": "我應該看皮膚科專科醫師嗎？",
+    "label": "need_doctor"
+  },
+  {
+    "text": "可由共用毛巾傳染？",
+    "label": "contagious"
+  },
+  {
+    "text": "我是否該預約醫師？",
+    "label": "need_doctor"
+  },
+  {
+    "text": "應否就診？",
+    "label": "need_doctor"
+  },
+  {
+    "text": "有造成感染風險嗎？",
+    "label": "risk"
+  },
+  {
+    "text": "該使用什麼藥物？",
+    "label": "treatment"
+  },
+  {
+    "text": "會導致水腫嗎？",
+    "label": "risk"
+  },
+  {
+    "text": "可用口服藥嗎？",
+    "label": "treatment"
+  },
+  {
+    "text": "這表徵稱為？",
+    "label": "intro"
+  },
+  {
+    "text": "是否要去看醫生？",
+    "label": "need_doctor"
+  },
+  {
+    "text": "此疾病有傳染風險嗎？",
+    "label": "contagious"
+  },
+  {
+    "text": "這是何種皮膚表現？",
+    "label": "intro"
+  },
+  {
+    "text": "要尋醫治療嗎？",
+    "label": "need_doctor"
+  },
+  {
+    "text": "有建議的醫治方式？",
+    "label": "treatment"
+  },
+  {
+    "text": "我該尋求專業醫師意見嗎？",
+    "label": "need_doctor"
+  },
+  {
+    "text": "有致畸風險嗎？",
+    "label": "risk"
+  },
+  {
+    "text": "要採取哪些處置？",
+    "label": "treatment"
+  },
+  {
+    "text": "這個現象意義為何？",
+    "label": "intro"
+  },
+  {
+    "text": "醫師會建議哪些療程？",
+    "label": "treatment"
+  },
+  {
+    "text": "要做局部治療嗎？",
+    "label": "treatment"
+  },
+  {
+    "text": "與患者近距離會感染嗎？",
+    "label": "contagious"
+  },
+  {
+    "text": "有長期影響嗎？",
+    "label": "risk"
+  },
+  {
+    "text": "這現象稱做什麼疾病？",
+    "label": "intro"
+  },
+  {
+    "text": "此症會透過接觸傳播嗎？",
+    "label": "contagious"
+  },
+  {
+    "text": "是否需限制社交？",
+    "label": "contagious"
+  },
+  {
+    "text": "這會在人與人之間散播嗎？",
+    "label": "contagious"
+  },
+  {
+    "text": "是否需自我隔離？",
+    "label": "contagious"
+  },
+  {
+    "text": "是否屬高危險類別？",
+    "label": "risk"
+  },
+  {
+    "text": "需要與人隔離嗎？",
+    "label": "contagious"
+  },
+  {
+    "text": "這情況需就醫嗎？",
+    "label": "need_doctor"
+  },
+  {
+    "text": "要進行植皮嗎？",
+    "label": "treatment"
+  },
+  {
+    "text": "會對人群造成傳播嗎？",
+    "label": "contagious"
+  },
+  {
+    "text": "能告訴我這是什麼皮膚問題嗎？",
+    "label": "intro"
+  },
+  {
+    "text": "需要安排診斷嗎？",
+    "label": "need_doctor"
+  },
+  {
+    "text": "會通過空氣傳播嗎？",
+    "label": "contagious"
+  },
+  {
+    "text": "對健康有何威脅？",
+    "label": "risk"
+  },
+  {
+    "text": "可以使用外用藥嗎？",
+    "label": "treatment"
+  },
+  {
+    "text": "應採取何種治療？",
+    "label": "treatment"
+  },
+  {
+    "text": "是否可以傳給他人？",
+    "label": "contagious"
+  },
+  {
+    "text": "是否有致命危險？",
+    "label": "risk"
+  },
+  {
+    "text": "會以飛沫方式傳染嗎？",
+    "label": "contagious"
+  },
+  {
+    "text": "會引起疼痛惡化？",
+    "label": "risk"
+  },
+  {
+    "text": "這皮損叫什麼？",
+    "label": "intro"
+  },
+  {
+    "text": "這種皮膚症狀代表什麼？",
+    "label": "intro"
+  },
+  {
+    "text": "可能造成皮膚壞死？",
+    "label": "risk"
+  },
+  {
+    "text": "可透過體液傳染嗎？",
+    "label": "contagious"
+  },
+  {
+    "text": "會需要注射嗎？",
+    "label": "treatment"
+  },
+  {
+    "text": "可能造成長期傷害？",
+    "label": "risk"
+  },
+  {
+    "text": "是否會留疤？",
+    "label": "risk"
+  },
+  {
+    "text": "是否建議就診？",
+    "label": "need_doctor"
+  },
+  {
+    "text": "可以做光療嗎？",
+    "label": "treatment"
+  },
+  {
+    "text": "會透過衣物傳播嗎？",
+    "label": "contagious"
+  },
+  {
+    "text": "需要動手術嗎？",
+    "label": "treatment"
+  },
+  {
+    "text": "需要公共場所戴口罩嗎？",
+    "label": "contagious"
+  },
+  {
+    "text": "會不會危及生命？",
+    "label": "risk"
+  },
+  {
+    "text": "要請醫生確認嗎？",
+    "label": "need_doctor"
+  },
+  {
+    "text": "需要掛號看診嗎？",
+    "label": "need_doctor"
+  },
+  {
+    "text": "會引發其他症狀嗎？",
+    "label": "risk"
+  },
+  {
+    "text": "這需要尋求醫療協助嗎？",
+    "label": "need_doctor"
+  },
+  {
+    "text": "這種疹子是什麼？",
+    "label": "intro"
+  },
+  {
+    "text": "我需不需要看醫？",
+    "label": "need_doctor"
+  },
+  {
+    "text": "這皮膚狀態有名稱嗎？",
+    "label": "intro"
+  },
+  {
+    "text": "是否影響器官功能？",
+    "label": "risk"
+  },
+  {
+    "text": "有什麼可行的療法？",
+    "label": "treatment"
+  },
+  {
+    "text": "可引發全身反應？",
+    "label": "risk"
+  },
+  {
+    "text": "最佳療法為何？",
+    "label": "treatment"
+  },
+  {
+    "text": "這外觀是什麼病？",
+    "label": "intro"
+  },
+  {
+    "text": "應用哪種藥膏？",
+    "label": "treatment"
+  }
+
+]
