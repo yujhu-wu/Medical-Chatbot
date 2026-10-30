@@ -1,0 +1,12 @@
+__pycache__/
+.venv/
+logs/
+skin_model/
+medical_chatbot_final/
+medical_chatbot_model/
+intent_classifier/intent_model/
+intent_classifier/intent_model2/
+*.pth
+*.pth.tar
+*.safetensors
+*.bin
