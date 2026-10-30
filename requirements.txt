@@ -1,0 +1,17 @@
+flask
+torch
+torchvision
+timm
+transformers
+datasets
+sentencepiece
+evaluate
+rouge_score
+jieba
+scikit-learn
+pandas
+numpy
+pillow
+opencv-python
+albumentations
+matplotlib
