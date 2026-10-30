@@ -1,0 +1,1721 @@
+input,target,original_input,disease,intent
+光化性角化病 (AKIEC) 相關問題：AKIEC 會傳播嗎？,AKIEC 並不具傳染性，請放心。,disease=AKIEC intent=contagious,AKIEC,contagious
+光化性角化病 (AKIEC) 相關問題：我的 AKIEC 會傳染嗎？,AKIEC 並不具傳染性，請放心。,disease=AKIEC intent=contagious,AKIEC,contagious
+光化性角化病 (AKIEC) 相關問題：關於 AKIEC 的傳染性問題，我需要注意什麼？,AKIEC 並不具傳染性，請放心。,disease=AKIEC intent=contagious,AKIEC,contagious
+光化性角化病 (AKIEC) 相關問題：AKIEC 會不會傳染給別人？,AKIEC 並不具傳染性，請放心。,disease=AKIEC intent=contagious,AKIEC,contagious
+光化性角化病 (AKIEC) 相關問題：AKIEC 是否有傳播的風險？,AKIEC 並不具傳染性，請放心。,disease=AKIEC intent=contagious,AKIEC,contagious
+光化性角化病 (AKIEC) 相關問題：AKIEC 會傳播嗎？,AKIEC 通常不會透過接觸傳染。,disease=AKIEC intent=contagious,AKIEC,contagious
+光化性角化病 (AKIEC) 相關問題：AKIEC 是否有傳播的風險？,AKIEC 通常不會透過接觸傳染。,disease=AKIEC intent=contagious,AKIEC,contagious
+光化性角化病 (AKIEC) 相關問題： AKIEC 會從母體傳染給胎兒嗎？,AKIEC 通常不會透過接觸傳染。,disease=AKIEC intent=contagious,AKIEC,contagious
+光化性角化病 (AKIEC) 相關問題： AKIEC 會從母體傳染給胎兒嗎？,AKIEC 通常不會透過接觸傳染。,disease=AKIEC intent=contagious,AKIEC,contagious
+光化性角化病 (AKIEC) 相關問題：AKIEC 會不會傳染給家人或朋友？,AKIEC 通常不會透過接觸傳染。,disease=AKIEC intent=contagious,AKIEC,contagious
+光化性角化病 (AKIEC) 相關問題：AKIEC 是通過什麼方式傳染的？,目前沒有證據顯示 AKIEC 會傳染。,disease=AKIEC intent=contagious,AKIEC,contagious
+光化性角化病 (AKIEC) 相關問題：AKIEC 會不會傳染給別人？,目前沒有證據顯示 AKIEC 會傳染。,disease=AKIEC intent=contagious,AKIEC,contagious
+光化性角化病 (AKIEC) 相關問題：如果我接觸了 AKIEC 患者，會被傳染嗎？,目前沒有證據顯示 AKIEC 會傳染。,disease=AKIEC intent=contagious,AKIEC,contagious
+光化性角化病 (AKIEC) 相關問題： AKIEC 傳染期是多久？,目前沒有證據顯示 AKIEC 會傳染。,disease=AKIEC intent=contagious,AKIEC,contagious
+光化性角化病 (AKIEC) 相關問題：AKIEC 是通過什麼方式傳染的？,目前沒有證據顯示 AKIEC 會傳染。,disease=AKIEC intent=contagious,AKIEC,contagious
+光化性角化病 (AKIEC) 相關問題：AKIEC 會傳染嗎？,這種病變沒有傳染性。,disease=AKIEC intent=contagious,AKIEC,contagious
+光化性角化病 (AKIEC) 相關問題：AKIEC 會不會傳染給家人或朋友？,這種病變沒有傳染性。,disease=AKIEC intent=contagious,AKIEC,contagious
+光化性角化病 (AKIEC) 相關問題：AKIEC 會通過空氣傳染嗎？,這種病變沒有傳染性。,disease=AKIEC intent=contagious,AKIEC,contagious
+光化性角化病 (AKIEC) 相關問題：AKIEC 會不會感染他人？,這種病變沒有傳染性。,disease=AKIEC intent=contagious,AKIEC,contagious
+光化性角化病 (AKIEC) 相關問題：AKIEC 會通過空氣傳染嗎？,這種病變沒有傳染性。,disease=AKIEC intent=contagious,AKIEC,contagious
+光化性角化病 (AKIEC) 相關問題：AKIEC 會不會傳染給家人或朋友？,屬於紫外線引起的病變，沒有傳染性。,disease=AKIEC intent=contagious,AKIEC,contagious
+光化性角化病 (AKIEC) 相關問題：關於 AKIEC 的傳染性問題，我需要注意什麼？,屬於紫外線引起的病變，沒有傳染性。,disease=AKIEC intent=contagious,AKIEC,contagious
+光化性角化病 (AKIEC) 相關問題：我得了 AKIEC，會不會感染其他人？,屬於紫外線引起的病變，沒有傳染性。,disease=AKIEC intent=contagious,AKIEC,contagious
+光化性角化病 (AKIEC) 相關問題：關於 AKIEC 的傳染性問題，我需要注意什麼？,屬於紫外線引起的病變，沒有傳染性。,disease=AKIEC intent=contagious,AKIEC,contagious
+光化性角化病 (AKIEC) 相關問題：AKIEC 是通過什麼方式傳染的？,屬於紫外線引起的病變，沒有傳染性。,disease=AKIEC intent=contagious,AKIEC,contagious
+光化性角化病 (AKIEC) 相關問題：如果我接觸了 AKIEC 患者，會被傳染嗎？,鱗狀細胞癌前期病變（AKIEC）不具傳染性。,disease=AKIEC intent=contagious,AKIEC,contagious
+光化性角化病 (AKIEC) 相關問題：AKIEC 具有傳染性嗎？,鱗狀細胞癌前期病變（AKIEC）不具傳染性。,disease=AKIEC intent=contagious,AKIEC,contagious
+光化性角化病 (AKIEC) 相關問題：我得了 AKIEC，會不會感染其他人？,鱗狀細胞癌前期病變（AKIEC）不具傳染性。,disease=AKIEC intent=contagious,AKIEC,contagious
+光化性角化病 (AKIEC) 相關問題：AKIEC 的傳染途徑是什麼？,鱗狀細胞癌前期病變（AKIEC）不具傳染性。,disease=AKIEC intent=contagious,AKIEC,contagious
+光化性角化病 (AKIEC) 相關問題：我得了 AKIEC，會不會感染其他人？,鱗狀細胞癌前期病變（AKIEC）不具傳染性。,disease=AKIEC intent=contagious,AKIEC,contagious
+光化性角化病 (AKIEC) 相關問題：這種 AKIEC 是傳染性的嗎？,AKIEC 不會傳染，您可以放心。,disease=AKIEC intent=contagious,AKIEC,contagious
+光化性角化病 (AKIEC) 相關問題：AKIEC 會不會交叉感染？,AKIEC 不會傳染，您可以放心。,disease=AKIEC intent=contagious,AKIEC,contagious
+光化性角化病 (AKIEC) 相關問題：AKIEC 是通過什麼方式傳染的？,AKIEC 不會傳染，您可以放心。,disease=AKIEC intent=contagious,AKIEC,contagious
+光化性角化病 (AKIEC) 相關問題：AKIEC 具有傳染性嗎？,AKIEC 不會傳染，您可以放心。,disease=AKIEC intent=contagious,AKIEC,contagious
+光化性角化病 (AKIEC) 相關問題：如果我接觸了 AKIEC 患者，會被傳染嗎？,AKIEC 不會傳染，您可以放心。,disease=AKIEC intent=contagious,AKIEC,contagious
+光化性角化病 (AKIEC) 相關問題：這種 AKIEC 是傳染性的嗎？,這種病變與傳染無關，它是紫外線長期傷害的結果。,disease=AKIEC intent=contagious,AKIEC,contagious
+光化性角化病 (AKIEC) 相關問題：AKIEC 會傳染嗎？,這種病變與傳染無關，它是紫外線長期傷害的結果。,disease=AKIEC intent=contagious,AKIEC,contagious
+光化性角化病 (AKIEC) 相關問題：AKIEC 是通過什麼方式傳染的？,這種病變與傳染無關，它是紫外線長期傷害的結果。,disease=AKIEC intent=contagious,AKIEC,contagious
+光化性角化病 (AKIEC) 相關問題：AKIEC 在什麼情況下會傳染？,這種病變與傳染無關，它是紫外線長期傷害的結果。,disease=AKIEC intent=contagious,AKIEC,contagious
+光化性角化病 (AKIEC) 相關問題：AKIEC 有無傳染性？,這種病變與傳染無關，它是紫外線長期傷害的結果。,disease=AKIEC intent=contagious,AKIEC,contagious
+光化性角化病 (AKIEC) 相關問題：AKIEC 會不會傳染給家人或朋友？,光化性角化病不具傳染性。,disease=AKIEC intent=contagious,AKIEC,contagious
+光化性角化病 (AKIEC) 相關問題： AKIEC 傳染期是多久？,光化性角化病不具傳染性。,disease=AKIEC intent=contagious,AKIEC,contagious
+光化性角化病 (AKIEC) 相關問題：怎麼預防 AKIEC 傳染？,光化性角化病不具傳染性。,disease=AKIEC intent=contagious,AKIEC,contagious
+光化性角化病 (AKIEC) 相關問題： AKIEC 會從母體傳染給胎兒嗎？,光化性角化病不具傳染性。,disease=AKIEC intent=contagious,AKIEC,contagious
+光化性角化病 (AKIEC) 相關問題：AKIEC 會不會傳染給家人或朋友？,光化性角化病不具傳染性。,disease=AKIEC intent=contagious,AKIEC,contagious
+光化性角化病 (AKIEC) 相關問題：AKIEC 是怎樣的疾病？,系統判斷這是 AKIEC，常見於皮膚表層。,disease=AKIEC intent=intro,AKIEC,intro
+光化性角化病 (AKIEC) 相關問題：AKIEC 是什麼病？,系統判斷這是 AKIEC，常見於皮膚表層。,disease=AKIEC intent=intro,AKIEC,intro
+光化性角化病 (AKIEC) 相關問題：什麼是 AKIEC？,系統判斷這是 AKIEC，常見於皮膚表層。,disease=AKIEC intent=intro,AKIEC,intro
+光化性角化病 (AKIEC) 相關問題：AKIEC 是什麼病？,系統判斷這是 AKIEC，常見於皮膚表層。,disease=AKIEC intent=intro,AKIEC,intro
+光化性角化病 (AKIEC) 相關問題：AKIEC 的定義是什麼？,系統判斷這是 AKIEC，常見於皮膚表層。,disease=AKIEC intent=intro,AKIEC,intro
+光化性角化病 (AKIEC) 相關問題：AKIEC 和其他皮膚病有什麼區別？,這種狀況被辨識為 AKIEC，通常不罕見。,disease=AKIEC intent=intro,AKIEC,intro
+光化性角化病 (AKIEC) 相關問題：AKIEC 和其他皮膚病有什麼區別？,這種狀況被辨識為 AKIEC，通常不罕見。,disease=AKIEC intent=intro,AKIEC,intro
+光化性角化病 (AKIEC) 相關問題：AKIEC 的成因是什麼？,這種狀況被辨識為 AKIEC，通常不罕見。,disease=AKIEC intent=intro,AKIEC,intro
+光化性角化病 (AKIEC) 相關問題：AKIEC 的定義是什麼？,這種狀況被辨識為 AKIEC，通常不罕見。,disease=AKIEC intent=intro,AKIEC,intro
+光化性角化病 (AKIEC) 相關問題：AKIEC 的症狀有哪些？,這種狀況被辨識為 AKIEC，通常不罕見。,disease=AKIEC intent=intro,AKIEC,intro
+光化性角化病 (AKIEC) 相關問題：AKIEC 的發病率高嗎？,AKIEC 是一種常見的皮膚病。,disease=AKIEC intent=intro,AKIEC,intro
+光化性角化病 (AKIEC) 相關問題：AKIEC 是什麼病症？,AKIEC 是一種常見的皮膚病。,disease=AKIEC intent=intro,AKIEC,intro
+光化性角化病 (AKIEC) 相關問題：AKIEC 是什麼病症？,AKIEC 是一種常見的皮膚病。,disease=AKIEC intent=intro,AKIEC,intro
+光化性角化病 (AKIEC) 相關問題：什麼是 AKIEC？,AKIEC 是一種常見的皮膚病。,disease=AKIEC intent=intro,AKIEC,intro
+光化性角化病 (AKIEC) 相關問題：AKIEC 和其他皮膚病有什麼區別？,AKIEC 是一種常見的皮膚病。,disease=AKIEC intent=intro,AKIEC,intro
+光化性角化病 (AKIEC) 相關問題： AKIEC 的臨床表現是怎樣的？,這是皮膚癌前病變，最好特別注意。,disease=AKIEC intent=intro,AKIEC,intro
+光化性角化病 (AKIEC) 相關問題：AKIEC 是一種什麼樣的皮膚狀況？,這是皮膚癌前病變，最好特別注意。,disease=AKIEC intent=intro,AKIEC,intro
+光化性角化病 (AKIEC) 相關問題：AKIEC 是一種什麼樣的皮膚狀況？,這是皮膚癌前病變，最好特別注意。,disease=AKIEC intent=intro,AKIEC,intro
+光化性角化病 (AKIEC) 相關問題：AKIEC 是什麼？,這是皮膚癌前病變，最好特別注意。,disease=AKIEC intent=intro,AKIEC,intro
+光化性角化病 (AKIEC) 相關問題：AKIEC 的發病率高嗎？,這是皮膚癌前病變，最好特別注意。,disease=AKIEC intent=intro,AKIEC,intro
+光化性角化病 (AKIEC) 相關問題：AKIEC 的發病率高嗎？,系統識別出 AKIEC，這是鱗狀細胞癌的前期病變，需要留意。,disease=AKIEC intent=intro,AKIEC,intro
+光化性角化病 (AKIEC) 相關問題：AKIEC 是一種什麼樣的皮膚狀況？,系統識別出 AKIEC，這是鱗狀細胞癌的前期病變，需要留意。,disease=AKIEC intent=intro,AKIEC,intro
+光化性角化病 (AKIEC) 相關問題：AKIEC 是什麼病？,系統識別出 AKIEC，這是鱗狀細胞癌的前期病變，需要留意。,disease=AKIEC intent=intro,AKIEC,intro
+光化性角化病 (AKIEC) 相關問題：這種 AKIEC 是怎麼形成的？,系統識別出 AKIEC，這是鱗狀細胞癌的前期病變，需要留意。,disease=AKIEC intent=intro,AKIEC,intro
+光化性角化病 (AKIEC) 相關問題：AKIEC 是一種什麼樣的皮膚狀況？,系統識別出 AKIEC，這是鱗狀細胞癌的前期病變，需要留意。,disease=AKIEC intent=intro,AKIEC,intro
+光化性角化病 (AKIEC) 相關問題：請介紹一下 AKIEC,AKIEC 是指日光性角化病，是長期紫外線曝曬引起的癌前病變。,disease=AKIEC intent=intro,AKIEC,intro
+光化性角化病 (AKIEC) 相關問題：AKIEC 通常出現在哪個部位？,AKIEC 是指日光性角化病，是長期紫外線曝曬引起的癌前病變。,disease=AKIEC intent=intro,AKIEC,intro
+光化性角化病 (AKIEC) 相關問題：AKIEC 的成因是什麼？,AKIEC 是指日光性角化病，是長期紫外線曝曬引起的癌前病變。,disease=AKIEC intent=intro,AKIEC,intro
+光化性角化病 (AKIEC) 相關問題：您可以簡要介紹一下 AKIEC 是什麼嗎？,AKIEC 是指日光性角化病，是長期紫外線曝曬引起的癌前病變。,disease=AKIEC intent=intro,AKIEC,intro
+光化性角化病 (AKIEC) 相關問題：AKIEC 的發病率高嗎？,AKIEC 是指日光性角化病，是長期紫外線曝曬引起的癌前病變。,disease=AKIEC intent=intro,AKIEC,intro
+光化性角化病 (AKIEC) 相關問題： AKIEC 有哪些亞型？,鱗狀細胞癌前期病變（AKIEC）是一種皮膚癌的早期警訊，需要積極處理。,disease=AKIEC intent=intro,AKIEC,intro
+光化性角化病 (AKIEC) 相關問題：AKIEC 是怎樣的疾病？,鱗狀細胞癌前期病變（AKIEC）是一種皮膚癌的早期警訊，需要積極處理。,disease=AKIEC intent=intro,AKIEC,intro
+光化性角化病 (AKIEC) 相關問題：這種 AKIEC 是怎麼形成的？,鱗狀細胞癌前期病變（AKIEC）是一種皮膚癌的早期警訊，需要積極處理。,disease=AKIEC intent=intro,AKIEC,intro
+光化性角化病 (AKIEC) 相關問題：AKIEC 是什麼病症？,鱗狀細胞癌前期病變（AKIEC）是一種皮膚癌的早期警訊，需要積極處理。,disease=AKIEC intent=intro,AKIEC,intro
+光化性角化病 (AKIEC) 相關問題：請介紹一下 AKIEC,鱗狀細胞癌前期病變（AKIEC）是一種皮膚癌的早期警訊，需要積極處理。,disease=AKIEC intent=intro,AKIEC,intro
+光化性角化病 (AKIEC) 相關問題：AKIEC 是什麼？,AKIEC 是一種癌前病變。,disease=AKIEC intent=intro,AKIEC,intro
+光化性角化病 (AKIEC) 相關問題：AKIEC 是什麼病症？,AKIEC 是一種癌前病變。,disease=AKIEC intent=intro,AKIEC,intro
+光化性角化病 (AKIEC) 相關問題：AKIEC 的定義是什麼？,AKIEC 是一種癌前病變。,disease=AKIEC intent=intro,AKIEC,intro
+光化性角化病 (AKIEC) 相關問題：AKIEC 是什麼病症？,AKIEC 是一種癌前病變。,disease=AKIEC intent=intro,AKIEC,intro
+光化性角化病 (AKIEC) 相關問題：AKIEC 是怎樣的疾病？,AKIEC 是一種癌前病變。,disease=AKIEC intent=intro,AKIEC,intro
+光化性角化病 (AKIEC) 相關問題：我想了解 AKIEC 這個疾病，它主要表現是什麼？,光化性角化病（AKIEC）是一種癌前病變，由長期日曬引起。,disease=AKIEC intent=intro,AKIEC,intro
+光化性角化病 (AKIEC) 相關問題：能不能給我解釋一下 AKIEC 的基本資訊？,光化性角化病（AKIEC）是一種癌前病變，由長期日曬引起。,disease=AKIEC intent=intro,AKIEC,intro
+光化性角化病 (AKIEC) 相關問題：AKIEC 的成因是什麼？,光化性角化病（AKIEC）是一種癌前病變，由長期日曬引起。,disease=AKIEC intent=intro,AKIEC,intro
+光化性角化病 (AKIEC) 相關問題：介紹一下 AKIEC。,光化性角化病（AKIEC）是一種癌前病變，由長期日曬引起。,disease=AKIEC intent=intro,AKIEC,intro
+光化性角化病 (AKIEC) 相關問題：我想了解 AKIEC 這個疾病，它主要表現是什麼？,光化性角化病（AKIEC）是一種癌前病變，由長期日曬引起。,disease=AKIEC intent=intro,AKIEC,intro
+光化性角化病 (AKIEC) 相關問題：AKIEC 是什麼病？,AKIEC 表現為粗糙、鱗狀的斑塊，是皮膚癌的前兆。,disease=AKIEC intent=intro,AKIEC,intro
+光化性角化病 (AKIEC) 相關問題：請介紹一下 AKIEC,AKIEC 表現為粗糙、鱗狀的斑塊，是皮膚癌的前兆。,disease=AKIEC intent=intro,AKIEC,intro
+光化性角化病 (AKIEC) 相關問題：AKIEC 是什麼病？,AKIEC 表現為粗糙、鱗狀的斑塊，是皮膚癌的前兆。,disease=AKIEC intent=intro,AKIEC,intro
+光化性角化病 (AKIEC) 相關問題：能不能給我解釋一下 AKIEC 的基本資訊？,AKIEC 表現為粗糙、鱗狀的斑塊，是皮膚癌的前兆。,disease=AKIEC intent=intro,AKIEC,intro
+光化性角化病 (AKIEC) 相關問題：AKIEC 是什麼？,AKIEC 表現為粗糙、鱗狀的斑塊，是皮膚癌的前兆。,disease=AKIEC intent=intro,AKIEC,intro
+光化性角化病 (AKIEC) 相關問題：我想了解 AKIEC 這個疾病，它主要表現是什麼？,光化性角化病常見於陽光曝曬部位，是鱗狀細胞癌的初期病變。,disease=AKIEC intent=intro,AKIEC,intro
+光化性角化病 (AKIEC) 相關問題：AKIEC 是一種什麼樣的皮膚狀況？,光化性角化病常見於陽光曝曬部位，是鱗狀細胞癌的初期病變。,disease=AKIEC intent=intro,AKIEC,intro
+光化性角化病 (AKIEC) 相關問題：能解釋一下 AKIEC 嗎？,光化性角化病常見於陽光曝曬部位，是鱗狀細胞癌的初期病變。,disease=AKIEC intent=intro,AKIEC,intro
+光化性角化病 (AKIEC) 相關問題： AKIEC 的臨床表現是怎樣的？,光化性角化病常見於陽光曝曬部位，是鱗狀細胞癌的初期病變。,disease=AKIEC intent=intro,AKIEC,intro
+光化性角化病 (AKIEC) 相關問題： AKIEC 的病理學特點是什麼？,光化性角化病常見於陽光曝曬部位，是鱗狀細胞癌的初期病變。,disease=AKIEC intent=intro,AKIEC,intro
+光化性角化病 (AKIEC) 相關問題：患有 AKIEC 的話，有沒有必要去醫院檢查一下？,AKIEC 建議由醫師進一步診斷。,disease=AKIEC intent=need_doctor,AKIEC,need_doctor
+光化性角化病 (AKIEC) 相關問題：如果 AKIEC 惡化了，要立即就醫嗎？,AKIEC 建議由醫師進一步診斷。,disease=AKIEC intent=need_doctor,AKIEC,need_doctor
+光化性角化病 (AKIEC) 相關問題：如果 AKIEC 惡化了，要立即就醫嗎？,AKIEC 建議由醫師進一步診斷。,disease=AKIEC intent=need_doctor,AKIEC,need_doctor
+光化性角化病 (AKIEC) 相關問題：AKIEC 需要就醫嗎？,AKIEC 建議由醫師進一步診斷。,disease=AKIEC intent=need_doctor,AKIEC,need_doctor
+光化性角化病 (AKIEC) 相關問題：我應該在什麼情況下為 AKIEC 就診？,AKIEC 建議由醫師進一步診斷。,disease=AKIEC intent=need_doctor,AKIEC,need_doctor
+光化性角化病 (AKIEC) 相關問題：得了 AKIEC 要掛什麼科？,針對 AKIEC，建議儘快就醫以確保安全。,disease=AKIEC intent=need_doctor,AKIEC,need_doctor
+光化性角化病 (AKIEC) 相關問題： AKIEC 需要做什麼檢查嗎？,針對 AKIEC，建議儘快就醫以確保安全。,disease=AKIEC intent=need_doctor,AKIEC,need_doctor
+光化性角化病 (AKIEC) 相關問題：患有 AKIEC 的話，有沒有必要去醫院檢查一下？,針對 AKIEC，建議儘快就醫以確保安全。,disease=AKIEC intent=need_doctor,AKIEC,need_doctor
+光化性角化病 (AKIEC) 相關問題：AKIEC 怎樣才需要看醫生？,針對 AKIEC，建議儘快就醫以確保安全。,disease=AKIEC intent=need_doctor,AKIEC,need_doctor
+光化性角化病 (AKIEC) 相關問題：AKIEC 怎樣才需要看醫生？,針對 AKIEC，建議儘快就醫以確保安全。,disease=AKIEC intent=need_doctor,AKIEC,need_doctor
+光化性角化病 (AKIEC) 相關問題：什麼時候我需要緊急就醫 AKIEC？,如出現擴大或破損可以立即就醫。,disease=AKIEC intent=need_doctor,AKIEC,need_doctor
+光化性角化病 (AKIEC) 相關問題：得了 AKIEC 什麼時候需要立刻去看醫生？,如出現擴大或破損可以立即就醫。,disease=AKIEC intent=need_doctor,AKIEC,need_doctor
+光化性角化病 (AKIEC) 相關問題：有 AKIEC 要看醫生嗎？,如出現擴大或破損可以立即就醫。,disease=AKIEC intent=need_doctor,AKIEC,need_doctor
+光化性角化病 (AKIEC) 相關問題：AKIEC 怎樣才需要看醫生？,如出現擴大或破損可以立即就醫。,disease=AKIEC intent=need_doctor,AKIEC,need_doctor
+光化性角化病 (AKIEC) 相關問題：AKIEC 什麼時候要就診？,如出現擴大或破損可以立即就醫。,disease=AKIEC intent=need_doctor,AKIEC,need_doctor
+光化性角化病 (AKIEC) 相關問題：得了 AKIEC 要去醫院嗎？,最好考慮安排門診進行皮膚看看。,disease=AKIEC intent=need_doctor,AKIEC,need_doctor
+光化性角化病 (AKIEC) 相關問題：AKIEC 需要看醫生嗎？,最好考慮安排門診進行皮膚看看。,disease=AKIEC intent=need_doctor,AKIEC,need_doctor
+光化性角化病 (AKIEC) 相關問題：我得了 AKIEC，去看醫生會有幫助嗎？,最好考慮安排門診進行皮膚看看。,disease=AKIEC intent=need_doctor,AKIEC,need_doctor
+光化性角化病 (AKIEC) 相關問題： AKIEC 看醫生前需要準備什麼？,最好考慮安排門診進行皮膚看看。,disease=AKIEC intent=need_doctor,AKIEC,need_doctor
+光化性角化病 (AKIEC) 相關問題：AKIEC 需要看醫生嗎？,最好考慮安排門診進行皮膚看看。,disease=AKIEC intent=need_doctor,AKIEC,need_doctor
+光化性角化病 (AKIEC) 相關問題：AKIEC 這個狀況，我應該去看哪個科別的醫生？,發現 AKIEC 後，強烈建議立即就醫評估和治療。,disease=AKIEC intent=need_doctor,AKIEC,need_doctor
+光化性角化病 (AKIEC) 相關問題：AKIEC 需要看醫生嗎？,發現 AKIEC 後，強烈建議立即就醫評估和治療。,disease=AKIEC intent=need_doctor,AKIEC,need_doctor
+光化性角化病 (AKIEC) 相關問題：AKIEC 這個狀況，我應該去看哪個科別的醫生？,發現 AKIEC 後，強烈建議立即就醫評估和治療。,disease=AKIEC intent=need_doctor,AKIEC,need_doctor
+光化性角化病 (AKIEC) 相關問題：AKIEC 需要看醫生嗎？,發現 AKIEC 後，強烈建議立即就醫評估和治療。,disease=AKIEC intent=need_doctor,AKIEC,need_doctor
+光化性角化病 (AKIEC) 相關問題：AKIEC 要不要去看醫生？,發現 AKIEC 後，強烈建議立即就醫評估和治療。,disease=AKIEC intent=need_doctor,AKIEC,need_doctor
+光化性角化病 (AKIEC) 相關問題： AKIEC 需要做什麼檢查嗎？,AKIEC 需要皮膚科醫生的專業診斷和處理，請儘早預約。,disease=AKIEC intent=need_doctor,AKIEC,need_doctor
+光化性角化病 (AKIEC) 相關問題：如果 AKIEC 惡化了，要立即就醫嗎？,AKIEC 需要皮膚科醫生的專業診斷和處理，請儘早預約。,disease=AKIEC intent=need_doctor,AKIEC,need_doctor
+光化性角化病 (AKIEC) 相關問題：AKIEC 需要就醫嗎？,AKIEC 需要皮膚科醫生的專業診斷和處理，請儘早預約。,disease=AKIEC intent=need_doctor,AKIEC,need_doctor
+光化性角化病 (AKIEC) 相關問題：患有 AKIEC 的話，有沒有必要去醫院檢查一下？,AKIEC 需要皮膚科醫生的專業診斷和處理，請儘早預約。,disease=AKIEC intent=need_doctor,AKIEC,need_doctor
+光化性角化病 (AKIEC) 相關問題：AKIEC 這個狀況，我應該去看哪個科別的醫生？,AKIEC 需要皮膚科醫生的專業診斷和處理，請儘早預約。,disease=AKIEC intent=need_doctor,AKIEC,need_doctor
+光化性角化病 (AKIEC) 相關問題：醫生會如何診斷 AKIEC？,為了避免惡化，請務必諮詢醫生，並遵循治療建議。,disease=AKIEC intent=need_doctor,AKIEC,need_doctor
+光化性角化病 (AKIEC) 相關問題：我得了 AKIEC，去看醫生會有幫助嗎？,為了避免惡化，請務必諮詢醫生，並遵循治療建議。,disease=AKIEC intent=need_doctor,AKIEC,need_doctor
+光化性角化病 (AKIEC) 相關問題： AKIEC 看醫生前需要準備什麼？,為了避免惡化，請務必諮詢醫生，並遵循治療建議。,disease=AKIEC intent=need_doctor,AKIEC,need_doctor
+光化性角化病 (AKIEC) 相關問題：醫生會如何診斷 AKIEC？,為了避免惡化，請務必諮詢醫生，並遵循治療建議。,disease=AKIEC intent=need_doctor,AKIEC,need_doctor
+光化性角化病 (AKIEC) 相關問題：什麼時候需要因為 AKIEC 去醫院？,為了避免惡化，請務必諮詢醫生，並遵循治療建議。,disease=AKIEC intent=need_doctor,AKIEC,need_doctor
+光化性角化病 (AKIEC) 相關問題：AKIEC 這個狀況，我應該去看哪個科別的醫生？,AKIEC 建議就醫評估，以防惡化。,disease=AKIEC intent=need_doctor,AKIEC,need_doctor
+光化性角化病 (AKIEC) 相關問題：得了 AKIEC 要掛什麼科？,AKIEC 建議就醫評估，以防惡化。,disease=AKIEC intent=need_doctor,AKIEC,need_doctor
+光化性角化病 (AKIEC) 相關問題： AKIEC 需要定期回診嗎？,AKIEC 建議就醫評估，以防惡化。,disease=AKIEC intent=need_doctor,AKIEC,need_doctor
+光化性角化病 (AKIEC) 相關問題：AKIEC 需要看醫生嗎？,AKIEC 建議就醫評估，以防惡化。,disease=AKIEC intent=need_doctor,AKIEC,need_doctor
+光化性角化病 (AKIEC) 相關問題： AKIEC 看醫生前需要準備什麼？,AKIEC 建議就醫評估，以防惡化。,disease=AKIEC intent=need_doctor,AKIEC,need_doctor
+光化性角化病 (AKIEC) 相關問題：AKIEC 可以自行處理嗎？,AKIEC 建議就醫評估，以防惡化為皮膚癌。,disease=AKIEC intent=need_doctor,AKIEC,need_doctor
+光化性角化病 (AKIEC) 相關問題：得了 AKIEC 什麼時候需要立刻去看醫生？,AKIEC 建議就醫評估，以防惡化為皮膚癌。,disease=AKIEC intent=need_doctor,AKIEC,need_doctor
+光化性角化病 (AKIEC) 相關問題：AKIEC 怎樣才需要看醫生？,AKIEC 建議就醫評估，以防惡化為皮膚癌。,disease=AKIEC intent=need_doctor,AKIEC,need_doctor
+光化性角化病 (AKIEC) 相關問題：得了 AKIEC 什麼時候需要立刻去看醫生？,AKIEC 建議就醫評估，以防惡化為皮膚癌。,disease=AKIEC intent=need_doctor,AKIEC,need_doctor
+光化性角化病 (AKIEC) 相關問題：得了 AKIEC 什麼時候需要立刻去看醫生？,AKIEC 建議就醫評估，以防惡化為皮膚癌。,disease=AKIEC intent=need_doctor,AKIEC,need_doctor
+光化性角化病 (AKIEC) 相關問題：得了 AKIEC 要去醫院嗎？,若發現有粗糙、紅色的日光斑塊，應諮詢皮膚科醫師。,disease=AKIEC intent=need_doctor,AKIEC,need_doctor
+光化性角化病 (AKIEC) 相關問題：醫生會如何診斷 AKIEC？,若發現有粗糙、紅色的日光斑塊，應諮詢皮膚科醫師。,disease=AKIEC intent=need_doctor,AKIEC,need_doctor
+光化性角化病 (AKIEC) 相關問題：我得了 AKIEC，去看醫生會有幫助嗎？,若發現有粗糙、紅色的日光斑塊，應諮詢皮膚科醫師。,disease=AKIEC intent=need_doctor,AKIEC,need_doctor
+光化性角化病 (AKIEC) 相關問題：醫生會如何診斷 AKIEC？,若發現有粗糙、紅色的日光斑塊，應諮詢皮膚科醫師。,disease=AKIEC intent=need_doctor,AKIEC,need_doctor
+光化性角化病 (AKIEC) 相關問題：如果我被診斷出 AKIEC，是否需要馬上就醫？,若發現有粗糙、紅色的日光斑塊，應諮詢皮膚科醫師。,disease=AKIEC intent=need_doctor,AKIEC,need_doctor
+光化性角化病 (AKIEC) 相關問題： AKIEC 看醫生前需要準備什麼？,光化性角化病建議治療，以降低惡變風險。,disease=AKIEC intent=need_doctor,AKIEC,need_doctor
+光化性角化病 (AKIEC) 相關問題：AKIEC 怎樣才需要看醫生？,光化性角化病建議治療，以降低惡變風險。,disease=AKIEC intent=need_doctor,AKIEC,need_doctor
+光化性角化病 (AKIEC) 相關問題：AKIEC 需要就醫嗎？,光化性角化病建議治療，以降低惡變風險。,disease=AKIEC intent=need_doctor,AKIEC,need_doctor
+光化性角化病 (AKIEC) 相關問題：有 AKIEC 要看醫生嗎？,光化性角化病建議治療，以降低惡變風險。,disease=AKIEC intent=need_doctor,AKIEC,need_doctor
+光化性角化病 (AKIEC) 相關問題：AKIEC 這個狀況，我應該去看哪個科別的醫生？,光化性角化病建議治療，以降低惡變風險。,disease=AKIEC intent=need_doctor,AKIEC,need_doctor
+光化性角化病 (AKIEC) 相關問題：AKIEC 有什麼潛在問題？,AKIEC 有機率癌變，請提高警覺。,disease=AKIEC intent=risk,AKIEC,risk
+光化性角化病 (AKIEC) 相關問題：AKIEC 會惡化嗎？,AKIEC 有機率癌變，請提高警覺。,disease=AKIEC intent=risk,AKIEC,risk
+光化性角化病 (AKIEC) 相關問題：AKIEC 的危險性高嗎？,AKIEC 有機率癌變，請提高警覺。,disease=AKIEC intent=risk,AKIEC,risk
+光化性角化病 (AKIEC) 相關問題：AKIEC 會有併發症嗎？,AKIEC 有機率癌變，請提高警覺。,disease=AKIEC intent=risk,AKIEC,risk
+光化性角化病 (AKIEC) 相關問題：AKIEC 有哪些潛在的健康風險或併發症？,AKIEC 有機率癌變，請提高警覺。,disease=AKIEC intent=risk,AKIEC,risk
+光化性角化病 (AKIEC) 相關問題：AKIEC 會對身體造成什麼影響？,AKIEC 有可能惡化，建議定期追蹤。,disease=AKIEC intent=risk,AKIEC,risk
+光化性角化病 (AKIEC) 相關問題：AKIEC 有什麼風險？,AKIEC 有可能惡化，建議定期追蹤。,disease=AKIEC intent=risk,AKIEC,risk
+光化性角化病 (AKIEC) 相關問題：AKIEC 會有併發症嗎？,AKIEC 有可能惡化，建議定期追蹤。,disease=AKIEC intent=risk,AKIEC,risk
+光化性角化病 (AKIEC) 相關問題：AKIEC 會對身體造成什麼影響？,AKIEC 有可能惡化，建議定期追蹤。,disease=AKIEC intent=risk,AKIEC,risk
+光化性角化病 (AKIEC) 相關問題：AKIEC 的長期預後如何？會不會有危險？,AKIEC 有可能惡化，建議定期追蹤。,disease=AKIEC intent=risk,AKIEC,risk
+光化性角化病 (AKIEC) 相關問題：AKIEC 會變嚴重嗎？,這種病變（AKIEC）需留意變化與風險。,disease=AKIEC intent=risk,AKIEC,risk
+光化性角化病 (AKIEC) 相關問題：有哪些情況下 AKIEC 會變得更嚴重？,這種病變（AKIEC）需留意變化與風險。,disease=AKIEC intent=risk,AKIEC,risk
+光化性角化病 (AKIEC) 相關問題：AKIEC 會惡化嗎？,這種病變（AKIEC）需留意變化與風險。,disease=AKIEC intent=risk,AKIEC,risk
+光化性角化病 (AKIEC) 相關問題：AKIEC 會變嚴重嗎？,這種病變（AKIEC）需留意變化與風險。,disease=AKIEC intent=risk,AKIEC,risk
+光化性角化病 (AKIEC) 相關問題：AKIEC 會變嚴重嗎？,這種病變（AKIEC）需留意變化與風險。,disease=AKIEC intent=risk,AKIEC,risk
+光化性角化病 (AKIEC) 相關問題：AKIEC 會有併發症嗎？,AKIEC 有演變為鱗狀細胞癌的潛在風險，因此建議積極處理。,disease=AKIEC intent=risk,AKIEC,risk
+光化性角化病 (AKIEC) 相關問題：AKIEC 和其他疾病有相關性嗎？,AKIEC 有演變為鱗狀細胞癌的潛在風險，因此建議積極處理。,disease=AKIEC intent=risk,AKIEC,risk
+光化性角化病 (AKIEC) 相關問題： AKIEC 有什麼長期後遺症嗎？,AKIEC 有演變為鱗狀細胞癌的潛在風險，因此建議積極處理。,disease=AKIEC intent=risk,AKIEC,risk
+光化性角化病 (AKIEC) 相關問題：如果我患有 AKIEC，需要警惕哪些風險？,AKIEC 有演變為鱗狀細胞癌的潛在風險，因此建議積極處理。,disease=AKIEC intent=risk,AKIEC,risk
+光化性角化病 (AKIEC) 相關問題：有哪些情況下 AKIEC 會變得更嚴重？,AKIEC 有演變為鱗狀細胞癌的潛在風險，因此建議積極處理。,disease=AKIEC intent=risk,AKIEC,risk
+光化性角化病 (AKIEC) 相關問題：AKIEC 會不會留下疤痕？,這種癌前病變如果沒有及時處理，有機會進展為侵襲性皮膚癌。,disease=AKIEC intent=risk,AKIEC,risk
+光化性角化病 (AKIEC) 相關問題：AKIEC 會有併發症嗎？,這種癌前病變如果沒有及時處理，有機會進展為侵襲性皮膚癌。,disease=AKIEC intent=risk,AKIEC,risk
+光化性角化病 (AKIEC) 相關問題：AKIEC 有哪些潛在的健康風險或併發症？,這種癌前病變如果沒有及時處理，有機會進展為侵襲性皮膚癌。,disease=AKIEC intent=risk,AKIEC,risk
+光化性角化病 (AKIEC) 相關問題：AKIEC 會不會惡化成更嚴重的疾病？,這種癌前病變如果沒有及時處理，有機會進展為侵襲性皮膚癌。,disease=AKIEC intent=risk,AKIEC,risk
+光化性角化病 (AKIEC) 相關問題：得了 AKIEC 會有哪些不好的影響？,這種癌前病變如果沒有及時處理，有機會進展為侵襲性皮膚癌。,disease=AKIEC intent=risk,AKIEC,risk
+光化性角化病 (AKIEC) 相關問題：AKIEC 有哪些潛在的健康風險或併發症？,AKIEC 雖然是癌前病變，但並非所有病灶都會惡化，但仍需高度警惕。,disease=AKIEC intent=risk,AKIEC,risk
+光化性角化病 (AKIEC) 相關問題：AKIEC 有什麼潛在問題？,AKIEC 雖然是癌前病變，但並非所有病灶都會惡化，但仍需高度警惕。,disease=AKIEC intent=risk,AKIEC,risk
+光化性角化病 (AKIEC) 相關問題：AKIEC 和其他疾病有相關性嗎？,AKIEC 雖然是癌前病變，但並非所有病灶都會惡化，但仍需高度警惕。,disease=AKIEC intent=risk,AKIEC,risk
+光化性角化病 (AKIEC) 相關問題：患有 AKIEC 需要擔心癌變嗎？,AKIEC 雖然是癌前病變，但並非所有病灶都會惡化，但仍需高度警惕。,disease=AKIEC intent=risk,AKIEC,risk
+光化性角化病 (AKIEC) 相關問題：AKIEC 有哪些潛在的健康風險或併發症？,AKIEC 雖然是癌前病變，但並非所有病灶都會惡化，但仍需高度警惕。,disease=AKIEC intent=risk,AKIEC,risk
+光化性角化病 (AKIEC) 相關問題：如果我患有 AKIEC，需要警惕哪些風險？,AKIEC 有惡性轉變的風險，應積極處理。,disease=AKIEC intent=risk,AKIEC,risk
+光化性角化病 (AKIEC) 相關問題：AKIEC 有什麼風險？,AKIEC 有惡性轉變的風險，應積極處理。,disease=AKIEC intent=risk,AKIEC,risk
+光化性角化病 (AKIEC) 相關問題：如果我患有 AKIEC，需要警惕哪些風險？,AKIEC 有惡性轉變的風險，應積極處理。,disease=AKIEC intent=risk,AKIEC,risk
+光化性角化病 (AKIEC) 相關問題： AKIEC 的致死率高嗎？,AKIEC 有惡性轉變的風險，應積極處理。,disease=AKIEC intent=risk,AKIEC,risk
+光化性角化病 (AKIEC) 相關問題：有哪些情況下 AKIEC 會變得更嚴重？,AKIEC 有惡性轉變的風險，應積極處理。,disease=AKIEC intent=risk,AKIEC,risk
+光化性角化病 (AKIEC) 相關問題：AKIEC 會不會惡化成更嚴重的疾病？,AKIEC 有發展成鱗狀細胞癌的風險。,disease=AKIEC intent=risk,AKIEC,risk
+光化性角化病 (AKIEC) 相關問題： AKIEC 的復發機率大嗎？,AKIEC 有發展成鱗狀細胞癌的風險。,disease=AKIEC intent=risk,AKIEC,risk
+光化性角化病 (AKIEC) 相關問題：AKIEC 會不會留下疤痕？,AKIEC 有發展成鱗狀細胞癌的風險。,disease=AKIEC intent=risk,AKIEC,risk
+光化性角化病 (AKIEC) 相關問題：AKIEC 會不會危及生命？,AKIEC 有發展成鱗狀細胞癌的風險。,disease=AKIEC intent=risk,AKIEC,risk
+光化性角化病 (AKIEC) 相關問題：AKIEC 的長期預後如何？會不會有危險？,AKIEC 有發展成鱗狀細胞癌的風險。,disease=AKIEC intent=risk,AKIEC,risk
+光化性角化病 (AKIEC) 相關問題：AKIEC 有什麼潛在問題？,光化性角化病若不處理，約有 5-10% 的機率轉變為惡性。,disease=AKIEC intent=risk,AKIEC,risk
+光化性角化病 (AKIEC) 相關問題：得了 AKIEC 會有哪些不好的影響？,光化性角化病若不處理，約有 5-10% 的機率轉變為惡性。,disease=AKIEC intent=risk,AKIEC,risk
+光化性角化病 (AKIEC) 相關問題：AKIEC 會不會惡化成更嚴重的疾病？,光化性角化病若不處理，約有 5-10% 的機率轉變為惡性。,disease=AKIEC intent=risk,AKIEC,risk
+光化性角化病 (AKIEC) 相關問題： AKIEC 有什麼長期後遺症嗎？,光化性角化病若不處理，約有 5-10% 的機率轉變為惡性。,disease=AKIEC intent=risk,AKIEC,risk
+光化性角化病 (AKIEC) 相關問題：有哪些情況下 AKIEC 會變得更嚴重？,光化性角化病若不處理，約有 5-10% 的機率轉變為惡性。,disease=AKIEC intent=risk,AKIEC,risk
+光化性角化病 (AKIEC) 相關問題：AKIEC 會不會惡化成更嚴重的疾病？,AKIEC 的風險在於其癌前性質，需定期檢查和治療。,disease=AKIEC intent=risk,AKIEC,risk
+光化性角化病 (AKIEC) 相關問題：得了 AKIEC 會有哪些不好的影響？,AKIEC 的風險在於其癌前性質，需定期檢查和治療。,disease=AKIEC intent=risk,AKIEC,risk
+光化性角化病 (AKIEC) 相關問題：AKIEC 會不會惡化成更嚴重的疾病？,AKIEC 的風險在於其癌前性質，需定期檢查和治療。,disease=AKIEC intent=risk,AKIEC,risk
+光化性角化病 (AKIEC) 相關問題： AKIEC 的致死率高嗎？,AKIEC 的風險在於其癌前性質，需定期檢查和治療。,disease=AKIEC intent=risk,AKIEC,risk
+光化性角化病 (AKIEC) 相關問題： AKIEC 有什麼長期後遺症嗎？,AKIEC 的風險在於其癌前性質，需定期檢查和治療。,disease=AKIEC intent=risk,AKIEC,risk
+光化性角化病 (AKIEC) 相關問題：有什麼方法可以緩解 AKIEC 的症狀？,AKIEC 可透過冷凍、藥膏或雷射等方式治療。,disease=AKIEC intent=treatment,AKIEC,treatment
+光化性角化病 (AKIEC) 相關問題：AKIEC 的治療方法是什麼？,AKIEC 可透過冷凍、藥膏或雷射等方式治療。,disease=AKIEC intent=treatment,AKIEC,treatment
+光化性角化病 (AKIEC) 相關問題：針對 AKIEC 這個病，建議採取什麼治療方案呢？,AKIEC 可透過冷凍、藥膏或雷射等方式治療。,disease=AKIEC intent=treatment,AKIEC,treatment
+光化性角化病 (AKIEC) 相關問題：治療 AKIEC 的最新方法是什麼？,AKIEC 可透過冷凍、藥膏或雷射等方式治療。,disease=AKIEC intent=treatment,AKIEC,treatment
+光化性角化病 (AKIEC) 相關問題：AKIEC 的居家護理方法有哪些？,AKIEC 可透過冷凍、藥膏或雷射等方式治療。,disease=AKIEC intent=treatment,AKIEC,treatment
+光化性角化病 (AKIEC) 相關問題：AKIEC 有沒有什麼藥物或手術可以處理？,AKIEC 建議依醫師建議進行個別化治療。,disease=AKIEC intent=treatment,AKIEC,treatment
+光化性角化病 (AKIEC) 相關問題：治療 AKIEC 的成功率大概是多少？,AKIEC 建議依醫師建議進行個別化治療。,disease=AKIEC intent=treatment,AKIEC,treatment
+光化性角化病 (AKIEC) 相關問題：我適合哪種 AKIEC 的治療方式？,AKIEC 建議依醫師建議進行個別化治療。,disease=AKIEC intent=treatment,AKIEC,treatment
+光化性角化病 (AKIEC) 相關問題： AKIEC 治療期間有什麼需要注意的嗎？,AKIEC 建議依醫師建議進行個別化治療。,disease=AKIEC intent=treatment,AKIEC,treatment
+光化性角化病 (AKIEC) 相關問題：我適合哪種 AKIEC 的治療方式？,AKIEC 建議依醫師建議進行個別化治療。,disease=AKIEC intent=treatment,AKIEC,treatment
+光化性角化病 (AKIEC) 相關問題：我適合哪種 AKIEC 的治療方式？,根據嚴重程度，AKIEC 可接受藥物或物理治療。,disease=AKIEC intent=treatment,AKIEC,treatment
+光化性角化病 (AKIEC) 相關問題：AKIEC 如何處理？,根據嚴重程度，AKIEC 可接受藥物或物理治療。,disease=AKIEC intent=treatment,AKIEC,treatment
+光化性角化病 (AKIEC) 相關問題：AKIEC 可以怎麼治療？,根據嚴重程度，AKIEC 可接受藥物或物理治療。,disease=AKIEC intent=treatment,AKIEC,treatment
+光化性角化病 (AKIEC) 相關問題：AKIEC 如何處理？,根據嚴重程度，AKIEC 可接受藥物或物理治療。,disease=AKIEC intent=treatment,AKIEC,treatment
+光化性角化病 (AKIEC) 相關問題：治療 AKIEC 的成功率大概是多少？,根據嚴重程度，AKIEC 可接受藥物或物理治療。,disease=AKIEC intent=treatment,AKIEC,treatment
+光化性角化病 (AKIEC) 相關問題：AKIEC 有沒有什麼藥物或手術可以處理？,醫師會判斷是否得要切除或觀察。,disease=AKIEC intent=treatment,AKIEC,treatment
+光化性角化病 (AKIEC) 相關問題：AKIEC 如何處理？,醫師會判斷是否得要切除或觀察。,disease=AKIEC intent=treatment,AKIEC,treatment
+光化性角化病 (AKIEC) 相關問題：AKIEC 可以怎麼治療？,醫師會判斷是否得要切除或觀察。,disease=AKIEC intent=treatment,AKIEC,treatment
+光化性角化病 (AKIEC) 相關問題：針對 AKIEC 有沒有非手術的治療選項？,醫師會判斷是否得要切除或觀察。,disease=AKIEC intent=treatment,AKIEC,treatment
+光化性角化病 (AKIEC) 相關問題：AKIEC 的治療費用高嗎？,醫師會判斷是否得要切除或觀察。,disease=AKIEC intent=treatment,AKIEC,treatment
+光化性角化病 (AKIEC) 相關問題：AKIEC 有沒有什麼藥物或手術可以處理？,可選擇冷凍治療、外用藥膏或切除。,disease=AKIEC intent=treatment,AKIEC,treatment
+光化性角化病 (AKIEC) 相關問題：AKIEC 要怎麼治療？,可選擇冷凍治療、外用藥膏或切除。,disease=AKIEC intent=treatment,AKIEC,treatment
+光化性角化病 (AKIEC) 相關問題：請問 AKIEC 要怎麼治療比較好？,可選擇冷凍治療、外用藥膏或切除。,disease=AKIEC intent=treatment,AKIEC,treatment
+光化性角化病 (AKIEC) 相關問題：AKIEC 的治療方案有哪些？,可選擇冷凍治療、外用藥膏或切除。,disease=AKIEC intent=treatment,AKIEC,treatment
+光化性角化病 (AKIEC) 相關問題：針對 AKIEC，醫生通常會建議什麼治療？,可選擇冷凍治療、外用藥膏或切除。,disease=AKIEC intent=treatment,AKIEC,treatment
+光化性角化病 (AKIEC) 相關問題：AKIEC 的治療費用高嗎？,依照病變程度採局部處理。,disease=AKIEC intent=treatment,AKIEC,treatment
+光化性角化病 (AKIEC) 相關問題：有什麼方法可以緩解 AKIEC 的症狀？,依照病變程度採局部處理。,disease=AKIEC intent=treatment,AKIEC,treatment
+光化性角化病 (AKIEC) 相關問題：我得了 AKIEC，該怎麼辦？,依照病變程度採局部處理。,disease=AKIEC intent=treatment,AKIEC,treatment
+光化性角化病 (AKIEC) 相關問題：AKIEC 可以不用治療嗎？,依照病變程度採局部處理。,disease=AKIEC intent=treatment,AKIEC,treatment
+光化性角化病 (AKIEC) 相關問題：針對 AKIEC，醫生通常會建議什麼治療？,依照病變程度採局部處理。,disease=AKIEC intent=treatment,AKIEC,treatment
+光化性角化病 (AKIEC) 相關問題：我該如何治療 AKIEC？,AKIEC 的治療包括冷凍治療、外用藥膏、光動力療法或刮除術。,disease=AKIEC intent=treatment,AKIEC,treatment
+光化性角化病 (AKIEC) 相關問題：治療 AKIEC 的最新方法是什麼？,AKIEC 的治療包括冷凍治療、外用藥膏、光動力療法或刮除術。,disease=AKIEC intent=treatment,AKIEC,treatment
+光化性角化病 (AKIEC) 相關問題：AKIEC 可以怎麼治療？,AKIEC 的治療包括冷凍治療、外用藥膏、光動力療法或刮除術。,disease=AKIEC intent=treatment,AKIEC,treatment
+光化性角化病 (AKIEC) 相關問題：AKIEC 有沒有什麼藥物或手術可以處理？,AKIEC 的治療包括冷凍治療、外用藥膏、光動力療法或刮除術。,disease=AKIEC intent=treatment,AKIEC,treatment
+光化性角化病 (AKIEC) 相關問題：我得了 AKIEC，該怎麼辦？,AKIEC 的治療包括冷凍治療、外用藥膏、光動力療法或刮除術。,disease=AKIEC intent=treatment,AKIEC,treatment
+光化性角化病 (AKIEC) 相關問題：有什麼方法可以緩解 AKIEC 的症狀？,針對 AKIEC，醫師可能會建議使用外用藥物或進行局部破壞性治療。,disease=AKIEC intent=treatment,AKIEC,treatment
+光化性角化病 (AKIEC) 相關問題：AKIEC 可以不用治療嗎？,針對 AKIEC，醫師可能會建議使用外用藥物或進行局部破壞性治療。,disease=AKIEC intent=treatment,AKIEC,treatment
+光化性角化病 (AKIEC) 相關問題：如果我被診斷出 AKIEC，下一步該怎麼辦？,針對 AKIEC，醫師可能會建議使用外用藥物或進行局部破壞性治療。,disease=AKIEC intent=treatment,AKIEC,treatment
+光化性角化病 (AKIEC) 相關問題：請問 AKIEC 要怎麼治療比較好？,針對 AKIEC，醫師可能會建議使用外用藥物或進行局部破壞性治療。,disease=AKIEC intent=treatment,AKIEC,treatment
+光化性角化病 (AKIEC) 相關問題：AKIEC 的治療方法是什麼？,針對 AKIEC，醫師可能會建議使用外用藥物或進行局部破壞性治療。,disease=AKIEC intent=treatment,AKIEC,treatment
+光化性角化病 (AKIEC) 相關問題：針對 AKIEC，醫生通常會建議什麼治療？,處理 AKIEC 的方式多樣，醫師會依據病灶特性選擇最適合的治療方案。,disease=AKIEC intent=treatment,AKIEC,treatment
+光化性角化病 (AKIEC) 相關問題：AKIEC 可以不用治療嗎？,處理 AKIEC 的方式多樣，醫師會依據病灶特性選擇最適合的治療方案。,disease=AKIEC intent=treatment,AKIEC,treatment
+光化性角化病 (AKIEC) 相關問題：AKIEC 如何處理？,處理 AKIEC 的方式多樣，醫師會依據病灶特性選擇最適合的治療方案。,disease=AKIEC intent=treatment,AKIEC,treatment
+光化性角化病 (AKIEC) 相關問題：我得了 AKIEC，該怎麼辦？,處理 AKIEC 的方式多樣，醫師會依據病灶特性選擇最適合的治療方案。,disease=AKIEC intent=treatment,AKIEC,treatment
+光化性角化病 (AKIEC) 相關問題：如果我被診斷出 AKIEC，下一步該怎麼辦？,處理 AKIEC 的方式多樣，醫師會依據病灶特性選擇最適合的治療方案。,disease=AKIEC intent=treatment,AKIEC,treatment
+光化性角化病 (AKIEC) 相關問題：請問 AKIEC 要如何治療？,AKIEC 可用冷凍治療、外用藥膏或光動力療法。,disease=AKIEC intent=treatment,AKIEC,treatment
+光化性角化病 (AKIEC) 相關問題：得了 AKIEC 的話，有哪些治療方法可以選擇？,AKIEC 可用冷凍治療、外用藥膏或光動力療法。,disease=AKIEC intent=treatment,AKIEC,treatment
+光化性角化病 (AKIEC) 相關問題：AKIEC 可以不用治療嗎？,AKIEC 可用冷凍治療、外用藥膏或光動力療法。,disease=AKIEC intent=treatment,AKIEC,treatment
+光化性角化病 (AKIEC) 相關問題：如果我被診斷出 AKIEC，下一步該怎麼辦？,AKIEC 可用冷凍治療、外用藥膏或光動力療法。,disease=AKIEC intent=treatment,AKIEC,treatment
+光化性角化病 (AKIEC) 相關問題：針對 AKIEC 有沒有非手術的治療選項？,AKIEC 可用冷凍治療、外用藥膏或光動力療法。,disease=AKIEC intent=treatment,AKIEC,treatment
+光化性角化病 (AKIEC) 相關問題：治療 AKIEC 的成功率大概是多少？,治療 AKIEC 的方法包括冷凍、刮除或局部藥物。,disease=AKIEC intent=treatment,AKIEC,treatment
+光化性角化病 (AKIEC) 相關問題：請問 AKIEC 要怎麼治療比較好？,治療 AKIEC 的方法包括冷凍、刮除或局部藥物。,disease=AKIEC intent=treatment,AKIEC,treatment
+光化性角化病 (AKIEC) 相關問題：AKIEC 可以不用治療嗎？,治療 AKIEC 的方法包括冷凍、刮除或局部藥物。,disease=AKIEC intent=treatment,AKIEC,treatment
+光化性角化病 (AKIEC) 相關問題：針對 AKIEC 有沒有非手術的治療選項？,治療 AKIEC 的方法包括冷凍、刮除或局部藥物。,disease=AKIEC intent=treatment,AKIEC,treatment
+光化性角化病 (AKIEC) 相關問題： AKIEC 的中醫治療方法是什麼？,治療 AKIEC 的方法包括冷凍、刮除或局部藥物。,disease=AKIEC intent=treatment,AKIEC,treatment
+光化性角化病 (AKIEC) 相關問題：AKIEC 要怎麼治療？,對於光化性角化病，醫師會依病灶大小和數量選擇治療。,disease=AKIEC intent=treatment,AKIEC,treatment
+光化性角化病 (AKIEC) 相關問題：針對 AKIEC 這個病，建議採取什麼治療方案呢？,對於光化性角化病，醫師會依病灶大小和數量選擇治療。,disease=AKIEC intent=treatment,AKIEC,treatment
+光化性角化病 (AKIEC) 相關問題：AKIEC 的居家護理方法有哪些？,對於光化性角化病，醫師會依病灶大小和數量選擇治療。,disease=AKIEC intent=treatment,AKIEC,treatment
+光化性角化病 (AKIEC) 相關問題：我得了 AKIEC，該怎麼辦？,對於光化性角化病，醫師會依病灶大小和數量選擇治療。,disease=AKIEC intent=treatment,AKIEC,treatment
+光化性角化病 (AKIEC) 相關問題：針對 AKIEC，醫生通常會建議什麼治療？,對於光化性角化病，醫師會依病灶大小和數量選擇治療。,disease=AKIEC intent=treatment,AKIEC,treatment
+基底細胞癌 (BCC) 相關問題：BCC 是通過什麼方式傳染的？,BCC 通常不會透過接觸傳染。,disease=BCC intent=contagious,BCC,contagious
+基底細胞癌 (BCC) 相關問題：BCC 有無傳染性？,BCC 通常不會透過接觸傳染。,disease=BCC intent=contagious,BCC,contagious
+基底細胞癌 (BCC) 相關問題：BCC 會不會傳染給家人或朋友？,BCC 通常不會透過接觸傳染。,disease=BCC intent=contagious,BCC,contagious
+基底細胞癌 (BCC) 相關問題： BCC 傳染期是多久？,BCC 通常不會透過接觸傳染。,disease=BCC intent=contagious,BCC,contagious
+基底細胞癌 (BCC) 相關問題：BCC 會不會交叉感染？,BCC 通常不會透過接觸傳染。,disease=BCC intent=contagious,BCC,contagious
+基底細胞癌 (BCC) 相關問題：關於 BCC 的傳染性問題，我需要注意什麼？,BCC 並不具傳染性，請放心。,disease=BCC intent=contagious,BCC,contagious
+基底細胞癌 (BCC) 相關問題：BCC 在什麼情況下會傳染？,BCC 並不具傳染性，請放心。,disease=BCC intent=contagious,BCC,contagious
+基底細胞癌 (BCC) 相關問題：如果我接觸了 BCC 患者，會被傳染嗎？,BCC 並不具傳染性，請放心。,disease=BCC intent=contagious,BCC,contagious
+基底細胞癌 (BCC) 相關問題：BCC 有無傳染性？,BCC 並不具傳染性，請放心。,disease=BCC intent=contagious,BCC,contagious
+基底細胞癌 (BCC) 相關問題： BCC 會從母體傳染給胎兒嗎？,BCC 並不具傳染性，請放心。,disease=BCC intent=contagious,BCC,contagious
+基底細胞癌 (BCC) 相關問題：BCC 的傳染途徑是什麼？,此病（BCC）不會傳染給他人。,disease=BCC intent=contagious,BCC,contagious
+基底細胞癌 (BCC) 相關問題：BCC 會不會傳染給別人？,此病（BCC）不會傳染給他人。,disease=BCC intent=contagious,BCC,contagious
+基底細胞癌 (BCC) 相關問題：BCC 會通過血液傳染嗎？,此病（BCC）不會傳染給他人。,disease=BCC intent=contagious,BCC,contagious
+基底細胞癌 (BCC) 相關問題：BCC 是由接觸傳播的嗎？,此病（BCC）不會傳染給他人。,disease=BCC intent=contagious,BCC,contagious
+基底細胞癌 (BCC) 相關問題：BCC 會不會傳染給別人？,此病（BCC）不會傳染給他人。,disease=BCC intent=contagious,BCC,contagious
+基底細胞癌 (BCC) 相關問題：關於 BCC 的傳染性問題，我需要注意什麼？,基底細胞癌不是由病毒引起的。,disease=BCC intent=contagious,BCC,contagious
+基底細胞癌 (BCC) 相關問題：怎麼預防 BCC 傳染？,基底細胞癌不是由病毒引起的。,disease=BCC intent=contagious,BCC,contagious
+基底細胞癌 (BCC) 相關問題：BCC 會通過空氣傳染嗎？,基底細胞癌不是由病毒引起的。,disease=BCC intent=contagious,BCC,contagious
+基底細胞癌 (BCC) 相關問題： BCC 傳染期是多久？,基底細胞癌不是由病毒引起的。,disease=BCC intent=contagious,BCC,contagious
+基底細胞癌 (BCC) 相關問題：BCC 會不會傳染給家人或朋友？,基底細胞癌不是由病毒引起的。,disease=BCC intent=contagious,BCC,contagious
+基底細胞癌 (BCC) 相關問題： BCC 會從母體傳染給胎兒嗎？,這種癌症沒有傳染性。,disease=BCC intent=contagious,BCC,contagious
+基底細胞癌 (BCC) 相關問題：BCC 會不會傳染給別人？,這種癌症沒有傳染性。,disease=BCC intent=contagious,BCC,contagious
+基底細胞癌 (BCC) 相關問題：BCC 的傳染途徑是什麼？,這種癌症沒有傳染性。,disease=BCC intent=contagious,BCC,contagious
+基底細胞癌 (BCC) 相關問題：如果我接觸了 BCC 患者，會被傳染嗎？,這種癌症沒有傳染性。,disease=BCC intent=contagious,BCC,contagious
+基底細胞癌 (BCC) 相關問題：關於 BCC 的傳染性問題，我需要注意什麼？,這種癌症沒有傳染性。,disease=BCC intent=contagious,BCC,contagious
+基底細胞癌 (BCC) 相關問題：BCC 的傳染途徑是什麼？,可安心與他人互動，沒有傳染性。。,disease=BCC intent=contagious,BCC,contagious
+基底細胞癌 (BCC) 相關問題： BCC 傳染期是多久？,可安心與他人互動，沒有傳染性。。,disease=BCC intent=contagious,BCC,contagious
+基底細胞癌 (BCC) 相關問題：我得了 BCC，會不會感染其他人？,可安心與他人互動，沒有傳染性。。,disease=BCC intent=contagious,BCC,contagious
+基底細胞癌 (BCC) 相關問題：寵物會把 BCC 傳染給我嗎？,可安心與他人互動，沒有傳染性。。,disease=BCC intent=contagious,BCC,contagious
+基底細胞癌 (BCC) 相關問題：BCC 會通過空氣傳染嗎？,可安心與他人互動，沒有傳染性。。,disease=BCC intent=contagious,BCC,contagious
+基底細胞癌 (BCC) 相關問題：BCC 的傳染途徑是什麼？,基底細胞癌（BCC）不具傳染性，它不是由病毒或細菌引起的。,disease=BCC intent=contagious,BCC,contagious
+基底細胞癌 (BCC) 相關問題：怎麼預防 BCC 傳染？,基底細胞癌（BCC）不具傳染性，它不是由病毒或細菌引起的。,disease=BCC intent=contagious,BCC,contagious
+基底細胞癌 (BCC) 相關問題：BCC 是通過什麼方式傳染的？,基底細胞癌（BCC）不具傳染性，它不是由病毒或細菌引起的。,disease=BCC intent=contagious,BCC,contagious
+基底細胞癌 (BCC) 相關問題：BCC 會傳播嗎？,基底細胞癌（BCC）不具傳染性，它不是由病毒或細菌引起的。,disease=BCC intent=contagious,BCC,contagious
+基底細胞癌 (BCC) 相關問題：BCC 會傳播嗎？,基底細胞癌（BCC）不具傳染性，它不是由病毒或細菌引起的。,disease=BCC intent=contagious,BCC,contagious
+基底細胞癌 (BCC) 相關問題：BCC 會傳染嗎？,您不需要擔心基底細胞癌會傳染給家人或朋友。,disease=BCC intent=contagious,BCC,contagious
+基底細胞癌 (BCC) 相關問題：BCC 是否有傳播的風險？,您不需要擔心基底細胞癌會傳染給家人或朋友。,disease=BCC intent=contagious,BCC,contagious
+基底細胞癌 (BCC) 相關問題：這種 BCC 是傳染性的嗎？,您不需要擔心基底細胞癌會傳染給家人或朋友。,disease=BCC intent=contagious,BCC,contagious
+基底細胞癌 (BCC) 相關問題： BCC 傳染期是多久？,您不需要擔心基底細胞癌會傳染給家人或朋友。,disease=BCC intent=contagious,BCC,contagious
+基底細胞癌 (BCC) 相關問題：BCC 會通過血液傳染嗎？,您不需要擔心基底細胞癌會傳染給家人或朋友。,disease=BCC intent=contagious,BCC,contagious
+基底細胞癌 (BCC) 相關問題：BCC 具有傳染性嗎？,BCC 是一種皮膚癌，但它不會透過接觸或任何方式傳染。,disease=BCC intent=contagious,BCC,contagious
+基底細胞癌 (BCC) 相關問題：這種 BCC 是傳染性的嗎？,BCC 是一種皮膚癌，但它不會透過接觸或任何方式傳染。,disease=BCC intent=contagious,BCC,contagious
+基底細胞癌 (BCC) 相關問題： BCC 傳染期是多久？,BCC 是一種皮膚癌，但它不會透過接觸或任何方式傳染。,disease=BCC intent=contagious,BCC,contagious
+基底細胞癌 (BCC) 相關問題：BCC 在什麼情況下會傳染？,BCC 是一種皮膚癌，但它不會透過接觸或任何方式傳染。,disease=BCC intent=contagious,BCC,contagious
+基底細胞癌 (BCC) 相關問題：怎麼預防 BCC 傳染？,BCC 是一種皮膚癌，但它不會透過接觸或任何方式傳染。,disease=BCC intent=contagious,BCC,contagious
+基底細胞癌 (BCC) 相關問題：BCC 會傳染嗎？,基底細胞癌不會傳染。,disease=BCC intent=contagious,BCC,contagious
+基底細胞癌 (BCC) 相關問題：這種 BCC 是傳染性的嗎？,基底細胞癌不會傳染。,disease=BCC intent=contagious,BCC,contagious
+基底細胞癌 (BCC) 相關問題：BCC 在什麼情況下會傳染？,基底細胞癌不會傳染。,disease=BCC intent=contagious,BCC,contagious
+基底細胞癌 (BCC) 相關問題：BCC 是否有傳播的風險？,基底細胞癌不會傳染。,disease=BCC intent=contagious,BCC,contagious
+基底細胞癌 (BCC) 相關問題：BCC 會不會傳染給別人？,基底細胞癌不會傳染。,disease=BCC intent=contagious,BCC,contagious
+基底細胞癌 (BCC) 相關問題：什麼是 BCC？,BCC 是一種常見的皮膚病。,disease=BCC intent=intro,BCC,intro
+基底細胞癌 (BCC) 相關問題：能不能給我解釋一下 BCC 的基本資訊？,BCC 是一種常見的皮膚病。,disease=BCC intent=intro,BCC,intro
+基底細胞癌 (BCC) 相關問題：BCC 的發病率高嗎？,BCC 是一種常見的皮膚病。,disease=BCC intent=intro,BCC,intro
+基底細胞癌 (BCC) 相關問題： BCC 的臨床表現是怎樣的？,BCC 是一種常見的皮膚病。,disease=BCC intent=intro,BCC,intro
+基底細胞癌 (BCC) 相關問題：請說明一下 BCC 的特點。,BCC 是一種常見的皮膚病。,disease=BCC intent=intro,BCC,intro
+基底細胞癌 (BCC) 相關問題：能解釋一下 BCC 嗎？,系統判斷這是 BCC，常見於皮膚表層。,disease=BCC intent=intro,BCC,intro
+基底細胞癌 (BCC) 相關問題：BCC 的定義是什麼？,系統判斷這是 BCC，常見於皮膚表層。,disease=BCC intent=intro,BCC,intro
+基底細胞癌 (BCC) 相關問題： BCC 的診斷標準是什麼？,系統判斷這是 BCC，常見於皮膚表層。,disease=BCC intent=intro,BCC,intro
+基底細胞癌 (BCC) 相關問題：BCC 是怎樣的疾病？,系統判斷這是 BCC，常見於皮膚表層。,disease=BCC intent=intro,BCC,intro
+基底細胞癌 (BCC) 相關問題：BCC 是怎樣的疾病？,系統判斷這是 BCC，常見於皮膚表層。,disease=BCC intent=intro,BCC,intro
+基底細胞癌 (BCC) 相關問題：介紹一下 BCC。,這種狀況被辨識為 BCC，通常不罕見。,disease=BCC intent=intro,BCC,intro
+基底細胞癌 (BCC) 相關問題：BCC 的定義是什麼？,這種狀況被辨識為 BCC，通常不罕見。,disease=BCC intent=intro,BCC,intro
+基底細胞癌 (BCC) 相關問題：能解釋一下 BCC 嗎？,這種狀況被辨識為 BCC，通常不罕見。,disease=BCC intent=intro,BCC,intro
+基底細胞癌 (BCC) 相關問題：請介紹一下 BCC,這種狀況被辨識為 BCC，通常不罕見。,disease=BCC intent=intro,BCC,intro
+基底細胞癌 (BCC) 相關問題：請介紹一下 BCC,這種狀況被辨識為 BCC，通常不罕見。,disease=BCC intent=intro,BCC,intro
+基底細胞癌 (BCC) 相關問題：BCC 是什麼病症？,這個病灶是 BCC，屬於常見類型。,disease=BCC intent=intro,BCC,intro
+基底細胞癌 (BCC) 相關問題：BCC 是什麼？,這個病灶是 BCC，屬於常見類型。,disease=BCC intent=intro,BCC,intro
+基底細胞癌 (BCC) 相關問題：能不能給我解釋一下 BCC 的基本資訊？,這個病灶是 BCC，屬於常見類型。,disease=BCC intent=intro,BCC,intro
+基底細胞癌 (BCC) 相關問題：這種 BCC 是怎麼形成的？,這個病灶是 BCC，屬於常見類型。,disease=BCC intent=intro,BCC,intro
+基底細胞癌 (BCC) 相關問題：BCC 的發病率高嗎？,這個病灶是 BCC，屬於常見類型。,disease=BCC intent=intro,BCC,intro
+基底細胞癌 (BCC) 相關問題：BCC 是什麼？,基底細胞癌（BCC）是一種常見的皮膚癌，通常生長緩慢。,disease=BCC intent=intro,BCC,intro
+基底細胞癌 (BCC) 相關問題：您可以簡要介紹一下 BCC 是什麼嗎？,基底細胞癌（BCC）是一種常見的皮膚癌，通常生長緩慢。,disease=BCC intent=intro,BCC,intro
+基底細胞癌 (BCC) 相關問題： BCC 的病理學特點是什麼？,基底細胞癌（BCC）是一種常見的皮膚癌，通常生長緩慢。,disease=BCC intent=intro,BCC,intro
+基底細胞癌 (BCC) 相關問題：BCC 和其他皮膚病有什麼區別？,基底細胞癌（BCC）是一種常見的皮膚癌，通常生長緩慢。,disease=BCC intent=intro,BCC,intro
+基底細胞癌 (BCC) 相關問題：BCC 和其他皮膚病有什麼區別？,基底細胞癌（BCC）是一種常見的皮膚癌，通常生長緩慢。,disease=BCC intent=intro,BCC,intro
+基底細胞癌 (BCC) 相關問題：這種 BCC 是怎麼形成的？,根據判斷，這是基底細胞癌，是最常見的皮膚癌類型，通常與長期陽光曝曬有關。,disease=BCC intent=intro,BCC,intro
+基底細胞癌 (BCC) 相關問題： BCC 的診斷標準是什麼？,根據判斷，這是基底細胞癌，是最常見的皮膚癌類型，通常與長期陽光曝曬有關。,disease=BCC intent=intro,BCC,intro
+基底細胞癌 (BCC) 相關問題：BCC 是怎樣的疾病？,根據判斷，這是基底細胞癌，是最常見的皮膚癌類型，通常與長期陽光曝曬有關。,disease=BCC intent=intro,BCC,intro
+基底細胞癌 (BCC) 相關問題：BCC 通常出現在哪個部位？,根據判斷，這是基底細胞癌，是最常見的皮膚癌類型，通常與長期陽光曝曬有關。,disease=BCC intent=intro,BCC,intro
+基底細胞癌 (BCC) 相關問題：BCC 是一種什麼樣的皮膚狀況？,根據判斷，這是基底細胞癌，是最常見的皮膚癌類型，通常與長期陽光曝曬有關。,disease=BCC intent=intro,BCC,intro
+基底細胞癌 (BCC) 相關問題：能解釋一下 BCC 嗎？,BCC 是一種低惡性度的皮膚癌，多發生在陽光曝曬的部位。,disease=BCC intent=intro,BCC,intro
+基底細胞癌 (BCC) 相關問題：什麼是 BCC？,BCC 是一種低惡性度的皮膚癌，多發生在陽光曝曬的部位。,disease=BCC intent=intro,BCC,intro
+基底細胞癌 (BCC) 相關問題：BCC 是一種什麼樣的皮膚狀況？,BCC 是一種低惡性度的皮膚癌，多發生在陽光曝曬的部位。,disease=BCC intent=intro,BCC,intro
+基底細胞癌 (BCC) 相關問題：BCC 是什麼病？,BCC 是一種低惡性度的皮膚癌，多發生在陽光曝曬的部位。,disease=BCC intent=intro,BCC,intro
+基底細胞癌 (BCC) 相關問題：BCC 的成因是什麼？,BCC 是一種低惡性度的皮膚癌，多發生在陽光曝曬的部位。,disease=BCC intent=intro,BCC,intro
+基底細胞癌 (BCC) 相關問題：BCC 和其他皮膚病有什麼區別？,基底細胞癌（BCC）是常見的皮膚癌，生長緩慢。,disease=BCC intent=intro,BCC,intro
+基底細胞癌 (BCC) 相關問題：BCC 的症狀有哪些？,基底細胞癌（BCC）是常見的皮膚癌，生長緩慢。,disease=BCC intent=intro,BCC,intro
+基底細胞癌 (BCC) 相關問題：BCC 的症狀有哪些？,基底細胞癌（BCC）是常見的皮膚癌，生長緩慢。,disease=BCC intent=intro,BCC,intro
+基底細胞癌 (BCC) 相關問題： BCC 的診斷標準是什麼？,基底細胞癌（BCC）是常見的皮膚癌，生長緩慢。,disease=BCC intent=intro,BCC,intro
+基底細胞癌 (BCC) 相關問題：BCC 的定義是什麼？,基底細胞癌（BCC）是常見的皮膚癌，生長緩慢。,disease=BCC intent=intro,BCC,intro
+基底細胞癌 (BCC) 相關問題：我想了解 BCC 這個疾病，它主要表現是什麼？,BCC 是一種最常見的皮膚癌，通常由紫外線曝曬引起。,disease=BCC intent=intro,BCC,intro
+基底細胞癌 (BCC) 相關問題：BCC 的成因是什麼？,BCC 是一種最常見的皮膚癌，通常由紫外線曝曬引起。,disease=BCC intent=intro,BCC,intro
+基底細胞癌 (BCC) 相關問題：BCC 的成因是什麼？,BCC 是一種最常見的皮膚癌，通常由紫外線曝曬引起。,disease=BCC intent=intro,BCC,intro
+基底細胞癌 (BCC) 相關問題：BCC 是一種什麼樣的皮膚狀況？,BCC 是一種最常見的皮膚癌，通常由紫外線曝曬引起。,disease=BCC intent=intro,BCC,intro
+基底細胞癌 (BCC) 相關問題：什麼是 BCC？,BCC 是一種最常見的皮膚癌，通常由紫外線曝曬引起。,disease=BCC intent=intro,BCC,intro
+基底細胞癌 (BCC) 相關問題：BCC 通常出現在哪個部位？,基底細胞癌表現為皮膚上的小結節或潰瘍，常有捲邊。,disease=BCC intent=intro,BCC,intro
+基底細胞癌 (BCC) 相關問題： BCC 的臨床表現是怎樣的？,基底細胞癌表現為皮膚上的小結節或潰瘍，常有捲邊。,disease=BCC intent=intro,BCC,intro
+基底細胞癌 (BCC) 相關問題：BCC 是什麼病症？,基底細胞癌表現為皮膚上的小結節或潰瘍，常有捲邊。,disease=BCC intent=intro,BCC,intro
+基底細胞癌 (BCC) 相關問題：BCC 是一種什麼樣的皮膚狀況？,基底細胞癌表現為皮膚上的小結節或潰瘍，常有捲邊。,disease=BCC intent=intro,BCC,intro
+基底細胞癌 (BCC) 相關問題：請說明一下 BCC 的特點。,基底細胞癌表現為皮膚上的小結節或潰瘍，常有捲邊。,disease=BCC intent=intro,BCC,intro
+基底細胞癌 (BCC) 相關問題： BCC 看醫生前需要準備什麼？,針對 BCC，建議儘快就醫以確保安全。,disease=BCC intent=need_doctor,BCC,need_doctor
+基底細胞癌 (BCC) 相關問題：患有 BCC 的話，有沒有必要去醫院檢查一下？,針對 BCC，建議儘快就醫以確保安全。,disease=BCC intent=need_doctor,BCC,need_doctor
+基底細胞癌 (BCC) 相關問題：BCC 什麼時候要就診？,針對 BCC，建議儘快就醫以確保安全。,disease=BCC intent=need_doctor,BCC,need_doctor
+基底細胞癌 (BCC) 相關問題：BCC 什麼時候要就診？,針對 BCC，建議儘快就醫以確保安全。,disease=BCC intent=need_doctor,BCC,need_doctor
+基底細胞癌 (BCC) 相關問題：關於 BCC，有哪些情況是必須尋求醫生幫助的？,針對 BCC，建議儘快就醫以確保安全。,disease=BCC intent=need_doctor,BCC,need_doctor
+基底細胞癌 (BCC) 相關問題：如果 BCC 惡化了，要立即就醫嗎？,這種情況（BCC）建議由皮膚科專業人員判斷。,disease=BCC intent=need_doctor,BCC,need_doctor
+基底細胞癌 (BCC) 相關問題：BCC 這個狀況，我應該去看哪個科別的醫生？,這種情況（BCC）建議由皮膚科專業人員判斷。,disease=BCC intent=need_doctor,BCC,need_doctor
+基底細胞癌 (BCC) 相關問題：BCC 要不要去看醫生？,這種情況（BCC）建議由皮膚科專業人員判斷。,disease=BCC intent=need_doctor,BCC,need_doctor
+基底細胞癌 (BCC) 相關問題：我應該在什麼情況下為 BCC 就診？,這種情況（BCC）建議由皮膚科專業人員判斷。,disease=BCC intent=need_doctor,BCC,need_doctor
+基底細胞癌 (BCC) 相關問題：什麼時候需要因為 BCC 去醫院？,這種情況（BCC）建議由皮膚科專業人員判斷。,disease=BCC intent=need_doctor,BCC,need_doctor
+基底細胞癌 (BCC) 相關問題： BCC 需要做什麼檢查嗎？,BCC 若有變化，請儘早就診。,disease=BCC intent=need_doctor,BCC,need_doctor
+基底細胞癌 (BCC) 相關問題：關於 BCC，有哪些情況是必須尋求醫生幫助的？,BCC 若有變化，請儘早就診。,disease=BCC intent=need_doctor,BCC,need_doctor
+基底細胞癌 (BCC) 相關問題：有 BCC 要看醫生嗎？,BCC 若有變化，請儘早就診。,disease=BCC intent=need_doctor,BCC,need_doctor
+基底細胞癌 (BCC) 相關問題： BCC 可以在一般診所看嗎？還是要去大醫院？,BCC 若有變化，請儘早就診。,disease=BCC intent=need_doctor,BCC,need_doctor
+基底細胞癌 (BCC) 相關問題：BCC 需要就醫嗎？,BCC 若有變化，請儘早就診。,disease=BCC intent=need_doctor,BCC,need_doctor
+基底細胞癌 (BCC) 相關問題：BCC 這個狀況，我應該去看哪個科別的醫生？,確診基底細胞癌後，應儘快就醫進行治療，以避免病變擴大。,disease=BCC intent=need_doctor,BCC,need_doctor
+基底細胞癌 (BCC) 相關問題：BCC 可以自行處理嗎？,確診基底細胞癌後，應儘快就醫進行治療，以避免病變擴大。,disease=BCC intent=need_doctor,BCC,need_doctor
+基底細胞癌 (BCC) 相關問題： BCC 看醫生前需要準備什麼？,確診基底細胞癌後，應儘快就醫進行治療，以避免病變擴大。,disease=BCC intent=need_doctor,BCC,need_doctor
+基底細胞癌 (BCC) 相關問題：BCC 怎樣才需要看醫生？,確診基底細胞癌後，應儘快就醫進行治療，以避免病變擴大。,disease=BCC intent=need_doctor,BCC,need_doctor
+基底細胞癌 (BCC) 相關問題：什麼時候需要因為 BCC 去醫院？,確診基底細胞癌後，應儘快就醫進行治療，以避免病變擴大。,disease=BCC intent=need_doctor,BCC,need_doctor
+基底細胞癌 (BCC) 相關問題： BCC 需要定期回診嗎？,對於 BCC，建議您尋求皮膚科或腫瘤科醫師的專業診斷和治療方案。,disease=BCC intent=need_doctor,BCC,need_doctor
+基底細胞癌 (BCC) 相關問題：BCC 這個狀況，我應該去看哪個科別的醫生？,對於 BCC，建議您尋求皮膚科或腫瘤科醫師的專業診斷和治療方案。,disease=BCC intent=need_doctor,BCC,need_doctor
+基底細胞癌 (BCC) 相關問題：什麼時候我需要緊急就醫 BCC？,對於 BCC，建議您尋求皮膚科或腫瘤科醫師的專業診斷和治療方案。,disease=BCC intent=need_doctor,BCC,need_doctor
+基底細胞癌 (BCC) 相關問題： BCC 可以在一般診所看嗎？還是要去大醫院？,對於 BCC，建議您尋求皮膚科或腫瘤科醫師的專業診斷和治療方案。,disease=BCC intent=need_doctor,BCC,need_doctor
+基底細胞癌 (BCC) 相關問題：BCC 需要看醫生嗎？,對於 BCC，建議您尋求皮膚科或腫瘤科醫師的專業診斷和治療方案。,disease=BCC intent=need_doctor,BCC,need_doctor
+基底細胞癌 (BCC) 相關問題：BCC 可以自行處理嗎？,一旦發現疑似基底細胞癌的病灶，務必及早諮詢醫生進行檢查。,disease=BCC intent=need_doctor,BCC,need_doctor
+基底細胞癌 (BCC) 相關問題： BCC 可以在一般診所看嗎？還是要去大醫院？,一旦發現疑似基底細胞癌的病灶，務必及早諮詢醫生進行檢查。,disease=BCC intent=need_doctor,BCC,need_doctor
+基底細胞癌 (BCC) 相關問題：BCC 要不要去看醫生？,一旦發現疑似基底細胞癌的病灶，務必及早諮詢醫生進行檢查。,disease=BCC intent=need_doctor,BCC,need_doctor
+基底細胞癌 (BCC) 相關問題：關於 BCC，有哪些情況是必須尋求醫生幫助的？,一旦發現疑似基底細胞癌的病灶，務必及早諮詢醫生進行檢查。,disease=BCC intent=need_doctor,BCC,need_doctor
+基底細胞癌 (BCC) 相關問題：BCC 需要就醫嗎？,一旦發現疑似基底細胞癌的病灶，務必及早諮詢醫生進行檢查。,disease=BCC intent=need_doctor,BCC,need_doctor
+基底細胞癌 (BCC) 相關問題：BCC 要不要去看醫生？,BCC 疑似病灶應儘早由皮膚科醫師診斷。,disease=BCC intent=need_doctor,BCC,need_doctor
+基底細胞癌 (BCC) 相關問題：我應該在什麼情況下為 BCC 就診？,BCC 疑似病灶應儘早由皮膚科醫師診斷。,disease=BCC intent=need_doctor,BCC,need_doctor
+基底細胞癌 (BCC) 相關問題：BCC 怎樣才需要看醫生？,BCC 疑似病灶應儘早由皮膚科醫師診斷。,disease=BCC intent=need_doctor,BCC,need_doctor
+基底細胞癌 (BCC) 相關問題：BCC 這個狀況，我應該去看哪個科別的醫生？,BCC 疑似病灶應儘早由皮膚科醫師診斷。,disease=BCC intent=need_doctor,BCC,need_doctor
+基底細胞癌 (BCC) 相關問題： BCC 看醫生前需要準備什麼？,BCC 疑似病灶應儘早由皮膚科醫師診斷。,disease=BCC intent=need_doctor,BCC,need_doctor
+基底細胞癌 (BCC) 相關問題：BCC 怎樣才需要看醫生？,若皮膚出現可疑的生長物，特別是潰瘍不癒合，應就醫。,disease=BCC intent=need_doctor,BCC,need_doctor
+基底細胞癌 (BCC) 相關問題：什麼時候需要因為 BCC 去醫院？,若皮膚出現可疑的生長物，特別是潰瘍不癒合，應就醫。,disease=BCC intent=need_doctor,BCC,need_doctor
+基底細胞癌 (BCC) 相關問題：得了 BCC 什麼時候需要立刻去看醫生？,若皮膚出現可疑的生長物，特別是潰瘍不癒合，應就醫。,disease=BCC intent=need_doctor,BCC,need_doctor
+基底細胞癌 (BCC) 相關問題：患有 BCC 的話，有沒有必要去醫院檢查一下？,若皮膚出現可疑的生長物，特別是潰瘍不癒合，應就醫。,disease=BCC intent=need_doctor,BCC,need_doctor
+基底細胞癌 (BCC) 相關問題： BCC 看醫生前需要準備什麼？,若皮膚出現可疑的生長物，特別是潰瘍不癒合，應就醫。,disease=BCC intent=need_doctor,BCC,need_doctor
+基底細胞癌 (BCC) 相關問題：如果我被診斷出 BCC，是否需要馬上就醫？,發現皮膚有新的結節或斑塊，且持續存在，請尋求醫療評估。,disease=BCC intent=need_doctor,BCC,need_doctor
+基底細胞癌 (BCC) 相關問題：我得了 BCC，去看醫生會有幫助嗎？,發現皮膚有新的結節或斑塊，且持續存在，請尋求醫療評估。,disease=BCC intent=need_doctor,BCC,need_doctor
+基底細胞癌 (BCC) 相關問題： BCC 需要定期回診嗎？,發現皮膚有新的結節或斑塊，且持續存在，請尋求醫療評估。,disease=BCC intent=need_doctor,BCC,need_doctor
+基底細胞癌 (BCC) 相關問題：如果我被診斷出 BCC，是否需要馬上就醫？,發現皮膚有新的結節或斑塊，且持續存在，請尋求醫療評估。,disease=BCC intent=need_doctor,BCC,need_doctor
+基底細胞癌 (BCC) 相關問題：我得了 BCC，去看醫生會有幫助嗎？,發現皮膚有新的結節或斑塊，且持續存在，請尋求醫療評估。,disease=BCC intent=need_doctor,BCC,need_doctor
+基底細胞癌 (BCC) 相關問題：BCC 會惡化嗎？,BCC 有可能惡化，建議定期追蹤。,disease=BCC intent=risk,BCC,risk
+基底細胞癌 (BCC) 相關問題：BCC 和其他疾病有相關性嗎？,BCC 有可能惡化，建議定期追蹤。,disease=BCC intent=risk,BCC,risk
+基底細胞癌 (BCC) 相關問題：BCC 會不會危及生命？,BCC 有可能惡化，建議定期追蹤。,disease=BCC intent=risk,BCC,risk
+基底細胞癌 (BCC) 相關問題：BCC 危險嗎？,BCC 有可能惡化，建議定期追蹤。,disease=BCC intent=risk,BCC,risk
+基底細胞癌 (BCC) 相關問題：BCC 會有併發症嗎？,BCC 有可能惡化，建議定期追蹤。,disease=BCC intent=risk,BCC,risk
+基底細胞癌 (BCC) 相關問題： BCC 的復發機率大嗎？,雖然目前為 BCC，但仍需注意惡性可能。,disease=BCC intent=risk,BCC,risk
+基底細胞癌 (BCC) 相關問題：BCC 會不會留下疤痕？,雖然目前為 BCC，但仍需注意惡性可能。,disease=BCC intent=risk,BCC,risk
+基底細胞癌 (BCC) 相關問題：BCC 有哪些潛在的健康風險或併發症？,雖然目前為 BCC，但仍需注意惡性可能。,disease=BCC intent=risk,BCC,risk
+基底細胞癌 (BCC) 相關問題：BCC 會惡化嗎？,雖然目前為 BCC，但仍需注意惡性可能。,disease=BCC intent=risk,BCC,risk
+基底細胞癌 (BCC) 相關問題：BCC 會不會惡化成更嚴重的疾病？,雖然目前為 BCC，但仍需注意惡性可能。,disease=BCC intent=risk,BCC,risk
+基底細胞癌 (BCC) 相關問題：患有 BCC 需要擔心癌變嗎？,BCC 有機率癌變，請提高警覺。,disease=BCC intent=risk,BCC,risk
+基底細胞癌 (BCC) 相關問題： BCC 的復發機率大嗎？,BCC 有機率癌變，請提高警覺。,disease=BCC intent=risk,BCC,risk
+基底細胞癌 (BCC) 相關問題：BCC 會對身體造成什麼影響？,BCC 有機率癌變，請提高警覺。,disease=BCC intent=risk,BCC,risk
+基底細胞癌 (BCC) 相關問題：BCC 會不會惡化成更嚴重的疾病？,BCC 有機率癌變，請提高警覺。,disease=BCC intent=risk,BCC,risk
+基底細胞癌 (BCC) 相關問題：BCC 需要擔心嗎？,BCC 有機率癌變，請提高警覺。,disease=BCC intent=risk,BCC,risk
+基底細胞癌 (BCC) 相關問題：BCC 的長期預後如何？會不會有危險？,若不治療會持續擴大並侵蝕組織。,disease=BCC intent=risk,BCC,risk
+基底細胞癌 (BCC) 相關問題：BCC 有什麼潛在問題？,若不治療會持續擴大並侵蝕組織。,disease=BCC intent=risk,BCC,risk
+基底細胞癌 (BCC) 相關問題：BCC 危險嗎？,若不治療會持續擴大並侵蝕組織。,disease=BCC intent=risk,BCC,risk
+基底細胞癌 (BCC) 相關問題：BCC 會不會危及生命？,若不治療會持續擴大並侵蝕組織。,disease=BCC intent=risk,BCC,risk
+基底細胞癌 (BCC) 相關問題：BCC 會不會留下疤痕？,若不治療會持續擴大並侵蝕組織。,disease=BCC intent=risk,BCC,risk
+基底細胞癌 (BCC) 相關問題：BCC 需要擔心嗎？,雖為惡性，但處理一下得當預後佳。,disease=BCC intent=risk,BCC,risk
+基底細胞癌 (BCC) 相關問題：BCC 會變嚴重嗎？,雖為惡性，但處理一下得當預後佳。,disease=BCC intent=risk,BCC,risk
+基底細胞癌 (BCC) 相關問題：BCC 需要擔心嗎？,雖為惡性，但處理一下得當預後佳。,disease=BCC intent=risk,BCC,risk
+基底細胞癌 (BCC) 相關問題：有哪些情況下 BCC 會變得更嚴重？,雖為惡性，但處理一下得當預後佳。,disease=BCC intent=risk,BCC,risk
+基底細胞癌 (BCC) 相關問題：BCC 會變嚴重嗎？,雖為惡性，但處理一下得當預後佳。,disease=BCC intent=risk,BCC,risk
+基底細胞癌 (BCC) 相關問題：BCC 和其他疾病有相關性嗎？,雖然基底細胞癌擴散風險較低，但若不治療會持續局部侵犯，導致組織破壞。,disease=BCC intent=risk,BCC,risk
+基底細胞癌 (BCC) 相關問題：BCC 危險嗎？,雖然基底細胞癌擴散風險較低，但若不治療會持續局部侵犯，導致組織破壞。,disease=BCC intent=risk,BCC,risk
+基底細胞癌 (BCC) 相關問題：BCC 危險嗎？,雖然基底細胞癌擴散風險較低，但若不治療會持續局部侵犯，導致組織破壞。,disease=BCC intent=risk,BCC,risk
+基底細胞癌 (BCC) 相關問題： BCC 的復發機率大嗎？,雖然基底細胞癌擴散風險較低，但若不治療會持續局部侵犯，導致組織破壞。,disease=BCC intent=risk,BCC,risk
+基底細胞癌 (BCC) 相關問題：BCC 會影響生活品質嗎？,雖然基底細胞癌擴散風險較低，但若不治療會持續局部侵犯，導致組織破壞。,disease=BCC intent=risk,BCC,risk
+基底細胞癌 (BCC) 相關問題：BCC 會有併發症嗎？,BCC 惡性度不高，但若延誤治療，可能會導致局部組織損壞，極少數情況下可能轉移。,disease=BCC intent=risk,BCC,risk
+基底細胞癌 (BCC) 相關問題：得了 BCC 會有哪些不好的影響？,BCC 惡性度不高，但若延誤治療，可能會導致局部組織損壞，極少數情況下可能轉移。,disease=BCC intent=risk,BCC,risk
+基底細胞癌 (BCC) 相關問題： BCC 有什麼長期後遺症嗎？,BCC 惡性度不高，但若延誤治療，可能會導致局部組織損壞，極少數情況下可能轉移。,disease=BCC intent=risk,BCC,risk
+基底細胞癌 (BCC) 相關問題：BCC 會對身體造成什麼影響？,BCC 惡性度不高，但若延誤治療，可能會導致局部組織損壞，極少數情況下可能轉移。,disease=BCC intent=risk,BCC,risk
+基底細胞癌 (BCC) 相關問題： BCC 會引起疼痛嗎？,BCC 惡性度不高，但若延誤治療，可能會導致局部組織損壞，極少數情況下可能轉移。,disease=BCC intent=risk,BCC,risk
+基底細胞癌 (BCC) 相關問題： BCC 的復發機率大嗎？,基底細胞癌的風險主要在於其局部侵略性，應及早診斷和治療。,disease=BCC intent=risk,BCC,risk
+基底細胞癌 (BCC) 相關問題：患有 BCC 需要擔心癌變嗎？,基底細胞癌的風險主要在於其局部侵略性，應及早診斷和治療。,disease=BCC intent=risk,BCC,risk
+基底細胞癌 (BCC) 相關問題：BCC 有什麼潛在問題？,基底細胞癌的風險主要在於其局部侵略性，應及早診斷和治療。,disease=BCC intent=risk,BCC,risk
+基底細胞癌 (BCC) 相關問題： BCC 的復發機率大嗎？,基底細胞癌的風險主要在於其局部侵略性，應及早診斷和治療。,disease=BCC intent=risk,BCC,risk
+基底細胞癌 (BCC) 相關問題：BCC 會對身體造成什麼影響？,基底細胞癌的風險主要在於其局部侵略性，應及早診斷和治療。,disease=BCC intent=risk,BCC,risk
+基底細胞癌 (BCC) 相關問題：患有 BCC 需要擔心癌變嗎？,BCC 雖然少見轉移，但若不治療會局部擴大並侵蝕組織。,disease=BCC intent=risk,BCC,risk
+基底細胞癌 (BCC) 相關問題： BCC 的致死率高嗎？,BCC 雖然少見轉移，但若不治療會局部擴大並侵蝕組織。,disease=BCC intent=risk,BCC,risk
+基底細胞癌 (BCC) 相關問題：患有 BCC 需要擔心癌變嗎？,BCC 雖然少見轉移，但若不治療會局部擴大並侵蝕組織。,disease=BCC intent=risk,BCC,risk
+基底細胞癌 (BCC) 相關問題：得了 BCC 會有哪些不好的影響？,BCC 雖然少見轉移，但若不治療會局部擴大並侵蝕組織。,disease=BCC intent=risk,BCC,risk
+基底細胞癌 (BCC) 相關問題：BCC 危險嗎？,BCC 雖然少見轉移，但若不治療會局部擴大並侵蝕組織。,disease=BCC intent=risk,BCC,risk
+基底細胞癌 (BCC) 相關問題：BCC 和其他疾病有相關性嗎？,基底細胞癌的惡性度相對較低，但有局部復發的風險。,disease=BCC intent=risk,BCC,risk
+基底細胞癌 (BCC) 相關問題：BCC 有什麼風險？,基底細胞癌的惡性度相對較低，但有局部復發的風險。,disease=BCC intent=risk,BCC,risk
+基底細胞癌 (BCC) 相關問題：BCC 會不會危及生命？,基底細胞癌的惡性度相對較低，但有局部復發的風險。,disease=BCC intent=risk,BCC,risk
+基底細胞癌 (BCC) 相關問題：BCC 會變嚴重嗎？,基底細胞癌的惡性度相對較低，但有局部復發的風險。,disease=BCC intent=risk,BCC,risk
+基底細胞癌 (BCC) 相關問題：有哪些情況下 BCC 會變得更嚴重？,基底細胞癌的惡性度相對較低，但有局部復發的風險。,disease=BCC intent=risk,BCC,risk
+基底細胞癌 (BCC) 相關問題：得了 BCC 會有哪些不好的影響？,BCC 主要風險是局部侵犯，極少會遠端轉移。,disease=BCC intent=risk,BCC,risk
+基底細胞癌 (BCC) 相關問題： BCC 有什麼長期後遺症嗎？,BCC 主要風險是局部侵犯，極少會遠端轉移。,disease=BCC intent=risk,BCC,risk
+基底細胞癌 (BCC) 相關問題：患有 BCC 需要擔心癌變嗎？,BCC 主要風險是局部侵犯，極少會遠端轉移。,disease=BCC intent=risk,BCC,risk
+基底細胞癌 (BCC) 相關問題：BCC 的危險性高嗎？,BCC 主要風險是局部侵犯，極少會遠端轉移。,disease=BCC intent=risk,BCC,risk
+基底細胞癌 (BCC) 相關問題：有哪些情況下 BCC 會變得更嚴重？,BCC 主要風險是局部侵犯，極少會遠端轉移。,disease=BCC intent=risk,BCC,risk
+基底細胞癌 (BCC) 相關問題：BCC 治療後會復發嗎？,根據嚴重程度，BCC 可接受藥物或物理治療。,disease=BCC intent=treatment,BCC,treatment
+基底細胞癌 (BCC) 相關問題：針對 BCC，醫生通常會建議什麼治療？,根據嚴重程度，BCC 可接受藥物或物理治療。,disease=BCC intent=treatment,BCC,treatment
+基底細胞癌 (BCC) 相關問題：BCC 的治療流程是怎樣的？,根據嚴重程度，BCC 可接受藥物或物理治療。,disease=BCC intent=treatment,BCC,treatment
+基底細胞癌 (BCC) 相關問題： BCC 的中醫治療方法是什麼？,根據嚴重程度，BCC 可接受藥物或物理治療。,disease=BCC intent=treatment,BCC,treatment
+基底細胞癌 (BCC) 相關問題：BCC 治療後會復發嗎？,根據嚴重程度，BCC 可接受藥物或物理治療。,disease=BCC intent=treatment,BCC,treatment
+基底細胞癌 (BCC) 相關問題：BCC 要怎麼治療？,BCC 可透過冷凍、藥膏或雷射等方式治療。,disease=BCC intent=treatment,BCC,treatment
+基底細胞癌 (BCC) 相關問題：BCC 要怎麼治療？,BCC 可透過冷凍、藥膏或雷射等方式治療。,disease=BCC intent=treatment,BCC,treatment
+基底細胞癌 (BCC) 相關問題：我適合哪種 BCC 的治療方式？,BCC 可透過冷凍、藥膏或雷射等方式治療。,disease=BCC intent=treatment,BCC,treatment
+基底細胞癌 (BCC) 相關問題：有什麼方法可以緩解 BCC 的症狀？,BCC 可透過冷凍、藥膏或雷射等方式治療。,disease=BCC intent=treatment,BCC,treatment
+基底細胞癌 (BCC) 相關問題：BCC 的治療方案有哪些？,BCC 可透過冷凍、藥膏或雷射等方式治療。,disease=BCC intent=treatment,BCC,treatment
+基底細胞癌 (BCC) 相關問題：BCC 可以不用治療嗎？,常見治療 BCC 的方式包括外用藥與光療。,disease=BCC intent=treatment,BCC,treatment
+基底細胞癌 (BCC) 相關問題：BCC 有沒有什麼藥物或手術可以處理？,常見治療 BCC 的方式包括外用藥與光療。,disease=BCC intent=treatment,BCC,treatment
+基底細胞癌 (BCC) 相關問題：我得了 BCC，該怎麼辦？,常見治療 BCC 的方式包括外用藥與光療。,disease=BCC intent=treatment,BCC,treatment
+基底細胞癌 (BCC) 相關問題：BCC 的治療流程是怎樣的？,常見治療 BCC 的方式包括外用藥與光療。,disease=BCC intent=treatment,BCC,treatment
+基底細胞癌 (BCC) 相關問題：我得了 BCC，該怎麼辦？,常見治療 BCC 的方式包括外用藥與光療。,disease=BCC intent=treatment,BCC,treatment
+基底細胞癌 (BCC) 相關問題：BCC 的治療方案有哪些？,一般來說得手術切除，治癒率高。,disease=BCC intent=treatment,BCC,treatment
+基底細胞癌 (BCC) 相關問題：有什麼方法可以緩解 BCC 的症狀？,一般來說得手術切除，治癒率高。,disease=BCC intent=treatment,BCC,treatment
+基底細胞癌 (BCC) 相關問題：BCC 的治療方案有哪些？,一般來說得手術切除，治癒率高。,disease=BCC intent=treatment,BCC,treatment
+基底細胞癌 (BCC) 相關問題：BCC 要怎麼治療？,一般來說得手術切除，治癒率高。,disease=BCC intent=treatment,BCC,treatment
+基底細胞癌 (BCC) 相關問題：BCC 的居家護理方法有哪些？,一般來說得手術切除，治癒率高。,disease=BCC intent=treatment,BCC,treatment
+基底細胞癌 (BCC) 相關問題：針對 BCC，醫生通常會建議什麼治療？,可根據位置與大小決定處理一下方式。,disease=BCC intent=treatment,BCC,treatment
+基底細胞癌 (BCC) 相關問題：BCC 要怎麼治療？,可根據位置與大小決定處理一下方式。,disease=BCC intent=treatment,BCC,treatment
+基底細胞癌 (BCC) 相關問題： BCC 的中醫治療方法是什麼？,可根據位置與大小決定處理一下方式。,disease=BCC intent=treatment,BCC,treatment
+基底細胞癌 (BCC) 相關問題：針對 BCC，醫生通常會建議什麼治療？,可根據位置與大小決定處理一下方式。,disease=BCC intent=treatment,BCC,treatment
+基底細胞癌 (BCC) 相關問題：BCC 的治療方法是什麼？,可根據位置與大小決定處理一下方式。,disease=BCC intent=treatment,BCC,treatment
+基底細胞癌 (BCC) 相關問題：BCC 可以不用治療嗎？,基底細胞癌的主要治療方式是手術切除，通常預後良好。,disease=BCC intent=treatment,BCC,treatment
+基底細胞癌 (BCC) 相關問題：得了 BCC 的話，有哪些治療方法可以選擇？,基底細胞癌的主要治療方式是手術切除，通常預後良好。,disease=BCC intent=treatment,BCC,treatment
+基底細胞癌 (BCC) 相關問題：如果我被診斷出 BCC，下一步該怎麼辦？,基底細胞癌的主要治療方式是手術切除，通常預後良好。,disease=BCC intent=treatment,BCC,treatment
+基底細胞癌 (BCC) 相關問題：我適合哪種 BCC 的治療方式？,基底細胞癌的主要治療方式是手術切除，通常預後良好。,disease=BCC intent=treatment,BCC,treatment
+基底細胞癌 (BCC) 相關問題：我應該在什麼時候開始治療 BCC？,基底細胞癌的主要治療方式是手術切除，通常預後良好。,disease=BCC intent=treatment,BCC,treatment
+基底細胞癌 (BCC) 相關問題：BCC 的治療方法是什麼？,針對 BCC，治療方式可能包括手術切除、冷凍治療、放射治療或局部藥物。,disease=BCC intent=treatment,BCC,treatment
+基底細胞癌 (BCC) 相關問題： BCC 的中醫治療方法是什麼？,針對 BCC，治療方式可能包括手術切除、冷凍治療、放射治療或局部藥物。,disease=BCC intent=treatment,BCC,treatment
+基底細胞癌 (BCC) 相關問題：BCC 可以怎麼治療？,針對 BCC，治療方式可能包括手術切除、冷凍治療、放射治療或局部藥物。,disease=BCC intent=treatment,BCC,treatment
+基底細胞癌 (BCC) 相關問題：治療 BCC 的成功率大概是多少？,針對 BCC，治療方式可能包括手術切除、冷凍治療、放射治療或局部藥物。,disease=BCC intent=treatment,BCC,treatment
+基底細胞癌 (BCC) 相關問題：針對 BCC，醫生通常會建議什麼治療？,針對 BCC，治療方式可能包括手術切除、冷凍治療、放射治療或局部藥物。,disease=BCC intent=treatment,BCC,treatment
+基底細胞癌 (BCC) 相關問題：治療 BCC 的最新方法是什麼？,基底細胞癌的治療應由醫生根據病變大小、位置和類型來決定，通常手術切除是首選。,disease=BCC intent=treatment,BCC,treatment
+基底細胞癌 (BCC) 相關問題： BCC 的中醫治療方法是什麼？,基底細胞癌的治療應由醫生根據病變大小、位置和類型來決定，通常手術切除是首選。,disease=BCC intent=treatment,BCC,treatment
+基底細胞癌 (BCC) 相關問題：針對 BCC 有沒有非手術的治療選項？,基底細胞癌的治療應由醫生根據病變大小、位置和類型來決定，通常手術切除是首選。,disease=BCC intent=treatment,BCC,treatment
+基底細胞癌 (BCC) 相關問題：針對 BCC 有沒有非手術的治療選項？,基底細胞癌的治療應由醫生根據病變大小、位置和類型來決定，通常手術切除是首選。,disease=BCC intent=treatment,BCC,treatment
+基底細胞癌 (BCC) 相關問題： BCC 的中醫治療方法是什麼？,基底細胞癌的治療應由醫生根據病變大小、位置和類型來決定，通常手術切除是首選。,disease=BCC intent=treatment,BCC,treatment
+基底細胞癌 (BCC) 相關問題：請問 BCC 要如何治療？,BCC 常用的治療方式是手術切除。,disease=BCC intent=treatment,BCC,treatment
+基底細胞癌 (BCC) 相關問題： BCC 的中醫治療方法是什麼？,BCC 常用的治療方式是手術切除。,disease=BCC intent=treatment,BCC,treatment
+基底細胞癌 (BCC) 相關問題：BCC 可以怎麼治療？,BCC 常用的治療方式是手術切除。,disease=BCC intent=treatment,BCC,treatment
+基底細胞癌 (BCC) 相關問題：請問 BCC 要如何治療？,BCC 常用的治療方式是手術切除。,disease=BCC intent=treatment,BCC,treatment
+基底細胞癌 (BCC) 相關問題：BCC 可以怎麼治療？,BCC 常用的治療方式是手術切除。,disease=BCC intent=treatment,BCC,treatment
+基底細胞癌 (BCC) 相關問題：請問 BCC 要怎麼治療比較好？,針對基底細胞癌，可能採用莫氏手術或放射治療。,disease=BCC intent=treatment,BCC,treatment
+基底細胞癌 (BCC) 相關問題：我該如何治療 BCC？,針對基底細胞癌，可能採用莫氏手術或放射治療。,disease=BCC intent=treatment,BCC,treatment
+基底細胞癌 (BCC) 相關問題：BCC 有沒有什麼藥物或手術可以處理？,針對基底細胞癌，可能採用莫氏手術或放射治療。,disease=BCC intent=treatment,BCC,treatment
+基底細胞癌 (BCC) 相關問題：BCC 的治療方法是什麼？,針對基底細胞癌，可能採用莫氏手術或放射治療。,disease=BCC intent=treatment,BCC,treatment
+基底細胞癌 (BCC) 相關問題：治療 BCC 的成功率大概是多少？,針對基底細胞癌，可能採用莫氏手術或放射治療。,disease=BCC intent=treatment,BCC,treatment
+基底細胞癌 (BCC) 相關問題：針對 BCC 有沒有非手術的治療選項？,BCC 的治療方案包括手術、冷凍治療、刮除術等。,disease=BCC intent=treatment,BCC,treatment
+基底細胞癌 (BCC) 相關問題： BCC 治療期間有什麼需要注意的嗎？,BCC 的治療方案包括手術、冷凍治療、刮除術等。,disease=BCC intent=treatment,BCC,treatment
+基底細胞癌 (BCC) 相關問題：得了 BCC 的話，有哪些治療方法可以選擇？,BCC 的治療方案包括手術、冷凍治療、刮除術等。,disease=BCC intent=treatment,BCC,treatment
+基底細胞癌 (BCC) 相關問題：治療 BCC 的最新方法是什麼？,BCC 的治療方案包括手術、冷凍治療、刮除術等。,disease=BCC intent=treatment,BCC,treatment
+基底細胞癌 (BCC) 相關問題： BCC 可以用雷射治療嗎？,BCC 的治療方案包括手術、冷凍治療、刮除術等。,disease=BCC intent=treatment,BCC,treatment
+脂漏性角化病 (BKL) 相關問題：BKL 會通過空氣傳染嗎？,此病（BKL）不會傳染給他人。,disease=BKL intent=contagious,BKL,contagious
+脂漏性角化病 (BKL) 相關問題： BKL 會從母體傳染給胎兒嗎？,此病（BKL）不會傳染給他人。,disease=BKL intent=contagious,BKL,contagious
+脂漏性角化病 (BKL) 相關問題： BKL 會從母體傳染給胎兒嗎？,此病（BKL）不會傳染給他人。,disease=BKL intent=contagious,BKL,contagious
+脂漏性角化病 (BKL) 相關問題：如果我接觸了 BKL 患者，會被傳染嗎？,此病（BKL）不會傳染給他人。,disease=BKL intent=contagious,BKL,contagious
+脂漏性角化病 (BKL) 相關問題：BKL 會傳播嗎？,此病（BKL）不會傳染給他人。,disease=BKL intent=contagious,BKL,contagious
+脂漏性角化病 (BKL) 相關問題：BKL 會通過空氣傳染嗎？,BKL 並不具傳染性，請放心。,disease=BKL intent=contagious,BKL,contagious
+脂漏性角化病 (BKL) 相關問題：我得了 BKL，會不會感染其他人？,BKL 並不具傳染性，請放心。,disease=BKL intent=contagious,BKL,contagious
+脂漏性角化病 (BKL) 相關問題：BKL 在什麼情況下會傳染？,BKL 並不具傳染性，請放心。,disease=BKL intent=contagious,BKL,contagious
+脂漏性角化病 (BKL) 相關問題：BKL 會傳染嗎？,BKL 並不具傳染性，請放心。,disease=BKL intent=contagious,BKL,contagious
+脂漏性角化病 (BKL) 相關問題：我的 BKL 會傳染嗎？,BKL 並不具傳染性，請放心。,disease=BKL intent=contagious,BKL,contagious
+脂漏性角化病 (BKL) 相關問題：怎麼預防 BKL 傳染？,屬於個體皮膚變化，不會傳染,disease=BKL intent=contagious,BKL,contagious
+脂漏性角化病 (BKL) 相關問題：BKL 會不會傳染給別人？,屬於個體皮膚變化，不會傳染,disease=BKL intent=contagious,BKL,contagious
+脂漏性角化病 (BKL) 相關問題：寵物會把 BKL 傳染給我嗎？,屬於個體皮膚變化，不會傳染,disease=BKL intent=contagious,BKL,contagious
+脂漏性角化病 (BKL) 相關問題：這種 BKL 是傳染性的嗎？,屬於個體皮膚變化，不會傳染,disease=BKL intent=contagious,BKL,contagious
+脂漏性角化病 (BKL) 相關問題：BKL 具有傳染性嗎？,屬於個體皮膚變化，不會傳染,disease=BKL intent=contagious,BKL,contagious
+脂漏性角化病 (BKL) 相關問題：我的 BKL 會傳染嗎？,良性角化症（BKL）不會傳染，這是個人體質的表現。,disease=BKL intent=contagious,BKL,contagious
+脂漏性角化病 (BKL) 相關問題：BKL 的傳染途徑是什麼？,良性角化症（BKL）不會傳染，這是個人體質的表現。,disease=BKL intent=contagious,BKL,contagious
+脂漏性角化病 (BKL) 相關問題：BKL 是通過什麼方式傳染的？,良性角化症（BKL）不會傳染，這是個人體質的表現。,disease=BKL intent=contagious,BKL,contagious
+脂漏性角化病 (BKL) 相關問題：BKL 的傳染途徑是什麼？,良性角化症（BKL）不會傳染，這是個人體質的表現。,disease=BKL intent=contagious,BKL,contagious
+脂漏性角化病 (BKL) 相關問題：BKL 會不會交叉感染？,良性角化症（BKL）不會傳染，這是個人體質的表現。,disease=BKL intent=contagious,BKL,contagious
+脂漏性角化病 (BKL) 相關問題：BKL 會不會交叉感染？,BKL 無需擔心傳染問題，它不具備傳染性。,disease=BKL intent=contagious,BKL,contagious
+脂漏性角化病 (BKL) 相關問題：BKL 會通過血液傳染嗎？,BKL 無需擔心傳染問題，它不具備傳染性。,disease=BKL intent=contagious,BKL,contagious
+脂漏性角化病 (BKL) 相關問題：BKL 會通過血液傳染嗎？,BKL 無需擔心傳染問題，它不具備傳染性。,disease=BKL intent=contagious,BKL,contagious
+脂漏性角化病 (BKL) 相關問題： BKL 會從母體傳染給胎兒嗎？,BKL 無需擔心傳染問題，它不具備傳染性。,disease=BKL intent=contagious,BKL,contagious
+脂漏性角化病 (BKL) 相關問題： BKL 會從母體傳染給胎兒嗎？,BKL 無需擔心傳染問題，它不具備傳染性。,disease=BKL intent=contagious,BKL,contagious
+脂漏性角化病 (BKL) 相關問題：BKL 會通過血液傳染嗎？,這種病變不會透過接觸傳染給他人，請不用擔心。,disease=BKL intent=contagious,BKL,contagious
+脂漏性角化病 (BKL) 相關問題：我得了 BKL，會不會感染其他人？,這種病變不會透過接觸傳染給他人，請不用擔心。,disease=BKL intent=contagious,BKL,contagious
+脂漏性角化病 (BKL) 相關問題：BKL 會傳播嗎？,這種病變不會透過接觸傳染給他人，請不用擔心。,disease=BKL intent=contagious,BKL,contagious
+脂漏性角化病 (BKL) 相關問題：BKL 具有傳染性嗎？,這種病變不會透過接觸傳染給他人，請不用擔心。,disease=BKL intent=contagious,BKL,contagious
+脂漏性角化病 (BKL) 相關問題：關於 BKL 的傳染性問題，我需要注意什麼？,這種病變不會透過接觸傳染給他人，請不用擔心。,disease=BKL intent=contagious,BKL,contagious
+脂漏性角化病 (BKL) 相關問題：BKL 是由接觸傳播的嗎？,脂漏性角化病不具傳染性。,disease=BKL intent=contagious,BKL,contagious
+脂漏性角化病 (BKL) 相關問題：BKL 會通過空氣傳染嗎？,脂漏性角化病不具傳染性。,disease=BKL intent=contagious,BKL,contagious
+脂漏性角化病 (BKL) 相關問題：寵物會把 BKL 傳染給我嗎？,脂漏性角化病不具傳染性。,disease=BKL intent=contagious,BKL,contagious
+脂漏性角化病 (BKL) 相關問題：BKL 會不會感染他人？,脂漏性角化病不具傳染性。,disease=BKL intent=contagious,BKL,contagious
+脂漏性角化病 (BKL) 相關問題：BKL 會通過空氣傳染嗎？,脂漏性角化病不具傳染性。,disease=BKL intent=contagious,BKL,contagious
+脂漏性角化病 (BKL) 相關問題：什麼是 BKL？,這個病灶是 BKL，屬於常見類型。,disease=BKL intent=intro,BKL,intro
+脂漏性角化病 (BKL) 相關問題： BKL 的病理學特點是什麼？,這個病灶是 BKL，屬於常見類型。,disease=BKL intent=intro,BKL,intro
+脂漏性角化病 (BKL) 相關問題： BKL 的診斷標準是什麼？,這個病灶是 BKL，屬於常見類型。,disease=BKL intent=intro,BKL,intro
+脂漏性角化病 (BKL) 相關問題： BKL 的病理學特點是什麼？,這個病灶是 BKL，屬於常見類型。,disease=BKL intent=intro,BKL,intro
+脂漏性角化病 (BKL) 相關問題：能不能給我解釋一下 BKL 的基本資訊？,這個病灶是 BKL，屬於常見類型。,disease=BKL intent=intro,BKL,intro
+脂漏性角化病 (BKL) 相關問題： BKL 有哪些亞型？,系統判斷這是 BKL，常見於皮膚表層。,disease=BKL intent=intro,BKL,intro
+脂漏性角化病 (BKL) 相關問題：請說明一下 BKL 的特點。,系統判斷這是 BKL，常見於皮膚表層。,disease=BKL intent=intro,BKL,intro
+脂漏性角化病 (BKL) 相關問題：BKL 是什麼病症？,系統判斷這是 BKL，常見於皮膚表層。,disease=BKL intent=intro,BKL,intro
+脂漏性角化病 (BKL) 相關問題：我想了解 BKL 這個疾病，它主要表現是什麼？,系統判斷這是 BKL，常見於皮膚表層。,disease=BKL intent=intro,BKL,intro
+脂漏性角化病 (BKL) 相關問題：BKL 是什麼病症？,系統判斷這是 BKL，常見於皮膚表層。,disease=BKL intent=intro,BKL,intro
+脂漏性角化病 (BKL) 相關問題：BKL 通常出現在哪個部位？,這種狀況被辨識為 BKL，通常不罕見。,disease=BKL intent=intro,BKL,intro
+脂漏性角化病 (BKL) 相關問題：這種 BKL 是怎麼形成的？,這種狀況被辨識為 BKL，通常不罕見。,disease=BKL intent=intro,BKL,intro
+脂漏性角化病 (BKL) 相關問題：我想了解 BKL 這個疾病，它主要表現是什麼？,這種狀況被辨識為 BKL，通常不罕見。,disease=BKL intent=intro,BKL,intro
+脂漏性角化病 (BKL) 相關問題：BKL 的成因是什麼？,這種狀況被辨識為 BKL，通常不罕見。,disease=BKL intent=intro,BKL,intro
+脂漏性角化病 (BKL) 相關問題：BKL 是一種什麼樣的皮膚狀況？,這種狀況被辨識為 BKL，通常不罕見。,disease=BKL intent=intro,BKL,intro
+脂漏性角化病 (BKL) 相關問題：BKL 是怎樣的疾病？,BKL 是一種常見的皮膚病。,disease=BKL intent=intro,BKL,intro
+脂漏性角化病 (BKL) 相關問題：能不能給我解釋一下 BKL 的基本資訊？,BKL 是一種常見的皮膚病。,disease=BKL intent=intro,BKL,intro
+脂漏性角化病 (BKL) 相關問題：請介紹一下 BKL,BKL 是一種常見的皮膚病。,disease=BKL intent=intro,BKL,intro
+脂漏性角化病 (BKL) 相關問題：BKL 是什麼？,BKL 是一種常見的皮膚病。,disease=BKL intent=intro,BKL,intro
+脂漏性角化病 (BKL) 相關問題：BKL 是一種什麼樣的皮膚狀況？,BKL 是一種常見的皮膚病。,disease=BKL intent=intro,BKL,intro
+脂漏性角化病 (BKL) 相關問題：BKL 是什麼？,這是良性的脂漏性角化病變。,disease=BKL intent=intro,BKL,intro
+脂漏性角化病 (BKL) 相關問題：BKL 通常出現在哪個部位？,這是良性的脂漏性角化病變。,disease=BKL intent=intro,BKL,intro
+脂漏性角化病 (BKL) 相關問題： BKL 的臨床表現是怎樣的？,這是良性的脂漏性角化病變。,disease=BKL intent=intro,BKL,intro
+脂漏性角化病 (BKL) 相關問題：BKL 和其他皮膚病有什麼區別？,這是良性的脂漏性角化病變。,disease=BKL intent=intro,BKL,intro
+脂漏性角化病 (BKL) 相關問題：能解釋一下 BKL 嗎？,這是良性的脂漏性角化病變。,disease=BKL intent=intro,BKL,intro
+脂漏性角化病 (BKL) 相關問題：BKL 是什麼？,屬於皮膚自然老化產物。,disease=BKL intent=intro,BKL,intro
+脂漏性角化病 (BKL) 相關問題：什麼是 BKL？,屬於皮膚自然老化產物。,disease=BKL intent=intro,BKL,intro
+脂漏性角化病 (BKL) 相關問題：BKL 是什麼病症？,屬於皮膚自然老化產物。,disease=BKL intent=intro,BKL,intro
+脂漏性角化病 (BKL) 相關問題：BKL 的成因是什麼？,屬於皮膚自然老化產物。,disease=BKL intent=intro,BKL,intro
+脂漏性角化病 (BKL) 相關問題：BKL 通常出現在哪個部位？,屬於皮膚自然老化產物。,disease=BKL intent=intro,BKL,intro
+脂漏性角化病 (BKL) 相關問題：能不能給我解釋一下 BKL 的基本資訊？,我們系統覺得可能是良性增生。,disease=BKL intent=intro,BKL,intro
+脂漏性角化病 (BKL) 相關問題：BKL 是什麼？,我們系統覺得可能是良性增生。,disease=BKL intent=intro,BKL,intro
+脂漏性角化病 (BKL) 相關問題：BKL 通常出現在哪個部位？,我們系統覺得可能是良性增生。,disease=BKL intent=intro,BKL,intro
+脂漏性角化病 (BKL) 相關問題：BKL 是怎樣的疾病？,我們系統覺得可能是良性增生。,disease=BKL intent=intro,BKL,intro
+脂漏性角化病 (BKL) 相關問題：BKL 的發病率高嗎？,我們系統覺得可能是良性增生。,disease=BKL intent=intro,BKL,intro
+脂漏性角化病 (BKL) 相關問題：BKL 的成因是什麼？,良性角化症，或稱脂漏性角化，是常見的皮膚增生。,disease=BKL intent=intro,BKL,intro
+脂漏性角化病 (BKL) 相關問題：介紹一下 BKL。,良性角化症，或稱脂漏性角化，是常見的皮膚增生。,disease=BKL intent=intro,BKL,intro
+脂漏性角化病 (BKL) 相關問題：我想了解 BKL 這個疾病，它主要表現是什麼？,良性角化症，或稱脂漏性角化，是常見的皮膚增生。,disease=BKL intent=intro,BKL,intro
+脂漏性角化病 (BKL) 相關問題：我想了解 BKL 這個疾病，它主要表現是什麼？,良性角化症，或稱脂漏性角化，是常見的皮膚增生。,disease=BKL intent=intro,BKL,intro
+脂漏性角化病 (BKL) 相關問題：能解釋一下 BKL 嗎？,良性角化症，或稱脂漏性角化，是常見的皮膚增生。,disease=BKL intent=intro,BKL,intro
+脂漏性角化病 (BKL) 相關問題：能解釋一下 BKL 嗎？,這看起來是 BKL，屬於良性且常見的皮膚增生，通常與年齡增長有關。,disease=BKL intent=intro,BKL,intro
+脂漏性角化病 (BKL) 相關問題：能解釋一下 BKL 嗎？,這看起來是 BKL，屬於良性且常見的皮膚增生，通常與年齡增長有關。,disease=BKL intent=intro,BKL,intro
+脂漏性角化病 (BKL) 相關問題：BKL 是一種什麼樣的皮膚狀況？,這看起來是 BKL，屬於良性且常見的皮膚增生，通常與年齡增長有關。,disease=BKL intent=intro,BKL,intro
+脂漏性角化病 (BKL) 相關問題：BKL 是什麼病？,這看起來是 BKL，屬於良性且常見的皮膚增生，通常與年齡增長有關。,disease=BKL intent=intro,BKL,intro
+脂漏性角化病 (BKL) 相關問題：BKL 的發病率高嗎？,這看起來是 BKL，屬於良性且常見的皮膚增生，通常與年齡增長有關。,disease=BKL intent=intro,BKL,intro
+脂漏性角化病 (BKL) 相關問題：BKL 的發病率高嗎？,系統識別出 BKL，這是一種常見的皮膚增生，通常呈現棕色或黑色斑塊。,disease=BKL intent=intro,BKL,intro
+脂漏性角化病 (BKL) 相關問題：BKL 通常出現在哪個部位？,系統識別出 BKL，這是一種常見的皮膚增生，通常呈現棕色或黑色斑塊。,disease=BKL intent=intro,BKL,intro
+脂漏性角化病 (BKL) 相關問題：BKL 是怎樣的疾病？,系統識別出 BKL，這是一種常見的皮膚增生，通常呈現棕色或黑色斑塊。,disease=BKL intent=intro,BKL,intro
+脂漏性角化病 (BKL) 相關問題：BKL 通常出現在哪個部位？,系統識別出 BKL，這是一種常見的皮膚增生，通常呈現棕色或黑色斑塊。,disease=BKL intent=intro,BKL,intro
+脂漏性角化病 (BKL) 相關問題： BKL 有哪些亞型？,系統識別出 BKL，這是一種常見的皮膚增生，通常呈現棕色或黑色斑塊。,disease=BKL intent=intro,BKL,intro
+脂漏性角化病 (BKL) 相關問題：我想了解 BKL 這個疾病，它主要表現是什麼？,脂漏性角化病（BKL）是一種良性皮膚增生，俗稱老人斑。,disease=BKL intent=intro,BKL,intro
+脂漏性角化病 (BKL) 相關問題： BKL 的病理學特點是什麼？,脂漏性角化病（BKL）是一種良性皮膚增生，俗稱老人斑。,disease=BKL intent=intro,BKL,intro
+脂漏性角化病 (BKL) 相關問題： BKL 的臨床表現是怎樣的？,脂漏性角化病（BKL）是一種良性皮膚增生，俗稱老人斑。,disease=BKL intent=intro,BKL,intro
+脂漏性角化病 (BKL) 相關問題：請說明一下 BKL 的特點。,脂漏性角化病（BKL）是一種良性皮膚增生，俗稱老人斑。,disease=BKL intent=intro,BKL,intro
+脂漏性角化病 (BKL) 相關問題： BKL 的診斷標準是什麼？,脂漏性角化病（BKL）是一種良性皮膚增生，俗稱老人斑。,disease=BKL intent=intro,BKL,intro
+脂漏性角化病 (BKL) 相關問題：BKL 是什麼病症？,BKL 表現為棕色、黑色或膚色的疣狀突起，表面粗糙。,disease=BKL intent=intro,BKL,intro
+脂漏性角化病 (BKL) 相關問題：BKL 是怎樣的疾病？,BKL 表現為棕色、黑色或膚色的疣狀突起，表面粗糙。,disease=BKL intent=intro,BKL,intro
+脂漏性角化病 (BKL) 相關問題：介紹一下 BKL。,BKL 表現為棕色、黑色或膚色的疣狀突起，表面粗糙。,disease=BKL intent=intro,BKL,intro
+脂漏性角化病 (BKL) 相關問題： BKL 的病理學特點是什麼？,BKL 表現為棕色、黑色或膚色的疣狀突起，表面粗糙。,disease=BKL intent=intro,BKL,intro
+脂漏性角化病 (BKL) 相關問題：能不能給我解釋一下 BKL 的基本資訊？,BKL 表現為棕色、黑色或膚色的疣狀突起，表面粗糙。,disease=BKL intent=intro,BKL,intro
+脂漏性角化病 (BKL) 相關問題： BKL 的病理學特點是什麼？,脂漏性角化病是皮膚老化的現象，無害。,disease=BKL intent=intro,BKL,intro
+脂漏性角化病 (BKL) 相關問題：BKL 是怎樣的疾病？,脂漏性角化病是皮膚老化的現象，無害。,disease=BKL intent=intro,BKL,intro
+脂漏性角化病 (BKL) 相關問題：什麼是 BKL？,脂漏性角化病是皮膚老化的現象，無害。,disease=BKL intent=intro,BKL,intro
+脂漏性角化病 (BKL) 相關問題：BKL 是什麼？,脂漏性角化病是皮膚老化的現象，無害。,disease=BKL intent=intro,BKL,intro
+脂漏性角化病 (BKL) 相關問題：BKL 的發病率高嗎？,脂漏性角化病是皮膚老化的現象，無害。,disease=BKL intent=intro,BKL,intro
+脂漏性角化病 (BKL) 相關問題：BKL 這個狀況，我應該去看哪個科別的醫生？,BKL 建議由醫師進一步診斷。,disease=BKL intent=need_doctor,BKL,need_doctor
+脂漏性角化病 (BKL) 相關問題：BKL 要不要去看醫生？,BKL 建議由醫師進一步診斷。,disease=BKL intent=need_doctor,BKL,need_doctor
+脂漏性角化病 (BKL) 相關問題：我應該在什麼情況下為 BKL 就診？,BKL 建議由醫師進一步診斷。,disease=BKL intent=need_doctor,BKL,need_doctor
+脂漏性角化病 (BKL) 相關問題：得了 BKL 要掛什麼科？,BKL 建議由醫師進一步診斷。,disease=BKL intent=need_doctor,BKL,need_doctor
+脂漏性角化病 (BKL) 相關問題：醫生會如何診斷 BKL？,BKL 建議由醫師進一步診斷。,disease=BKL intent=need_doctor,BKL,need_doctor
+脂漏性角化病 (BKL) 相關問題： BKL 看醫生前需要準備什麼？,這種情況（BKL）建議由皮膚科專業人員判斷。,disease=BKL intent=need_doctor,BKL,need_doctor
+脂漏性角化病 (BKL) 相關問題：BKL 什麼時候要就診？,這種情況（BKL）建議由皮膚科專業人員判斷。,disease=BKL intent=need_doctor,BKL,need_doctor
+脂漏性角化病 (BKL) 相關問題：得了 BKL 什麼時候需要立刻去看醫生？,這種情況（BKL）建議由皮膚科專業人員判斷。,disease=BKL intent=need_doctor,BKL,need_doctor
+脂漏性角化病 (BKL) 相關問題：什麼時候需要因為 BKL 去醫院？,這種情況（BKL）建議由皮膚科專業人員判斷。,disease=BKL intent=need_doctor,BKL,need_doctor
+脂漏性角化病 (BKL) 相關問題： BKL 需要做什麼檢查嗎？,這種情況（BKL）建議由皮膚科專業人員判斷。,disease=BKL intent=need_doctor,BKL,need_doctor
+脂漏性角化病 (BKL) 相關問題：有 BKL 要看醫生嗎？,針對 BKL，建議儘快就醫以確保安全。,disease=BKL intent=need_doctor,BKL,need_doctor
+脂漏性角化病 (BKL) 相關問題：得了 BKL 要去醫院嗎？,針對 BKL，建議儘快就醫以確保安全。,disease=BKL intent=need_doctor,BKL,need_doctor
+脂漏性角化病 (BKL) 相關問題：什麼時候我需要緊急就醫 BKL？,針對 BKL，建議儘快就醫以確保安全。,disease=BKL intent=need_doctor,BKL,need_doctor
+脂漏性角化病 (BKL) 相關問題： BKL 可以在一般診所看嗎？還是要去大醫院？,針對 BKL，建議儘快就醫以確保安全。,disease=BKL intent=need_doctor,BKL,need_doctor
+脂漏性角化病 (BKL) 相關問題：有 BKL 要看醫生嗎？,針對 BKL，建議儘快就醫以確保安全。,disease=BKL intent=need_doctor,BKL,need_doctor
+脂漏性角化病 (BKL) 相關問題：患有 BKL 的話，有沒有必要去醫院檢查一下？,BKL 若有變化，請儘早就診。,disease=BKL intent=need_doctor,BKL,need_doctor
+脂漏性角化病 (BKL) 相關問題：我應該在什麼情況下為 BKL 就診？,BKL 若有變化，請儘早就診。,disease=BKL intent=need_doctor,BKL,need_doctor
+脂漏性角化病 (BKL) 相關問題： BKL 需要定期回診嗎？,BKL 若有變化，請儘早就診。,disease=BKL intent=need_doctor,BKL,need_doctor
+脂漏性角化病 (BKL) 相關問題：什麼時候我需要緊急就醫 BKL？,BKL 若有變化，請儘早就診。,disease=BKL intent=need_doctor,BKL,need_doctor
+脂漏性角化病 (BKL) 相關問題：患有 BKL 的話，有沒有必要去醫院檢查一下？,BKL 若有變化，請儘早就診。,disease=BKL intent=need_doctor,BKL,need_doctor
+脂漏性角化病 (BKL) 相關問題：如果我被診斷出 BKL，是否需要馬上就醫？,一般來說不得處理一下，除非癢或破損。,disease=BKL intent=need_doctor,BKL,need_doctor
+脂漏性角化病 (BKL) 相關問題：關於 BKL，有哪些情況是必須尋求醫生幫助的？,一般來說不得處理一下，除非癢或破損。,disease=BKL intent=need_doctor,BKL,need_doctor
+脂漏性角化病 (BKL) 相關問題：患有 BKL 的話，有沒有必要去醫院檢查一下？,一般來說不得處理一下，除非癢或破損。,disease=BKL intent=need_doctor,BKL,need_doctor
+脂漏性角化病 (BKL) 相關問題：什麼時候需要因為 BKL 去醫院？,一般來說不得處理一下，除非癢或破損。,disease=BKL intent=need_doctor,BKL,need_doctor
+脂漏性角化病 (BKL) 相關問題：什麼時候需要因為 BKL 去醫院？,一般來說不得處理一下，除非癢或破損。,disease=BKL intent=need_doctor,BKL,need_doctor
+脂漏性角化病 (BKL) 相關問題：我得了 BKL，去看醫生會有幫助嗎？,若 BKL 快速變化、發癢或流血，建議就醫評估。,disease=BKL intent=need_doctor,BKL,need_doctor
+脂漏性角化病 (BKL) 相關問題：什麼時候我需要緊急就醫 BKL？,若 BKL 快速變化、發癢或流血，建議就醫評估。,disease=BKL intent=need_doctor,BKL,need_doctor
+脂漏性角化病 (BKL) 相關問題：BKL 需要就醫嗎？,若 BKL 快速變化、發癢或流血，建議就醫評估。,disease=BKL intent=need_doctor,BKL,need_doctor
+脂漏性角化病 (BKL) 相關問題：如果 BKL 惡化了，要立即就醫嗎？,若 BKL 快速變化、發癢或流血，建議就醫評估。,disease=BKL intent=need_doctor,BKL,need_doctor
+脂漏性角化病 (BKL) 相關問題：得了 BKL 要去醫院嗎？,若 BKL 快速變化、發癢或流血，建議就醫評估。,disease=BKL intent=need_doctor,BKL,need_doctor
+脂漏性角化病 (BKL) 相關問題：得了 BKL 什麼時候需要立刻去看醫生？,如果對 BKL 的外觀有疑慮，或它造成不適，可以諮詢皮膚科醫生。,disease=BKL intent=need_doctor,BKL,need_doctor
+脂漏性角化病 (BKL) 相關問題：什麼時候需要因為 BKL 去醫院？,如果對 BKL 的外觀有疑慮，或它造成不適，可以諮詢皮膚科醫生。,disease=BKL intent=need_doctor,BKL,need_doctor
+脂漏性角化病 (BKL) 相關問題：如果 BKL 惡化了，要立即就醫嗎？,如果對 BKL 的外觀有疑慮，或它造成不適，可以諮詢皮膚科醫生。,disease=BKL intent=need_doctor,BKL,need_doctor
+脂漏性角化病 (BKL) 相關問題：得了 BKL 要掛什麼科？,如果對 BKL 的外觀有疑慮，或它造成不適，可以諮詢皮膚科醫生。,disease=BKL intent=need_doctor,BKL,need_doctor
+脂漏性角化病 (BKL) 相關問題：得了 BKL 什麼時候需要立刻去看醫生？,如果對 BKL 的外觀有疑慮，或它造成不適，可以諮詢皮膚科醫生。,disease=BKL intent=need_doctor,BKL,need_doctor
+脂漏性角化病 (BKL) 相關問題：BKL 要不要去看醫生？,儘管 BKL 多為良性，但若發現異常變化，建議尋求專業醫療建議。,disease=BKL intent=need_doctor,BKL,need_doctor
+脂漏性角化病 (BKL) 相關問題：患有 BKL 的話，有沒有必要去醫院檢查一下？,儘管 BKL 多為良性，但若發現異常變化，建議尋求專業醫療建議。,disease=BKL intent=need_doctor,BKL,need_doctor
+脂漏性角化病 (BKL) 相關問題：BKL 要不要去看醫生？,儘管 BKL 多為良性，但若發現異常變化，建議尋求專業醫療建議。,disease=BKL intent=need_doctor,BKL,need_doctor
+脂漏性角化病 (BKL) 相關問題： BKL 需要做什麼檢查嗎？,儘管 BKL 多為良性，但若發現異常變化，建議尋求專業醫療建議。,disease=BKL intent=need_doctor,BKL,need_doctor
+脂漏性角化病 (BKL) 相關問題：BKL 這個狀況，我應該去看哪個科別的醫生？,儘管 BKL 多為良性，但若發現異常變化，建議尋求專業醫療建議。,disease=BKL intent=need_doctor,BKL,need_doctor
+脂漏性角化病 (BKL) 相關問題：如果我被診斷出 BKL，是否需要馬上就醫？,BKL 通常不需就醫，但若有疑慮可諮詢。,disease=BKL intent=need_doctor,BKL,need_doctor
+脂漏性角化病 (BKL) 相關問題：得了 BKL 什麼時候需要立刻去看醫生？,BKL 通常不需就醫，但若有疑慮可諮詢。,disease=BKL intent=need_doctor,BKL,need_doctor
+脂漏性角化病 (BKL) 相關問題：患有 BKL 的話，有沒有必要去醫院檢查一下？,BKL 通常不需就醫，但若有疑慮可諮詢。,disease=BKL intent=need_doctor,BKL,need_doctor
+脂漏性角化病 (BKL) 相關問題：得了 BKL 什麼時候需要立刻去看醫生？,BKL 通常不需就醫，但若有疑慮可諮詢。,disease=BKL intent=need_doctor,BKL,need_doctor
+脂漏性角化病 (BKL) 相關問題：BKL 需要看醫生嗎？,BKL 通常不需就醫，但若有疑慮可諮詢。,disease=BKL intent=need_doctor,BKL,need_doctor
+脂漏性角化病 (BKL) 相關問題：我得了 BKL，去看醫生會有幫助嗎？,BKL 通常不需就醫，但若形態變化或搔癢可諮詢。,disease=BKL intent=need_doctor,BKL,need_doctor
+脂漏性角化病 (BKL) 相關問題：我應該在什麼情況下為 BKL 就診？,BKL 通常不需就醫，但若形態變化或搔癢可諮詢。,disease=BKL intent=need_doctor,BKL,need_doctor
+脂漏性角化病 (BKL) 相關問題：BKL 什麼時候要就診？,BKL 通常不需就醫，但若形態變化或搔癢可諮詢。,disease=BKL intent=need_doctor,BKL,need_doctor
+脂漏性角化病 (BKL) 相關問題：得了 BKL 要去醫院嗎？,BKL 通常不需就醫，但若形態變化或搔癢可諮詢。,disease=BKL intent=need_doctor,BKL,need_doctor
+脂漏性角化病 (BKL) 相關問題：BKL 要不要去看醫生？,BKL 通常不需就醫，但若形態變化或搔癢可諮詢。,disease=BKL intent=need_doctor,BKL,need_doctor
+脂漏性角化病 (BKL) 相關問題：關於 BKL，有哪些情況是必須尋求醫生幫助的？,若不確定皮膚斑點是否為 BKL，可請皮膚科醫師確認。,disease=BKL intent=need_doctor,BKL,need_doctor
+脂漏性角化病 (BKL) 相關問題：BKL 這個狀況，我應該去看哪個科別的醫生？,若不確定皮膚斑點是否為 BKL，可請皮膚科醫師確認。,disease=BKL intent=need_doctor,BKL,need_doctor
+脂漏性角化病 (BKL) 相關問題：BKL 什麼時候要就診？,若不確定皮膚斑點是否為 BKL，可請皮膚科醫師確認。,disease=BKL intent=need_doctor,BKL,need_doctor
+脂漏性角化病 (BKL) 相關問題： BKL 可以在一般診所看嗎？還是要去大醫院？,若不確定皮膚斑點是否為 BKL，可請皮膚科醫師確認。,disease=BKL intent=need_doctor,BKL,need_doctor
+脂漏性角化病 (BKL) 相關問題：BKL 需要就醫嗎？,若不確定皮膚斑點是否為 BKL，可請皮膚科醫師確認。,disease=BKL intent=need_doctor,BKL,need_doctor
+脂漏性角化病 (BKL) 相關問題：BKL 需要就醫嗎？,脂漏性角化病僅在有疑慮或美觀需求時考慮就醫。,disease=BKL intent=need_doctor,BKL,need_doctor
+脂漏性角化病 (BKL) 相關問題：患有 BKL 的話，有沒有必要去醫院檢查一下？,脂漏性角化病僅在有疑慮或美觀需求時考慮就醫。,disease=BKL intent=need_doctor,BKL,need_doctor
+脂漏性角化病 (BKL) 相關問題：有 BKL 要看醫生嗎？,脂漏性角化病僅在有疑慮或美觀需求時考慮就醫。,disease=BKL intent=need_doctor,BKL,need_doctor
+脂漏性角化病 (BKL) 相關問題： BKL 看醫生前需要準備什麼？,脂漏性角化病僅在有疑慮或美觀需求時考慮就醫。,disease=BKL intent=need_doctor,BKL,need_doctor
+脂漏性角化病 (BKL) 相關問題：醫生會如何診斷 BKL？,脂漏性角化病僅在有疑慮或美觀需求時考慮就醫。,disease=BKL intent=need_doctor,BKL,need_doctor
+脂漏性角化病 (BKL) 相關問題：BKL 的危險性高嗎？,雖然目前為 BKL，但仍需注意惡性可能。,disease=BKL intent=risk,BKL,risk
+脂漏性角化病 (BKL) 相關問題：BKL 會不會留下疤痕？,雖然目前為 BKL，但仍需注意惡性可能。,disease=BKL intent=risk,BKL,risk
+脂漏性角化病 (BKL) 相關問題：有哪些情況下 BKL 會變得更嚴重？,雖然目前為 BKL，但仍需注意惡性可能。,disease=BKL intent=risk,BKL,risk
+脂漏性角化病 (BKL) 相關問題：BKL 和其他疾病有相關性嗎？,雖然目前為 BKL，但仍需注意惡性可能。,disease=BKL intent=risk,BKL,risk
+脂漏性角化病 (BKL) 相關問題：BKL 會不會留下疤痕？,雖然目前為 BKL，但仍需注意惡性可能。,disease=BKL intent=risk,BKL,risk
+脂漏性角化病 (BKL) 相關問題：BKL 需要擔心嗎？,BKL 有可能惡化，建議定期追蹤。,disease=BKL intent=risk,BKL,risk
+脂漏性角化病 (BKL) 相關問題：BKL 會影響生活品質嗎？,BKL 有可能惡化，建議定期追蹤。,disease=BKL intent=risk,BKL,risk
+脂漏性角化病 (BKL) 相關問題：BKL 有什麼風險？,BKL 有可能惡化，建議定期追蹤。,disease=BKL intent=risk,BKL,risk
+脂漏性角化病 (BKL) 相關問題： BKL 的復發機率大嗎？,BKL 有可能惡化，建議定期追蹤。,disease=BKL intent=risk,BKL,risk
+脂漏性角化病 (BKL) 相關問題：BKL 需要擔心嗎？,BKL 有可能惡化，建議定期追蹤。,disease=BKL intent=risk,BKL,risk
+脂漏性角化病 (BKL) 相關問題：如果我患有 BKL，需要警惕哪些風險？,這種病變（BKL）需留意變化與風險。,disease=BKL intent=risk,BKL,risk
+脂漏性角化病 (BKL) 相關問題：BKL 的長期預後如何？會不會有危險？,這種病變（BKL）需留意變化與風險。,disease=BKL intent=risk,BKL,risk
+脂漏性角化病 (BKL) 相關問題：BKL 危險嗎？,這種病變（BKL）需留意變化與風險。,disease=BKL intent=risk,BKL,risk
+脂漏性角化病 (BKL) 相關問題：BKL 有什麼風險？,這種病變（BKL）需留意變化與風險。,disease=BKL intent=risk,BKL,risk
+脂漏性角化病 (BKL) 相關問題：患有 BKL 需要擔心癌變嗎？,這種病變（BKL）需留意變化與風險。,disease=BKL intent=risk,BKL,risk
+脂漏性角化病 (BKL) 相關問題：BKL 會不會危及生命？,無癌化紀錄，屬安全病變。,disease=BKL intent=risk,BKL,risk
+脂漏性角化病 (BKL) 相關問題：BKL 危險嗎？,無癌化紀錄，屬安全病變。,disease=BKL intent=risk,BKL,risk
+脂漏性角化病 (BKL) 相關問題：BKL 會對身體造成什麼影響？,無癌化紀錄，屬安全病變。,disease=BKL intent=risk,BKL,risk
+脂漏性角化病 (BKL) 相關問題：得了 BKL 會有哪些不好的影響？,無癌化紀錄，屬安全病變。,disease=BKL intent=risk,BKL,risk
+脂漏性角化病 (BKL) 相關問題：BKL 會不會留下疤痕？,無癌化紀錄，屬安全病變。,disease=BKL intent=risk,BKL,risk
+脂漏性角化病 (BKL) 相關問題：患有 BKL 需要擔心癌變嗎？,BKL 是良性病變，通常不會惡化為惡性腫瘤。,disease=BKL intent=risk,BKL,risk
+脂漏性角化病 (BKL) 相關問題：BKL 會惡化嗎？,BKL 是良性病變，通常不會惡化為惡性腫瘤。,disease=BKL intent=risk,BKL,risk
+脂漏性角化病 (BKL) 相關問題：BKL 有什麼潛在問題？,BKL 是良性病變，通常不會惡化為惡性腫瘤。,disease=BKL intent=risk,BKL,risk
+脂漏性角化病 (BKL) 相關問題：有哪些情況下 BKL 會變得更嚴重？,BKL 是良性病變，通常不會惡化為惡性腫瘤。,disease=BKL intent=risk,BKL,risk
+脂漏性角化病 (BKL) 相關問題：BKL 有哪些潛在的健康風險或併發症？,BKL 是良性病變，通常不會惡化為惡性腫瘤。,disease=BKL intent=risk,BKL,risk
+脂漏性角化病 (BKL) 相關問題：BKL 需要擔心嗎？,這種良性角化症的癌變風險極低，但仍建議觀察其變化。,disease=BKL intent=risk,BKL,risk
+脂漏性角化病 (BKL) 相關問題： BKL 會引起疼痛嗎？,這種良性角化症的癌變風險極低，但仍建議觀察其變化。,disease=BKL intent=risk,BKL,risk
+脂漏性角化病 (BKL) 相關問題：BKL 會對身體造成什麼影響？,這種良性角化症的癌變風險極低，但仍建議觀察其變化。,disease=BKL intent=risk,BKL,risk
+脂漏性角化病 (BKL) 相關問題： BKL 會引起疼痛嗎？,這種良性角化症的癌變風險極低，但仍建議觀察其變化。,disease=BKL intent=risk,BKL,risk
+脂漏性角化病 (BKL) 相關問題：BKL 危險嗎？,這種良性角化症的癌變風險極低，但仍建議觀察其變化。,disease=BKL intent=risk,BKL,risk
+脂漏性角化病 (BKL) 相關問題：BKL 和其他疾病有相關性嗎？,BKL 不被視為癌前病變，惡性化的機率微乎其微。,disease=BKL intent=risk,BKL,risk
+脂漏性角化病 (BKL) 相關問題： BKL 會引起疼痛嗎？,BKL 不被視為癌前病變，惡性化的機率微乎其微。,disease=BKL intent=risk,BKL,risk
+脂漏性角化病 (BKL) 相關問題：BKL 的長期預後如何？會不會有危險？,BKL 不被視為癌前病變，惡性化的機率微乎其微。,disease=BKL intent=risk,BKL,risk
+脂漏性角化病 (BKL) 相關問題：BKL 會不會危及生命？,BKL 不被視為癌前病變，惡性化的機率微乎其微。,disease=BKL intent=risk,BKL,risk
+脂漏性角化病 (BKL) 相關問題： BKL 有什麼長期後遺症嗎？,BKL 不被視為癌前病變，惡性化的機率微乎其微。,disease=BKL intent=risk,BKL,risk
+脂漏性角化病 (BKL) 相關問題： BKL 的致死率高嗎？,BKL 為良性病灶，惡性風險極低。,disease=BKL intent=risk,BKL,risk
+脂漏性角化病 (BKL) 相關問題：BKL 會不會惡化成更嚴重的疾病？,BKL 為良性病灶，惡性風險極低。,disease=BKL intent=risk,BKL,risk
+脂漏性角化病 (BKL) 相關問題：患有 BKL 需要擔心癌變嗎？,BKL 為良性病灶，惡性風險極低。,disease=BKL intent=risk,BKL,risk
+脂漏性角化病 (BKL) 相關問題：BKL 需要擔心嗎？,BKL 為良性病灶，惡性風險極低。,disease=BKL intent=risk,BKL,risk
+脂漏性角化病 (BKL) 相關問題：BKL 有哪些潛在的健康風險或併發症？,BKL 為良性病灶，惡性風險極低。,disease=BKL intent=risk,BKL,risk
+脂漏性角化病 (BKL) 相關問題：BKL 和其他疾病有相關性嗎？,BKL 為良性病灶，幾乎沒有惡性轉變的風險。,disease=BKL intent=risk,BKL,risk
+脂漏性角化病 (BKL) 相關問題：患有 BKL 需要擔心癌變嗎？,BKL 為良性病灶，幾乎沒有惡性轉變的風險。,disease=BKL intent=risk,BKL,risk
+脂漏性角化病 (BKL) 相關問題： BKL 的致死率高嗎？,BKL 為良性病灶，幾乎沒有惡性轉變的風險。,disease=BKL intent=risk,BKL,risk
+脂漏性角化病 (BKL) 相關問題：BKL 有哪些潛在的健康風險或併發症？,BKL 為良性病灶，幾乎沒有惡性轉變的風險。,disease=BKL intent=risk,BKL,risk
+脂漏性角化病 (BKL) 相關問題：BKL 的長期預後如何？會不會有危險？,BKL 為良性病灶，幾乎沒有惡性轉變的風險。,disease=BKL intent=risk,BKL,risk
+脂漏性角化病 (BKL) 相關問題：BKL 有什麼潛在問題？,脂漏性角化病是完全良性的，不會對健康造成威脅。,disease=BKL intent=risk,BKL,risk
+脂漏性角化病 (BKL) 相關問題：得了 BKL 會有哪些不好的影響？,脂漏性角化病是完全良性的，不會對健康造成威脅。,disease=BKL intent=risk,BKL,risk
+脂漏性角化病 (BKL) 相關問題：BKL 的長期預後如何？會不會有危險？,脂漏性角化病是完全良性的，不會對健康造成威脅。,disease=BKL intent=risk,BKL,risk
+脂漏性角化病 (BKL) 相關問題： BKL 的復發機率大嗎？,脂漏性角化病是完全良性的，不會對健康造成威脅。,disease=BKL intent=risk,BKL,risk
+脂漏性角化病 (BKL) 相關問題：BKL 會有併發症嗎？,脂漏性角化病是完全良性的，不會對健康造成威脅。,disease=BKL intent=risk,BKL,risk
+脂漏性角化病 (BKL) 相關問題：BKL 有什麼潛在問題？,BKL 不會惡化成皮膚癌。,disease=BKL intent=risk,BKL,risk
+脂漏性角化病 (BKL) 相關問題：如果我患有 BKL，需要警惕哪些風險？,BKL 不會惡化成皮膚癌。,disease=BKL intent=risk,BKL,risk
+脂漏性角化病 (BKL) 相關問題：BKL 有什麼潛在問題？,BKL 不會惡化成皮膚癌。,disease=BKL intent=risk,BKL,risk
+脂漏性角化病 (BKL) 相關問題：BKL 和其他疾病有相關性嗎？,BKL 不會惡化成皮膚癌。,disease=BKL intent=risk,BKL,risk
+脂漏性角化病 (BKL) 相關問題：BKL 有哪些潛在的健康風險或併發症？,BKL 不會惡化成皮膚癌。,disease=BKL intent=risk,BKL,risk
+脂漏性角化病 (BKL) 相關問題：BKL 可以怎麼治療？,根據嚴重程度，BKL 可接受藥物或物理治療。,disease=BKL intent=treatment,BKL,treatment
+脂漏性角化病 (BKL) 相關問題：BKL 要怎麼治療？,根據嚴重程度，BKL 可接受藥物或物理治療。,disease=BKL intent=treatment,BKL,treatment
+脂漏性角化病 (BKL) 相關問題： BKL 的中醫治療方法是什麼？,根據嚴重程度，BKL 可接受藥物或物理治療。,disease=BKL intent=treatment,BKL,treatment
+脂漏性角化病 (BKL) 相關問題：BKL 可以不用治療嗎？,根據嚴重程度，BKL 可接受藥物或物理治療。,disease=BKL intent=treatment,BKL,treatment
+脂漏性角化病 (BKL) 相關問題：請問 BKL 要如何治療？,根據嚴重程度，BKL 可接受藥物或物理治療。,disease=BKL intent=treatment,BKL,treatment
+脂漏性角化病 (BKL) 相關問題：BKL 的治療流程是怎樣的？,BKL 建議依醫師建議進行個別化治療。,disease=BKL intent=treatment,BKL,treatment
+脂漏性角化病 (BKL) 相關問題：治療 BKL 的最新方法是什麼？,BKL 建議依醫師建議進行個別化治療。,disease=BKL intent=treatment,BKL,treatment
+脂漏性角化病 (BKL) 相關問題： BKL 治療期間有什麼需要注意的嗎？,BKL 建議依醫師建議進行個別化治療。,disease=BKL intent=treatment,BKL,treatment
+脂漏性角化病 (BKL) 相關問題：如果我被診斷出 BKL，下一步該怎麼辦？,BKL 建議依醫師建議進行個別化治療。,disease=BKL intent=treatment,BKL,treatment
+脂漏性角化病 (BKL) 相關問題： BKL 的中醫治療方法是什麼？,BKL 建議依醫師建議進行個別化治療。,disease=BKL intent=treatment,BKL,treatment
+脂漏性角化病 (BKL) 相關問題：得了 BKL 的話，有哪些治療方法可以選擇？,BKL 可透過冷凍、藥膏或雷射等方式治療。,disease=BKL intent=treatment,BKL,treatment
+脂漏性角化病 (BKL) 相關問題：得了 BKL 的話，有哪些治療方法可以選擇？,BKL 可透過冷凍、藥膏或雷射等方式治療。,disease=BKL intent=treatment,BKL,treatment
+脂漏性角化病 (BKL) 相關問題：BKL 治療後會復發嗎？,BKL 可透過冷凍、藥膏或雷射等方式治療。,disease=BKL intent=treatment,BKL,treatment
+脂漏性角化病 (BKL) 相關問題：我該如何治療 BKL？,BKL 可透過冷凍、藥膏或雷射等方式治療。,disease=BKL intent=treatment,BKL,treatment
+脂漏性角化病 (BKL) 相關問題：請問 BKL 要怎麼治療比較好？,BKL 可透過冷凍、藥膏或雷射等方式治療。,disease=BKL intent=treatment,BKL,treatment
+脂漏性角化病 (BKL) 相關問題：BKL 如何處理？,可透過冷凍、雷射或刮除去除。,disease=BKL intent=treatment,BKL,treatment
+脂漏性角化病 (BKL) 相關問題：BKL 如何處理？,可透過冷凍、雷射或刮除去除。,disease=BKL intent=treatment,BKL,treatment
+脂漏性角化病 (BKL) 相關問題：治療 BKL 的最新方法是什麼？,可透過冷凍、雷射或刮除去除。,disease=BKL intent=treatment,BKL,treatment
+脂漏性角化病 (BKL) 相關問題：我適合哪種 BKL 的治療方式？,可透過冷凍、雷射或刮除去除。,disease=BKL intent=treatment,BKL,treatment
+脂漏性角化病 (BKL) 相關問題：我適合哪種 BKL 的治療方式？,可透過冷凍、雷射或刮除去除。,disease=BKL intent=treatment,BKL,treatment
+脂漏性角化病 (BKL) 相關問題：BKL 的治療費用高嗎？,多為美容性治療，可不處理一下。,disease=BKL intent=treatment,BKL,treatment
+脂漏性角化病 (BKL) 相關問題：有什麼方法可以緩解 BKL 的症狀？,多為美容性治療，可不處理一下。,disease=BKL intent=treatment,BKL,treatment
+脂漏性角化病 (BKL) 相關問題：BKL 的治療費用高嗎？,多為美容性治療，可不處理一下。,disease=BKL intent=treatment,BKL,treatment
+脂漏性角化病 (BKL) 相關問題：治療 BKL 的最新方法是什麼？,多為美容性治療，可不處理一下。,disease=BKL intent=treatment,BKL,treatment
+脂漏性角化病 (BKL) 相關問題：BKL 可以不用治療嗎？,多為美容性治療，可不處理一下。,disease=BKL intent=treatment,BKL,treatment
+脂漏性角化病 (BKL) 相關問題：我應該在什麼時候開始治療 BKL？,醫師會提供適合的去除選擇。,disease=BKL intent=treatment,BKL,treatment
+脂漏性角化病 (BKL) 相關問題：BKL 的治療流程是怎樣的？,醫師會提供適合的去除選擇。,disease=BKL intent=treatment,BKL,treatment
+脂漏性角化病 (BKL) 相關問題： BKL 可以用雷射治療嗎？,醫師會提供適合的去除選擇。,disease=BKL intent=treatment,BKL,treatment
+脂漏性角化病 (BKL) 相關問題：我得了 BKL，該怎麼辦？,醫師會提供適合的去除選擇。,disease=BKL intent=treatment,BKL,treatment
+脂漏性角化病 (BKL) 相關問題： BKL 的中醫治療方法是什麼？,醫師會提供適合的去除選擇。,disease=BKL intent=treatment,BKL,treatment
+脂漏性角化病 (BKL) 相關問題： BKL 的中醫治療方法是什麼？,BKL 通常不需要治療，若有美觀或不適問題，可考慮冷凍治療或雷射。,disease=BKL intent=treatment,BKL,treatment
+脂漏性角化病 (BKL) 相關問題：BKL 可以不用治療嗎？,BKL 通常不需要治療，若有美觀或不適問題，可考慮冷凍治療或雷射。,disease=BKL intent=treatment,BKL,treatment
+脂漏性角化病 (BKL) 相關問題：請問 BKL 要怎麼治療比較好？,BKL 通常不需要治療，若有美觀或不適問題，可考慮冷凍治療或雷射。,disease=BKL intent=treatment,BKL,treatment
+脂漏性角化病 (BKL) 相關問題： BKL 治療期間有什麼需要注意的嗎？,BKL 通常不需要治療，若有美觀或不適問題，可考慮冷凍治療或雷射。,disease=BKL intent=treatment,BKL,treatment
+脂漏性角化病 (BKL) 相關問題：針對 BKL，醫生通常會建議什麼治療？,BKL 通常不需要治療，若有美觀或不適問題，可考慮冷凍治療或雷射。,disease=BKL intent=treatment,BKL,treatment
+脂漏性角化病 (BKL) 相關問題：BKL 的治療費用高嗎？,對於 BKL，您可以諮詢醫生是否適合進行冷凍、電燒或雷射去除。,disease=BKL intent=treatment,BKL,treatment
+脂漏性角化病 (BKL) 相關問題：治療 BKL 的成功率大概是多少？,對於 BKL，您可以諮詢醫生是否適合進行冷凍、電燒或雷射去除。,disease=BKL intent=treatment,BKL,treatment
+脂漏性角化病 (BKL) 相關問題： BKL 可以用雷射治療嗎？,對於 BKL，您可以諮詢醫生是否適合進行冷凍、電燒或雷射去除。,disease=BKL intent=treatment,BKL,treatment
+脂漏性角化病 (BKL) 相關問題：BKL 的治療方案有哪些？,對於 BKL，您可以諮詢醫生是否適合進行冷凍、電燒或雷射去除。,disease=BKL intent=treatment,BKL,treatment
+脂漏性角化病 (BKL) 相關問題：請問 BKL 要怎麼治療比較好？,對於 BKL，您可以諮詢醫生是否適合進行冷凍、電燒或雷射去除。,disease=BKL intent=treatment,BKL,treatment
+脂漏性角化病 (BKL) 相關問題：得了 BKL 的話，有哪些治療方法可以選擇？,良性角化症的治療多為美容性質，例如雷射或手術切除，但非必要。,disease=BKL intent=treatment,BKL,treatment
+脂漏性角化病 (BKL) 相關問題：BKL 的治療流程是怎樣的？,良性角化症的治療多為美容性質，例如雷射或手術切除，但非必要。,disease=BKL intent=treatment,BKL,treatment
+脂漏性角化病 (BKL) 相關問題：我該如何治療 BKL？,良性角化症的治療多為美容性質，例如雷射或手術切除，但非必要。,disease=BKL intent=treatment,BKL,treatment
+脂漏性角化病 (BKL) 相關問題：請問 BKL 要如何治療？,良性角化症的治療多為美容性質，例如雷射或手術切除，但非必要。,disease=BKL intent=treatment,BKL,treatment
+脂漏性角化病 (BKL) 相關問題： BKL 的中醫治療方法是什麼？,良性角化症的治療多為美容性質，例如雷射或手術切除，但非必要。,disease=BKL intent=treatment,BKL,treatment
+脂漏性角化病 (BKL) 相關問題：得了 BKL 的話，有哪些治療方法可以選擇？,BKL 通常不需特殊治療，但可考慮冷凍或雷射。,disease=BKL intent=treatment,BKL,treatment
+脂漏性角化病 (BKL) 相關問題：BKL 可以怎麼治療？,BKL 通常不需特殊治療，但可考慮冷凍或雷射。,disease=BKL intent=treatment,BKL,treatment
+脂漏性角化病 (BKL) 相關問題：我應該在什麼時候開始治療 BKL？,BKL 通常不需特殊治療，但可考慮冷凍或雷射。,disease=BKL intent=treatment,BKL,treatment
+脂漏性角化病 (BKL) 相關問題：BKL 可以不用治療嗎？,BKL 通常不需特殊治療，但可考慮冷凍或雷射。,disease=BKL intent=treatment,BKL,treatment
+脂漏性角化病 (BKL) 相關問題：BKL 治療後會復發嗎？,BKL 通常不需特殊治療，但可考慮冷凍或雷射。,disease=BKL intent=treatment,BKL,treatment
+脂漏性角化病 (BKL) 相關問題：請問 BKL 要怎麼治療比較好？,BKL 通常不需治療，若美觀需求可冷凍或雷射。,disease=BKL intent=treatment,BKL,treatment
+脂漏性角化病 (BKL) 相關問題：治療 BKL 的最新方法是什麼？,BKL 通常不需治療，若美觀需求可冷凍或雷射。,disease=BKL intent=treatment,BKL,treatment
+脂漏性角化病 (BKL) 相關問題： BKL 治療期間有什麼需要注意的嗎？,BKL 通常不需治療，若美觀需求可冷凍或雷射。,disease=BKL intent=treatment,BKL,treatment
+脂漏性角化病 (BKL) 相關問題：我應該在什麼時候開始治療 BKL？,BKL 通常不需治療，若美觀需求可冷凍或雷射。,disease=BKL intent=treatment,BKL,treatment
+脂漏性角化病 (BKL) 相關問題：針對 BKL 有沒有非手術的治療選項？,BKL 通常不需治療，若美觀需求可冷凍或雷射。,disease=BKL intent=treatment,BKL,treatment
+脂漏性角化病 (BKL) 相關問題：BKL 的治療費用高嗎？,針對脂漏性角化病，可用液態氮冷凍或電燒移除。,disease=BKL intent=treatment,BKL,treatment
+脂漏性角化病 (BKL) 相關問題： BKL 治療期間有什麼需要注意的嗎？,針對脂漏性角化病，可用液態氮冷凍或電燒移除。,disease=BKL intent=treatment,BKL,treatment
+脂漏性角化病 (BKL) 相關問題：BKL 如何處理？,針對脂漏性角化病，可用液態氮冷凍或電燒移除。,disease=BKL intent=treatment,BKL,treatment
+脂漏性角化病 (BKL) 相關問題： BKL 可以用雷射治療嗎？,針對脂漏性角化病，可用液態氮冷凍或電燒移除。,disease=BKL intent=treatment,BKL,treatment
+脂漏性角化病 (BKL) 相關問題：我得了 BKL，該怎麼辦？,針對脂漏性角化病，可用液態氮冷凍或電燒移除。,disease=BKL intent=treatment,BKL,treatment
+脂漏性角化病 (BKL) 相關問題：BKL 要怎麼治療？,BKL 的治療主要是美觀考量，如刮除或雷射。,disease=BKL intent=treatment,BKL,treatment
+脂漏性角化病 (BKL) 相關問題：BKL 的治療方法是什麼？,BKL 的治療主要是美觀考量，如刮除或雷射。,disease=BKL intent=treatment,BKL,treatment
+脂漏性角化病 (BKL) 相關問題：BKL 要怎麼治療？,BKL 的治療主要是美觀考量，如刮除或雷射。,disease=BKL intent=treatment,BKL,treatment
+脂漏性角化病 (BKL) 相關問題：BKL 的治療方法是什麼？,BKL 的治療主要是美觀考量，如刮除或雷射。,disease=BKL intent=treatment,BKL,treatment
+脂漏性角化病 (BKL) 相關問題：我該如何治療 BKL？,BKL 的治療主要是美觀考量，如刮除或雷射。,disease=BKL intent=treatment,BKL,treatment
+纖維瘤 (DF) 相關問題：DF 會不會傳染給別人？,目前沒有證據顯示 DF 會傳染。,disease=DF intent=contagious,DF,contagious
+纖維瘤 (DF) 相關問題： DF 會從母體傳染給胎兒嗎？,目前沒有證據顯示 DF 會傳染。,disease=DF intent=contagious,DF,contagious
+纖維瘤 (DF) 相關問題：DF 會不會交叉感染？,目前沒有證據顯示 DF 會傳染。,disease=DF intent=contagious,DF,contagious
+纖維瘤 (DF) 相關問題：DF 會傳播嗎？,目前沒有證據顯示 DF 會傳染。,disease=DF intent=contagious,DF,contagious
+纖維瘤 (DF) 相關問題：寵物會把 DF 傳染給我嗎？,目前沒有證據顯示 DF 會傳染。,disease=DF intent=contagious,DF,contagious
+纖維瘤 (DF) 相關問題：我得了 DF，會不會感染其他人？,與細菌或病毒無關，不會傳染。,disease=DF intent=contagious,DF,contagious
+纖維瘤 (DF) 相關問題：DF 會傳播嗎？,與細菌或病毒無關，不會傳染。,disease=DF intent=contagious,DF,contagious
+纖維瘤 (DF) 相關問題：DF 會傳染嗎？,與細菌或病毒無關，不會傳染。,disease=DF intent=contagious,DF,contagious
+纖維瘤 (DF) 相關問題：DF 是由接觸傳播的嗎？,與細菌或病毒無關，不會傳染。,disease=DF intent=contagious,DF,contagious
+纖維瘤 (DF) 相關問題：DF 會通過空氣傳染嗎？,與細菌或病毒無關，不會傳染。,disease=DF intent=contagious,DF,contagious
+纖維瘤 (DF) 相關問題：我得了 DF，會不會感染其他人？,屬於個體皮膚變化，不會傳染。,disease=DF intent=contagious,DF,contagious
+纖維瘤 (DF) 相關問題： DF 傳染期是多久？,屬於個體皮膚變化，不會傳染。,disease=DF intent=contagious,DF,contagious
+纖維瘤 (DF) 相關問題：DF 會不會交叉感染？,屬於個體皮膚變化，不會傳染。,disease=DF intent=contagious,DF,contagious
+纖維瘤 (DF) 相關問題：DF 會通過血液傳染嗎？,屬於個體皮膚變化，不會傳染。,disease=DF intent=contagious,DF,contagious
+纖維瘤 (DF) 相關問題：怎麼預防 DF 傳染？,屬於個體皮膚變化，不會傳染。,disease=DF intent=contagious,DF,contagious
+纖維瘤 (DF) 相關問題：DF 會傳播嗎？,完全沒有傳染性。,disease=DF intent=contagious,DF,contagious
+纖維瘤 (DF) 相關問題：DF 會通過血液傳染嗎？,完全沒有傳染性。,disease=DF intent=contagious,DF,contagious
+纖維瘤 (DF) 相關問題：我得了 DF，會不會感染其他人？,完全沒有傳染性。,disease=DF intent=contagious,DF,contagious
+纖維瘤 (DF) 相關問題：我的 DF 會傳染嗎？,完全沒有傳染性。,disease=DF intent=contagious,DF,contagious
+纖維瘤 (DF) 相關問題：DF 具有傳染性嗎？,完全沒有傳染性。,disease=DF intent=contagious,DF,contagious
+纖維瘤 (DF) 相關問題：DF 會不會感染他人？,皮膚纖維瘤（DF）不具傳染性。,disease=DF intent=contagious,DF,contagious
+纖維瘤 (DF) 相關問題：DF 是通過什麼方式傳染的？,皮膚纖維瘤（DF）不具傳染性。,disease=DF intent=contagious,DF,contagious
+纖維瘤 (DF) 相關問題： DF 傳染期是多久？,皮膚纖維瘤（DF）不具傳染性。,disease=DF intent=contagious,DF,contagious
+纖維瘤 (DF) 相關問題：DF 會不會交叉感染？,皮膚纖維瘤（DF）不具傳染性。,disease=DF intent=contagious,DF,contagious
+纖維瘤 (DF) 相關問題： DF 傳染期是多久？,皮膚纖維瘤（DF）不具傳染性。,disease=DF intent=contagious,DF,contagious
+纖維瘤 (DF) 相關問題： DF 會從母體傳染給胎兒嗎？,DF 不會傳染給他人，請不用擔心。,disease=DF intent=contagious,DF,contagious
+纖維瘤 (DF) 相關問題：DF 是通過什麼方式傳染的？,DF 不會傳染給他人，請不用擔心。,disease=DF intent=contagious,DF,contagious
+纖維瘤 (DF) 相關問題：我得了 DF，會不會感染其他人？,DF 不會傳染給他人，請不用擔心。,disease=DF intent=contagious,DF,contagious
+纖維瘤 (DF) 相關問題：DF 會不會感染他人？,DF 不會傳染給他人，請不用擔心。,disease=DF intent=contagious,DF,contagious
+纖維瘤 (DF) 相關問題：DF 具有傳染性嗎？,DF 不會傳染給他人，請不用擔心。,disease=DF intent=contagious,DF,contagious
+纖維瘤 (DF) 相關問題：如果我接觸了 DF 患者，會被傳染嗎？,皮膚纖維瘤屬於良性增生，沒有傳染的風險。,disease=DF intent=contagious,DF,contagious
+纖維瘤 (DF) 相關問題：DF 會不會傳染給家人或朋友？,皮膚纖維瘤屬於良性增生，沒有傳染的風險。,disease=DF intent=contagious,DF,contagious
+纖維瘤 (DF) 相關問題：DF 是由接觸傳播的嗎？,皮膚纖維瘤屬於良性增生，沒有傳染的風險。,disease=DF intent=contagious,DF,contagious
+纖維瘤 (DF) 相關問題：DF 會傳染嗎？,皮膚纖維瘤屬於良性增生，沒有傳染的風險。,disease=DF intent=contagious,DF,contagious
+纖維瘤 (DF) 相關問題：DF 會不會交叉感染？,皮膚纖維瘤屬於良性增生，沒有傳染的風險。,disease=DF intent=contagious,DF,contagious
+纖維瘤 (DF) 相關問題：DF 會不會感染他人？,皮膚纖維瘤不具傳染性。,disease=DF intent=contagious,DF,contagious
+纖維瘤 (DF) 相關問題：DF 會不會傳染給別人？,皮膚纖維瘤不具傳染性。,disease=DF intent=contagious,DF,contagious
+纖維瘤 (DF) 相關問題：怎麼預防 DF 傳染？,皮膚纖維瘤不具傳染性。,disease=DF intent=contagious,DF,contagious
+纖維瘤 (DF) 相關問題：如果我接觸了 DF 患者，會被傳染嗎？,皮膚纖維瘤不具傳染性。,disease=DF intent=contagious,DF,contagious
+纖維瘤 (DF) 相關問題：這種 DF 是傳染性的嗎？,皮膚纖維瘤不具傳染性。,disease=DF intent=contagious,DF,contagious
+纖維瘤 (DF) 相關問題：您可以簡要介紹一下 DF 是什麼嗎？,系統判斷這是 DF，常見於皮膚表層。,disease=DF intent=intro,DF,intro
+纖維瘤 (DF) 相關問題：能不能給我解釋一下 DF 的基本資訊？,系統判斷這是 DF，常見於皮膚表層。,disease=DF intent=intro,DF,intro
+纖維瘤 (DF) 相關問題：介紹一下 DF。,系統判斷這是 DF，常見於皮膚表層。,disease=DF intent=intro,DF,intro
+纖維瘤 (DF) 相關問題：介紹一下 DF。,系統判斷這是 DF，常見於皮膚表層。,disease=DF intent=intro,DF,intro
+纖維瘤 (DF) 相關問題：DF 的發病率高嗎？,系統判斷這是 DF，常見於皮膚表層。,disease=DF intent=intro,DF,intro
+纖維瘤 (DF) 相關問題： DF 的臨床表現是怎樣的？,DF 是一種常見的皮膚病。,disease=DF intent=intro,DF,intro
+纖維瘤 (DF) 相關問題：DF 的成因是什麼？,DF 是一種常見的皮膚病。,disease=DF intent=intro,DF,intro
+纖維瘤 (DF) 相關問題：DF 的症狀有哪些？,DF 是一種常見的皮膚病。,disease=DF intent=intro,DF,intro
+纖維瘤 (DF) 相關問題： DF 的臨床表現是怎樣的？,DF 是一種常見的皮膚病。,disease=DF intent=intro,DF,intro
+纖維瘤 (DF) 相關問題：這種 DF 是怎麼形成的？,DF 是一種常見的皮膚病。,disease=DF intent=intro,DF,intro
+纖維瘤 (DF) 相關問題：DF 的症狀有哪些？,這是一個皮膚纖維瘤（DF），通常是良性的皮膚增生。,disease=DF intent=intro,DF,intro
+纖維瘤 (DF) 相關問題：DF 的發病率高嗎？,這是一個皮膚纖維瘤（DF），通常是良性的皮膚增生。,disease=DF intent=intro,DF,intro
+纖維瘤 (DF) 相關問題：能不能給我解釋一下 DF 的基本資訊？,這是一個皮膚纖維瘤（DF），通常是良性的皮膚增生。,disease=DF intent=intro,DF,intro
+纖維瘤 (DF) 相關問題：DF 通常出現在哪個部位？,這是一個皮膚纖維瘤（DF），通常是良性的皮膚增生。,disease=DF intent=intro,DF,intro
+纖維瘤 (DF) 相關問題：我想了解 DF 這個疾病，它主要表現是什麼？,這是一個皮膚纖維瘤（DF），通常是良性的皮膚增生。,disease=DF intent=intro,DF,intro
+纖維瘤 (DF) 相關問題：能不能給我解釋一下 DF 的基本資訊？,系統判斷為皮膚纖維瘤，這是一種常見的良性皮膚結節。,disease=DF intent=intro,DF,intro
+纖維瘤 (DF) 相關問題： DF 有哪些亞型？,系統判斷為皮膚纖維瘤，這是一種常見的良性皮膚結節。,disease=DF intent=intro,DF,intro
+纖維瘤 (DF) 相關問題：介紹一下 DF。,系統判斷為皮膚纖維瘤，這是一種常見的良性皮膚結節。,disease=DF intent=intro,DF,intro
+纖維瘤 (DF) 相關問題：DF 是什麼病症？,系統判斷為皮膚纖維瘤，這是一種常見的良性皮膚結節。,disease=DF intent=intro,DF,intro
+纖維瘤 (DF) 相關問題： DF 的診斷標準是什麼？,系統判斷為皮膚纖維瘤，這是一種常見的良性皮膚結節。,disease=DF intent=intro,DF,intro
+纖維瘤 (DF) 相關問題： DF 的病理學特點是什麼？,皮膚纖維瘤（DF）通常是皮膚內的一種硬結，顏色可能與膚色相近或略深。,disease=DF intent=intro,DF,intro
+纖維瘤 (DF) 相關問題：DF 是怎樣的疾病？,皮膚纖維瘤（DF）通常是皮膚內的一種硬結，顏色可能與膚色相近或略深。,disease=DF intent=intro,DF,intro
+纖維瘤 (DF) 相關問題：DF 是什麼？,皮膚纖維瘤（DF）通常是皮膚內的一種硬結，顏色可能與膚色相近或略深。,disease=DF intent=intro,DF,intro
+纖維瘤 (DF) 相關問題：DF 是什麼？,皮膚纖維瘤（DF）通常是皮膚內的一種硬結，顏色可能與膚色相近或略深。,disease=DF intent=intro,DF,intro
+纖維瘤 (DF) 相關問題：能解釋一下 DF 嗎？,皮膚纖維瘤（DF）通常是皮膚內的一種硬結，顏色可能與膚色相近或略深。,disease=DF intent=intro,DF,intro
+纖維瘤 (DF) 相關問題：DF 是什麼病症？,DF 是皮膚下的良性結節。,disease=DF intent=intro,DF,intro
+纖維瘤 (DF) 相關問題：DF 的發病率高嗎？,DF 是皮膚下的良性結節。,disease=DF intent=intro,DF,intro
+纖維瘤 (DF) 相關問題：請介紹一下 DF,DF 是皮膚下的良性結節。,disease=DF intent=intro,DF,intro
+纖維瘤 (DF) 相關問題：DF 是怎樣的疾病？,DF 是皮膚下的良性結節。,disease=DF intent=intro,DF,intro
+纖維瘤 (DF) 相關問題：介紹一下 DF。,DF 是皮膚下的良性結節。,disease=DF intent=intro,DF,intro
+纖維瘤 (DF) 相關問題：DF 的成因是什麼？,皮膚纖維瘤（DF）是皮膚深層的良性結節。,disease=DF intent=intro,DF,intro
+纖維瘤 (DF) 相關問題： DF 有哪些亞型？,皮膚纖維瘤（DF）是皮膚深層的良性結節。,disease=DF intent=intro,DF,intro
+纖維瘤 (DF) 相關問題：DF 是怎樣的疾病？,皮膚纖維瘤（DF）是皮膚深層的良性結節。,disease=DF intent=intro,DF,intro
+纖維瘤 (DF) 相關問題：請介紹一下 DF,皮膚纖維瘤（DF）是皮膚深層的良性結節。,disease=DF intent=intro,DF,intro
+纖維瘤 (DF) 相關問題：DF 是什麼病？,皮膚纖維瘤（DF）是皮膚深層的良性結節。,disease=DF intent=intro,DF,intro
+纖維瘤 (DF) 相關問題： DF 的臨床表現是怎樣的？,DF 表現為皮膚上硬而凸起的腫塊，常呈棕色或紅色。,disease=DF intent=intro,DF,intro
+纖維瘤 (DF) 相關問題： DF 的病理學特點是什麼？,DF 表現為皮膚上硬而凸起的腫塊，常呈棕色或紅色。,disease=DF intent=intro,DF,intro
+纖維瘤 (DF) 相關問題：DF 是怎樣的疾病？,DF 表現為皮膚上硬而凸起的腫塊，常呈棕色或紅色。,disease=DF intent=intro,DF,intro
+纖維瘤 (DF) 相關問題： DF 的診斷標準是什麼？,DF 表現為皮膚上硬而凸起的腫塊，常呈棕色或紅色。,disease=DF intent=intro,DF,intro
+纖維瘤 (DF) 相關問題：DF 的定義是什麼？,DF 表現為皮膚上硬而凸起的腫塊，常呈棕色或紅色。,disease=DF intent=intro,DF,intro
+纖維瘤 (DF) 相關問題：能不能給我解釋一下 DF 的基本資訊？,皮膚纖維瘤是由纖維組織增生引起，通常無害。,disease=DF intent=intro,DF,intro
+纖維瘤 (DF) 相關問題：能不能給我解釋一下 DF 的基本資訊？,皮膚纖維瘤是由纖維組織增生引起，通常無害。,disease=DF intent=intro,DF,intro
+纖維瘤 (DF) 相關問題：什麼是 DF？,皮膚纖維瘤是由纖維組織增生引起，通常無害。,disease=DF intent=intro,DF,intro
+纖維瘤 (DF) 相關問題： DF 有哪些亞型？,皮膚纖維瘤是由纖維組織增生引起，通常無害。,disease=DF intent=intro,DF,intro
+纖維瘤 (DF) 相關問題：DF 的症狀有哪些？,皮膚纖維瘤是由纖維組織增生引起，通常無害。,disease=DF intent=intro,DF,intro
+纖維瘤 (DF) 相關問題： DF 可以在一般診所看嗎？還是要去大醫院？,DF 建議由醫師進一步診斷。,disease=DF intent=need_doctor,DF,need_doctor
+纖維瘤 (DF) 相關問題：DF 需要看醫生嗎？,DF 建議由醫師進一步診斷。,disease=DF intent=need_doctor,DF,need_doctor
+纖維瘤 (DF) 相關問題：得了 DF 要去醫院嗎？,DF 建議由醫師進一步診斷。,disease=DF intent=need_doctor,DF,need_doctor
+纖維瘤 (DF) 相關問題： DF 需要定期回診嗎？,DF 建議由醫師進一步診斷。,disease=DF intent=need_doctor,DF,need_doctor
+纖維瘤 (DF) 相關問題： DF 需要做什麼檢查嗎？,DF 建議由醫師進一步診斷。,disease=DF intent=need_doctor,DF,need_doctor
+纖維瘤 (DF) 相關問題：DF 需要就醫嗎？,這種情況（DF）建議由皮膚科專業人員判斷。,disease=DF intent=need_doctor,DF,need_doctor
+纖維瘤 (DF) 相關問題：有 DF 要看醫生嗎？,這種情況（DF）建議由皮膚科專業人員判斷。,disease=DF intent=need_doctor,DF,need_doctor
+纖維瘤 (DF) 相關問題：醫生會如何診斷 DF？,這種情況（DF）建議由皮膚科專業人員判斷。,disease=DF intent=need_doctor,DF,need_doctor
+纖維瘤 (DF) 相關問題： DF 看醫生前需要準備什麼？,這種情況（DF）建議由皮膚科專業人員判斷。,disease=DF intent=need_doctor,DF,need_doctor
+纖維瘤 (DF) 相關問題： DF 需要做什麼檢查嗎？,這種情況（DF）建議由皮膚科專業人員判斷。,disease=DF intent=need_doctor,DF,need_doctor
+纖維瘤 (DF) 相關問題：DF 需要就醫嗎？,DF 若有變化，請儘早就診。,disease=DF intent=need_doctor,DF,need_doctor
+纖維瘤 (DF) 相關問題：DF 這個狀況，我應該去看哪個科別的醫生？,DF 若有變化，請儘早就診。,disease=DF intent=need_doctor,DF,need_doctor
+纖維瘤 (DF) 相關問題： DF 需要做什麼檢查嗎？,DF 若有變化，請儘早就診。,disease=DF intent=need_doctor,DF,need_doctor
+纖維瘤 (DF) 相關問題： DF 可以在一般診所看嗎？還是要去大醫院？,DF 若有變化，請儘早就診。,disease=DF intent=need_doctor,DF,need_doctor
+纖維瘤 (DF) 相關問題： DF 需要做什麼檢查嗎？,DF 若有變化，請儘早就診。,disease=DF intent=need_doctor,DF,need_doctor
+纖維瘤 (DF) 相關問題：我得了 DF，去看醫生會有幫助嗎？,如持續增大我建議考慮安排看看。,disease=DF intent=need_doctor,DF,need_doctor
+纖維瘤 (DF) 相關問題： DF 需要做什麼檢查嗎？,如持續增大我建議考慮安排看看。,disease=DF intent=need_doctor,DF,need_doctor
+纖維瘤 (DF) 相關問題：患有 DF 的話，有沒有必要去醫院檢查一下？,如持續增大我建議考慮安排看看。,disease=DF intent=need_doctor,DF,need_doctor
+纖維瘤 (DF) 相關問題：什麼時候需要因為 DF 去醫院？,如持續增大我建議考慮安排看看。,disease=DF intent=need_doctor,DF,need_doctor
+纖維瘤 (DF) 相關問題：我應該在什麼情況下為 DF 就診？,如持續增大我建議考慮安排看看。,disease=DF intent=need_doctor,DF,need_doctor
+纖維瘤 (DF) 相關問題：DF 怎樣才需要看醫生？,如變大、癢或不舒服可就醫處理一下。,disease=DF intent=need_doctor,DF,need_doctor
+纖維瘤 (DF) 相關問題：患有 DF 的話，有沒有必要去醫院檢查一下？,如變大、癢或不舒服可就醫處理一下。,disease=DF intent=need_doctor,DF,need_doctor
+纖維瘤 (DF) 相關問題：得了 DF 要去醫院嗎？,如變大、癢或不舒服可就醫處理一下。,disease=DF intent=need_doctor,DF,need_doctor
+纖維瘤 (DF) 相關問題：DF 需要就醫嗎？,如變大、癢或不舒服可就醫處理一下。,disease=DF intent=need_doctor,DF,need_doctor
+纖維瘤 (DF) 相關問題：關於 DF，有哪些情況是必須尋求醫生幫助的？,如變大、癢或不舒服可就醫處理一下。,disease=DF intent=need_doctor,DF,need_doctor
+纖維瘤 (DF) 相關問題：如果 DF 惡化了，要立即就醫嗎？,如果皮膚纖維瘤快速增長、顏色變化或出現不適，建議就醫檢查。,disease=DF intent=need_doctor,DF,need_doctor
+纖維瘤 (DF) 相關問題：DF 怎樣才需要看醫生？,如果皮膚纖維瘤快速增長、顏色變化或出現不適，建議就醫檢查。,disease=DF intent=need_doctor,DF,need_doctor
+纖維瘤 (DF) 相關問題：什麼時候需要因為 DF 去醫院？,如果皮膚纖維瘤快速增長、顏色變化或出現不適，建議就醫檢查。,disease=DF intent=need_doctor,DF,need_doctor
+纖維瘤 (DF) 相關問題：我應該在什麼情況下為 DF 就診？,如果皮膚纖維瘤快速增長、顏色變化或出現不適，建議就醫檢查。,disease=DF intent=need_doctor,DF,need_doctor
+纖維瘤 (DF) 相關問題：關於 DF，有哪些情況是必須尋求醫生幫助的？,如果皮膚纖維瘤快速增長、顏色變化或出現不適，建議就醫檢查。,disease=DF intent=need_doctor,DF,need_doctor
+纖維瘤 (DF) 相關問題：DF 可以自行處理嗎？,若對皮膚纖維瘤有任何疑慮，或希望進行去除，請諮詢皮膚科醫師。,disease=DF intent=need_doctor,DF,need_doctor
+纖維瘤 (DF) 相關問題： DF 需要定期回診嗎？,若對皮膚纖維瘤有任何疑慮，或希望進行去除，請諮詢皮膚科醫師。,disease=DF intent=need_doctor,DF,need_doctor
+纖維瘤 (DF) 相關問題：如果 DF 惡化了，要立即就醫嗎？,若對皮膚纖維瘤有任何疑慮，或希望進行去除，請諮詢皮膚科醫師。,disease=DF intent=need_doctor,DF,need_doctor
+纖維瘤 (DF) 相關問題： DF 看醫生前需要準備什麼？,若對皮膚纖維瘤有任何疑慮，或希望進行去除，請諮詢皮膚科醫師。,disease=DF intent=need_doctor,DF,need_doctor
+纖維瘤 (DF) 相關問題：DF 需要就醫嗎？,若對皮膚纖維瘤有任何疑慮，或希望進行去除，請諮詢皮膚科醫師。,disease=DF intent=need_doctor,DF,need_doctor
+纖維瘤 (DF) 相關問題：DF 什麼時候要就診？,雖然 DF 多為良性，但若影響日常生活或產生不適，建議尋求醫療協助。,disease=DF intent=need_doctor,DF,need_doctor
+纖維瘤 (DF) 相關問題：DF 什麼時候要就診？,雖然 DF 多為良性，但若影響日常生活或產生不適，建議尋求醫療協助。,disease=DF intent=need_doctor,DF,need_doctor
+纖維瘤 (DF) 相關問題：得了 DF 要掛什麼科？,雖然 DF 多為良性，但若影響日常生活或產生不適，建議尋求醫療協助。,disease=DF intent=need_doctor,DF,need_doctor
+纖維瘤 (DF) 相關問題：關於 DF，有哪些情況是必須尋求醫生幫助的？,雖然 DF 多為良性，但若影響日常生活或產生不適，建議尋求醫療協助。,disease=DF intent=need_doctor,DF,need_doctor
+纖維瘤 (DF) 相關問題：如果 DF 惡化了，要立即就醫嗎？,雖然 DF 多為良性，但若影響日常生活或產生不適，建議尋求醫療協助。,disease=DF intent=need_doctor,DF,need_doctor
+纖維瘤 (DF) 相關問題：DF 需要就醫嗎？,若 DF 快速增長或有疼痛，請就醫。,disease=DF intent=need_doctor,DF,need_doctor
+纖維瘤 (DF) 相關問題：DF 這個狀況，我應該去看哪個科別的醫生？,若 DF 快速增長或有疼痛，請就醫。,disease=DF intent=need_doctor,DF,need_doctor
+纖維瘤 (DF) 相關問題：得了 DF 要去醫院嗎？,若 DF 快速增長或有疼痛，請就醫。,disease=DF intent=need_doctor,DF,need_doctor
+纖維瘤 (DF) 相關問題：如果 DF 惡化了，要立即就醫嗎？,若 DF 快速增長或有疼痛，請就醫。,disease=DF intent=need_doctor,DF,need_doctor
+纖維瘤 (DF) 相關問題：如果 DF 惡化了，要立即就醫嗎？,若 DF 快速增長或有疼痛，請就醫。,disease=DF intent=need_doctor,DF,need_doctor
+纖維瘤 (DF) 相關問題：如果 DF 惡化了，要立即就醫嗎？,若 DF 快速增大、疼痛或出血，建議就醫。,disease=DF intent=need_doctor,DF,need_doctor
+纖維瘤 (DF) 相關問題：DF 需要看醫生嗎？,若 DF 快速增大、疼痛或出血，建議就醫。,disease=DF intent=need_doctor,DF,need_doctor
+纖維瘤 (DF) 相關問題：有 DF 要看醫生嗎？,若 DF 快速增大、疼痛或出血，建議就醫。,disease=DF intent=need_doctor,DF,need_doctor
+纖維瘤 (DF) 相關問題：如果 DF 惡化了，要立即就醫嗎？,若 DF 快速增大、疼痛或出血，建議就醫。,disease=DF intent=need_doctor,DF,need_doctor
+纖維瘤 (DF) 相關問題：我應該在什麼情況下為 DF 就診？,若 DF 快速增大、疼痛或出血，建議就醫。,disease=DF intent=need_doctor,DF,need_doctor
+纖維瘤 (DF) 相關問題：DF 什麼時候要就診？,對皮膚纖維瘤有疑慮，或希望移除，可諮詢皮膚科。,disease=DF intent=need_doctor,DF,need_doctor
+纖維瘤 (DF) 相關問題：DF 可以自行處理嗎？,對皮膚纖維瘤有疑慮，或希望移除，可諮詢皮膚科。,disease=DF intent=need_doctor,DF,need_doctor
+纖維瘤 (DF) 相關問題：DF 什麼時候要就診？,對皮膚纖維瘤有疑慮，或希望移除，可諮詢皮膚科。,disease=DF intent=need_doctor,DF,need_doctor
+纖維瘤 (DF) 相關問題：得了 DF 什麼時候需要立刻去看醫生？,對皮膚纖維瘤有疑慮，或希望移除，可諮詢皮膚科。,disease=DF intent=need_doctor,DF,need_doctor
+纖維瘤 (DF) 相關問題：DF 什麼時候要就診？,對皮膚纖維瘤有疑慮，或希望移除，可諮詢皮膚科。,disease=DF intent=need_doctor,DF,need_doctor
+纖維瘤 (DF) 相關問題：我得了 DF，去看醫生會有幫助嗎？,如果 DF 造成不適，或者形態改變，請尋求醫療建議。,disease=DF intent=need_doctor,DF,need_doctor
+纖維瘤 (DF) 相關問題：DF 需要就醫嗎？,如果 DF 造成不適，或者形態改變，請尋求醫療建議。,disease=DF intent=need_doctor,DF,need_doctor
+纖維瘤 (DF) 相關問題：DF 什麼時候要就診？,如果 DF 造成不適，或者形態改變，請尋求醫療建議。,disease=DF intent=need_doctor,DF,need_doctor
+纖維瘤 (DF) 相關問題：患有 DF 的話，有沒有必要去醫院檢查一下？,如果 DF 造成不適，或者形態改變，請尋求醫療建議。,disease=DF intent=need_doctor,DF,need_doctor
+纖維瘤 (DF) 相關問題：得了 DF 什麼時候需要立刻去看醫生？,如果 DF 造成不適，或者形態改變，請尋求醫療建議。,disease=DF intent=need_doctor,DF,need_doctor
+纖維瘤 (DF) 相關問題：如果我患有 DF，需要警惕哪些風險？,DF 有可能惡化，建議定期追蹤。,disease=DF intent=risk,DF,risk
+纖維瘤 (DF) 相關問題： DF 的復發機率大嗎？,DF 有可能惡化，建議定期追蹤。,disease=DF intent=risk,DF,risk
+纖維瘤 (DF) 相關問題：DF 危險嗎？,DF 有可能惡化，建議定期追蹤。,disease=DF intent=risk,DF,risk
+纖維瘤 (DF) 相關問題：DF 有什麼潛在問題？,DF 有可能惡化，建議定期追蹤。,disease=DF intent=risk,DF,risk
+纖維瘤 (DF) 相關問題： DF 有什麼長期後遺症嗎？,DF 有可能惡化，建議定期追蹤。,disease=DF intent=risk,DF,risk
+纖維瘤 (DF) 相關問題：DF 需要擔心嗎？,DF 有機率癌變，請提高警覺。,disease=DF intent=risk,DF,risk
+纖維瘤 (DF) 相關問題：DF 會影響生活品質嗎？,DF 有機率癌變，請提高警覺。,disease=DF intent=risk,DF,risk
+纖維瘤 (DF) 相關問題：得了 DF 會有哪些不好的影響？,DF 有機率癌變，請提高警覺。,disease=DF intent=risk,DF,risk
+纖維瘤 (DF) 相關問題：DF 會影響生活品質嗎？,DF 有機率癌變，請提高警覺。,disease=DF intent=risk,DF,risk
+纖維瘤 (DF) 相關問題：DF 的危險性高嗎？,DF 有機率癌變，請提高警覺。,disease=DF intent=risk,DF,risk
+纖維瘤 (DF) 相關問題：DF 會有併發症嗎？,為良性增生，應該不會轉移。,disease=DF intent=risk,DF,risk
+纖維瘤 (DF) 相關問題：患有 DF 需要擔心癌變嗎？,為良性增生，應該不會轉移。,disease=DF intent=risk,DF,risk
+纖維瘤 (DF) 相關問題：DF 會不會危及生命？,為良性增生，應該不會轉移。,disease=DF intent=risk,DF,risk
+纖維瘤 (DF) 相關問題： DF 會引起疼痛嗎？,為良性增生，應該不會轉移。,disease=DF intent=risk,DF,risk
+纖維瘤 (DF) 相關問題：DF 危險嗎？,為良性增生，應該不會轉移。,disease=DF intent=risk,DF,risk
+纖維瘤 (DF) 相關問題：DF 會變嚴重嗎？,皮膚纖維瘤是良性病變，不具惡性潛力。,disease=DF intent=risk,DF,risk
+纖維瘤 (DF) 相關問題： DF 有什麼長期後遺症嗎？,皮膚纖維瘤是良性病變，不具惡性潛力。,disease=DF intent=risk,DF,risk
+纖維瘤 (DF) 相關問題： DF 會引起疼痛嗎？,皮膚纖維瘤是良性病變，不具惡性潛力。,disease=DF intent=risk,DF,risk
+纖維瘤 (DF) 相關問題：DF 有哪些潛在的健康風險或併發症？,皮膚纖維瘤是良性病變，不具惡性潛力。,disease=DF intent=risk,DF,risk
+纖維瘤 (DF) 相關問題：DF 會影響生活品質嗎？,皮膚纖維瘤是良性病變，不具惡性潛力。,disease=DF intent=risk,DF,risk
+纖維瘤 (DF) 相關問題：DF 有哪些潛在的健康風險或併發症？,DF 的癌變風險極低，通常無需擔心。,disease=DF intent=risk,DF,risk
+纖維瘤 (DF) 相關問題：DF 和其他疾病有相關性嗎？,DF 的癌變風險極低，通常無需擔心。,disease=DF intent=risk,DF,risk
+纖維瘤 (DF) 相關問題：DF 會影響生活品質嗎？,DF 的癌變風險極低，通常無需擔心。,disease=DF intent=risk,DF,risk
+纖維瘤 (DF) 相關問題：DF 會不會留下疤痕？,DF 的癌變風險極低，通常無需擔心。,disease=DF intent=risk,DF,risk
+纖維瘤 (DF) 相關問題：DF 會惡化嗎？,DF 的癌變風險極低，通常無需擔心。,disease=DF intent=risk,DF,risk
+纖維瘤 (DF) 相關問題： DF 會引起疼痛嗎？,這種良性纖維瘤不會惡化為癌症。,disease=DF intent=risk,DF,risk
+纖維瘤 (DF) 相關問題：DF 有什麼潛在問題？,這種良性纖維瘤不會惡化為癌症。,disease=DF intent=risk,DF,risk
+纖維瘤 (DF) 相關問題：得了 DF 會有哪些不好的影響？,這種良性纖維瘤不會惡化為癌症。,disease=DF intent=risk,DF,risk
+纖維瘤 (DF) 相關問題： DF 的復發機率大嗎？,這種良性纖維瘤不會惡化為癌症。,disease=DF intent=risk,DF,risk
+纖維瘤 (DF) 相關問題：DF 有什麼潛在問題？,這種良性纖維瘤不會惡化為癌症。,disease=DF intent=risk,DF,risk
+纖維瘤 (DF) 相關問題：DF 會對身體造成什麼影響？,DF 為良性病灶，沒有惡性轉變的風險。,disease=DF intent=risk,DF,risk
+纖維瘤 (DF) 相關問題：DF 有什麼潛在問題？,DF 為良性病灶，沒有惡性轉變的風險。,disease=DF intent=risk,DF,risk
+纖維瘤 (DF) 相關問題： DF 的致死率高嗎？,DF 為良性病灶，沒有惡性轉變的風險。,disease=DF intent=risk,DF,risk
+纖維瘤 (DF) 相關問題：DF 和其他疾病有相關性嗎？,DF 為良性病灶，沒有惡性轉變的風險。,disease=DF intent=risk,DF,risk
+纖維瘤 (DF) 相關問題：DF 會不會留下疤痕？,DF 為良性病灶，沒有惡性轉變的風險。,disease=DF intent=risk,DF,risk
+纖維瘤 (DF) 相關問題：有哪些情況下 DF 會變得更嚴重？,皮膚纖維瘤通常不會惡化。,disease=DF intent=risk,DF,risk
+纖維瘤 (DF) 相關問題：有哪些情況下 DF 會變得更嚴重？,皮膚纖維瘤通常不會惡化。,disease=DF intent=risk,DF,risk
+纖維瘤 (DF) 相關問題：DF 需要擔心嗎？,皮膚纖維瘤通常不會惡化。,disease=DF intent=risk,DF,risk
+纖維瘤 (DF) 相關問題：DF 有什麼潛在問題？,皮膚纖維瘤通常不會惡化。,disease=DF intent=risk,DF,risk
+纖維瘤 (DF) 相關問題：DF 會惡化嗎？,皮膚纖維瘤通常不會惡化。,disease=DF intent=risk,DF,risk
+纖維瘤 (DF) 相關問題：DF 會影響生活品質嗎？,DF 的主要風險是可能引起搔癢或疼痛，且切除後可能復發。,disease=DF intent=risk,DF,risk
+纖維瘤 (DF) 相關問題：DF 需要擔心嗎？,DF 的主要風險是可能引起搔癢或疼痛，且切除後可能復發。,disease=DF intent=risk,DF,risk
+纖維瘤 (DF) 相關問題：DF 會不會惡化成更嚴重的疾病？,DF 的主要風險是可能引起搔癢或疼痛，且切除後可能復發。,disease=DF intent=risk,DF,risk
+纖維瘤 (DF) 相關問題：DF 會影響生活品質嗎？,DF 的主要風險是可能引起搔癢或疼痛，且切除後可能復發。,disease=DF intent=risk,DF,risk
+纖維瘤 (DF) 相關問題：DF 的長期預後如何？會不會有危險？,DF 的主要風險是可能引起搔癢或疼痛，且切除後可能復發。,disease=DF intent=risk,DF,risk
+纖維瘤 (DF) 相關問題：DF 的居家護理方法有哪些？,DF 可透過冷凍、藥膏或雷射等方式治療。,disease=DF intent=treatment,DF,treatment
+纖維瘤 (DF) 相關問題： DF 的中醫治療方法是什麼？,DF 可透過冷凍、藥膏或雷射等方式治療。,disease=DF intent=treatment,DF,treatment
+纖維瘤 (DF) 相關問題：我適合哪種 DF 的治療方式？,DF 可透過冷凍、藥膏或雷射等方式治療。,disease=DF intent=treatment,DF,treatment
+纖維瘤 (DF) 相關問題：有什麼方法可以緩解 DF 的症狀？,DF 可透過冷凍、藥膏或雷射等方式治療。,disease=DF intent=treatment,DF,treatment
+纖維瘤 (DF) 相關問題：針對 DF 有沒有非手術的治療選項？,DF 可透過冷凍、藥膏或雷射等方式治療。,disease=DF intent=treatment,DF,treatment
+纖維瘤 (DF) 相關問題：DF 要怎麼治療？,根據嚴重程度，DF 可接受藥物或物理治療。,disease=DF intent=treatment,DF,treatment
+纖維瘤 (DF) 相關問題：我適合哪種 DF 的治療方式？,根據嚴重程度，DF 可接受藥物或物理治療。,disease=DF intent=treatment,DF,treatment
+纖維瘤 (DF) 相關問題：針對 DF 這個病，建議採取什麼治療方案呢？,根據嚴重程度，DF 可接受藥物或物理治療。,disease=DF intent=treatment,DF,treatment
+纖維瘤 (DF) 相關問題：得了 DF 的話，有哪些治療方法可以選擇？,根據嚴重程度，DF 可接受藥物或物理治療。,disease=DF intent=treatment,DF,treatment
+纖維瘤 (DF) 相關問題：DF 的治療費用高嗎？,根據嚴重程度，DF 可接受藥物或物理治療。,disease=DF intent=treatment,DF,treatment
+纖維瘤 (DF) 相關問題： DF 的中醫治療方法是什麼？,DF 建議依醫師建議進行個別化治療。,disease=DF intent=treatment,DF,treatment
+纖維瘤 (DF) 相關問題：如果我被診斷出 DF，下一步該怎麼辦？,DF 建議依醫師建議進行個別化治療。,disease=DF intent=treatment,DF,treatment
+纖維瘤 (DF) 相關問題：DF 可以怎麼治療？,DF 建議依醫師建議進行個別化治療。,disease=DF intent=treatment,DF,treatment
+纖維瘤 (DF) 相關問題：請問 DF 要怎麼治療比較好？,DF 建議依醫師建議進行個別化治療。,disease=DF intent=treatment,DF,treatment
+纖維瘤 (DF) 相關問題：針對 DF 這個病，建議採取什麼治療方案呢？,DF 建議依醫師建議進行個別化治療。,disease=DF intent=treatment,DF,treatment
+纖維瘤 (DF) 相關問題：我該如何治療 DF？,若得處理一下可考慮局部切除。,disease=DF intent=treatment,DF,treatment
+纖維瘤 (DF) 相關問題：DF 的治療方法是什麼？,若得處理一下可考慮局部切除。,disease=DF intent=treatment,DF,treatment
+纖維瘤 (DF) 相關問題：針對 DF 有沒有非手術的治療選項？,若得處理一下可考慮局部切除。,disease=DF intent=treatment,DF,treatment
+纖維瘤 (DF) 相關問題：請問 DF 要如何治療？,若得處理一下可考慮局部切除。,disease=DF intent=treatment,DF,treatment
+纖維瘤 (DF) 相關問題：有什麼方法可以緩解 DF 的症狀？,若得處理一下可考慮局部切除。,disease=DF intent=treatment,DF,treatment
+纖維瘤 (DF) 相關問題：DF 的治療流程是怎樣的？,多數無得藥物控制。,disease=DF intent=treatment,DF,treatment
+纖維瘤 (DF) 相關問題：針對 DF 這個病，建議採取什麼治療方案呢？,多數無得藥物控制。,disease=DF intent=treatment,DF,treatment
+纖維瘤 (DF) 相關問題：請問 DF 要怎麼治療比較好？,多數無得藥物控制。,disease=DF intent=treatment,DF,treatment
+纖維瘤 (DF) 相關問題： DF 的中醫治療方法是什麼？,多數無得藥物控制。,disease=DF intent=treatment,DF,treatment
+纖維瘤 (DF) 相關問題： DF 的中醫治療方法是什麼？,多數無得藥物控制。,disease=DF intent=treatment,DF,treatment
+纖維瘤 (DF) 相關問題：針對 DF，醫生通常會建議什麼治療？,皮膚纖維瘤若無不適通常無需治療，若影響美觀可考慮手術切除。,disease=DF intent=treatment,DF,treatment
+纖維瘤 (DF) 相關問題：DF 的治療費用高嗎？,皮膚纖維瘤若無不適通常無需治療，若影響美觀可考慮手術切除。,disease=DF intent=treatment,DF,treatment
+纖維瘤 (DF) 相關問題：DF 可以不用治療嗎？,皮膚纖維瘤若無不適通常無需治療，若影響美觀可考慮手術切除。,disease=DF intent=treatment,DF,treatment
+纖維瘤 (DF) 相關問題：DF 的治療方案有哪些？,皮膚纖維瘤若無不適通常無需治療，若影響美觀可考慮手術切除。,disease=DF intent=treatment,DF,treatment
+纖維瘤 (DF) 相關問題：針對 DF 有沒有非手術的治療選項？,皮膚纖維瘤若無不適通常無需治療，若影響美觀可考慮手術切除。,disease=DF intent=treatment,DF,treatment
+纖維瘤 (DF) 相關問題：我應該在什麼時候開始治療 DF？,DF 的治療方式通常為手術切除，但若無症狀則可選擇觀察。,disease=DF intent=treatment,DF,treatment
+纖維瘤 (DF) 相關問題： DF 的中醫治療方法是什麼？,DF 的治療方式通常為手術切除，但若無症狀則可選擇觀察。,disease=DF intent=treatment,DF,treatment
+纖維瘤 (DF) 相關問題：治療 DF 的最新方法是什麼？,DF 的治療方式通常為手術切除，但若無症狀則可選擇觀察。,disease=DF intent=treatment,DF,treatment
+纖維瘤 (DF) 相關問題：DF 的居家護理方法有哪些？,DF 的治療方式通常為手術切除，但若無症狀則可選擇觀察。,disease=DF intent=treatment,DF,treatment
+纖維瘤 (DF) 相關問題：DF 的治療流程是怎樣的？,DF 的治療方式通常為手術切除，但若無症狀則可選擇觀察。,disease=DF intent=treatment,DF,treatment
+纖維瘤 (DF) 相關問題：請問 DF 要怎麼治療比較好？,對於皮膚纖維瘤，醫師可能會建議手術切除，尤其當它造成搔癢或疼痛時。,disease=DF intent=treatment,DF,treatment
+纖維瘤 (DF) 相關問題：DF 有沒有什麼藥物或手術可以處理？,對於皮膚纖維瘤，醫師可能會建議手術切除，尤其當它造成搔癢或疼痛時。,disease=DF intent=treatment,DF,treatment
+纖維瘤 (DF) 相關問題：DF 如何處理？,對於皮膚纖維瘤，醫師可能會建議手術切除，尤其當它造成搔癢或疼痛時。,disease=DF intent=treatment,DF,treatment
+纖維瘤 (DF) 相關問題： DF 治療期間有什麼需要注意的嗎？,對於皮膚纖維瘤，醫師可能會建議手術切除，尤其當它造成搔癢或疼痛時。,disease=DF intent=treatment,DF,treatment
+纖維瘤 (DF) 相關問題：針對 DF 這個病，建議採取什麼治療方案呢？,對於皮膚纖維瘤，醫師可能會建議手術切除，尤其當它造成搔癢或疼痛時。,disease=DF intent=treatment,DF,treatment
+纖維瘤 (DF) 相關問題：針對 DF 這個病，建議採取什麼治療方案呢？,DF 通常不需治療，若有症狀可手術切除。,disease=DF intent=treatment,DF,treatment
+纖維瘤 (DF) 相關問題：請問 DF 要如何治療？,DF 通常不需治療，若有症狀可手術切除。,disease=DF intent=treatment,DF,treatment
+纖維瘤 (DF) 相關問題：DF 的治療方法是什麼？,DF 通常不需治療，若有症狀可手術切除。,disease=DF intent=treatment,DF,treatment
+纖維瘤 (DF) 相關問題：治療 DF 的最新方法是什麼？,DF 通常不需治療，若有症狀可手術切除。,disease=DF intent=treatment,DF,treatment
+纖維瘤 (DF) 相關問題：針對 DF 有沒有非手術的治療選項？,DF 通常不需治療，若有症狀可手術切除。,disease=DF intent=treatment,DF,treatment
+纖維瘤 (DF) 相關問題：請問 DF 要怎麼治療比較好？,針對皮膚纖維瘤，如果造成不適或影響美觀，可考慮手術。,disease=DF intent=treatment,DF,treatment
+纖維瘤 (DF) 相關問題：DF 有沒有什麼藥物或手術可以處理？,針對皮膚纖維瘤，如果造成不適或影響美觀，可考慮手術。,disease=DF intent=treatment,DF,treatment
+纖維瘤 (DF) 相關問題： DF 的中醫治療方法是什麼？,針對皮膚纖維瘤，如果造成不適或影響美觀，可考慮手術。,disease=DF intent=treatment,DF,treatment
+纖維瘤 (DF) 相關問題：DF 的治療方法是什麼？,針對皮膚纖維瘤，如果造成不適或影響美觀，可考慮手術。,disease=DF intent=treatment,DF,treatment
+纖維瘤 (DF) 相關問題：DF 的治療方案有哪些？,針對皮膚纖維瘤，如果造成不適或影響美觀，可考慮手術。,disease=DF intent=treatment,DF,treatment
+纖維瘤 (DF) 相關問題：DF 的居家護理方法有哪些？,DF 的治療主要是切除，但可能留下疤痕。,disease=DF intent=treatment,DF,treatment
+纖維瘤 (DF) 相關問題：請問 DF 要怎麼治療比較好？,DF 的治療主要是切除，但可能留下疤痕。,disease=DF intent=treatment,DF,treatment
+纖維瘤 (DF) 相關問題：請問 DF 要如何治療？,DF 的治療主要是切除，但可能留下疤痕。,disease=DF intent=treatment,DF,treatment
+纖維瘤 (DF) 相關問題：我得了 DF，該怎麼辦？,DF 的治療主要是切除，但可能留下疤痕。,disease=DF intent=treatment,DF,treatment
+纖維瘤 (DF) 相關問題：治療 DF 的最新方法是什麼？,DF 的治療主要是切除，但可能留下疤痕。,disease=DF intent=treatment,DF,treatment
+惡性黑色素瘤 (MEL) 相關問題：MEL 的傳染途徑是什麼？,MEL 通常不會透過接觸傳染。,disease=MEL intent=contagious,MEL,contagious
+惡性黑色素瘤 (MEL) 相關問題：MEL 是通過什麼方式傳染的？,MEL 通常不會透過接觸傳染。,disease=MEL intent=contagious,MEL,contagious
+惡性黑色素瘤 (MEL) 相關問題： MEL 傳染期是多久？,MEL 通常不會透過接觸傳染。,disease=MEL intent=contagious,MEL,contagious
+惡性黑色素瘤 (MEL) 相關問題：MEL 在什麼情況下會傳染？,MEL 通常不會透過接觸傳染。,disease=MEL intent=contagious,MEL,contagious
+惡性黑色素瘤 (MEL) 相關問題：我得了 MEL，會不會感染其他人？,MEL 通常不會透過接觸傳染。,disease=MEL intent=contagious,MEL,contagious
+惡性黑色素瘤 (MEL) 相關問題：這種 MEL 是傳染性的嗎？,此病（MEL）不會傳染給他人。,disease=MEL intent=contagious,MEL,contagious
+惡性黑色素瘤 (MEL) 相關問題： MEL 傳染期是多久？,此病（MEL）不會傳染給他人。,disease=MEL intent=contagious,MEL,contagious
+惡性黑色素瘤 (MEL) 相關問題：MEL 是否有傳播的風險？,此病（MEL）不會傳染給他人。,disease=MEL intent=contagious,MEL,contagious
+惡性黑色素瘤 (MEL) 相關問題：MEL 會不會交叉感染？,此病（MEL）不會傳染給他人。,disease=MEL intent=contagious,MEL,contagious
+惡性黑色素瘤 (MEL) 相關問題：MEL 會通過空氣傳染嗎？,此病（MEL）不會傳染給他人。,disease=MEL intent=contagious,MEL,contagious
+惡性黑色素瘤 (MEL) 相關問題：MEL 會不會傳染給別人？,目前沒有證據顯示 MEL 會傳染。,disease=MEL intent=contagious,MEL,contagious
+惡性黑色素瘤 (MEL) 相關問題：MEL 是通過什麼方式傳染的？,目前沒有證據顯示 MEL 會傳染。,disease=MEL intent=contagious,MEL,contagious
+惡性黑色素瘤 (MEL) 相關問題：MEL 會不會傳染給家人或朋友？,目前沒有證據顯示 MEL 會傳染。,disease=MEL intent=contagious,MEL,contagious
+惡性黑色素瘤 (MEL) 相關問題：MEL 會不會交叉感染？,目前沒有證據顯示 MEL 會傳染。,disease=MEL intent=contagious,MEL,contagious
+惡性黑色素瘤 (MEL) 相關問題：MEL 具有傳染性嗎？,目前沒有證據顯示 MEL 會傳染。,disease=MEL intent=contagious,MEL,contagious
+惡性黑色素瘤 (MEL) 相關問題：MEL 會不會傳染給家人或朋友？,這種病為體內細胞異常增生，無傳染風險。,disease=MEL intent=contagious,MEL,contagious
+惡性黑色素瘤 (MEL) 相關問題：MEL 在什麼情況下會傳染？,這種病為體內細胞異常增生，無傳染風險。,disease=MEL intent=contagious,MEL,contagious
+惡性黑色素瘤 (MEL) 相關問題：寵物會把 MEL 傳染給我嗎？,這種病為體內細胞異常增生，無傳染風險。,disease=MEL intent=contagious,MEL,contagious
+惡性黑色素瘤 (MEL) 相關問題：MEL 在什麼情況下會傳染？,這種病為體內細胞異常增生，無傳染風險。,disease=MEL intent=contagious,MEL,contagious
+惡性黑色素瘤 (MEL) 相關問題：MEL 會通過空氣傳染嗎？,這種病為體內細胞異常增生，無傳染風險。,disease=MEL intent=contagious,MEL,contagious
+惡性黑色素瘤 (MEL) 相關問題：MEL 在什麼情況下會傳染？,惡性黑色素瘤（MEL）不具傳染性。,disease=MEL intent=contagious,MEL,contagious
+惡性黑色素瘤 (MEL) 相關問題：MEL 的傳染途徑是什麼？,惡性黑色素瘤（MEL）不具傳染性。,disease=MEL intent=contagious,MEL,contagious
+惡性黑色素瘤 (MEL) 相關問題：這種 MEL 是傳染性的嗎？,惡性黑色素瘤（MEL）不具傳染性。,disease=MEL intent=contagious,MEL,contagious
+惡性黑色素瘤 (MEL) 相關問題：MEL 會傳染嗎？,惡性黑色素瘤（MEL）不具傳染性。,disease=MEL intent=contagious,MEL,contagious
+惡性黑色素瘤 (MEL) 相關問題：怎麼預防 MEL 傳染？,惡性黑色素瘤（MEL）不具傳染性。,disease=MEL intent=contagious,MEL,contagious
+惡性黑色素瘤 (MEL) 相關問題： MEL 會從母體傳染給胎兒嗎？,MEL 不會傳染給他人，它是一種體內細胞變異。,disease=MEL intent=contagious,MEL,contagious
+惡性黑色素瘤 (MEL) 相關問題： MEL 會從母體傳染給胎兒嗎？,MEL 不會傳染給他人，它是一種體內細胞變異。,disease=MEL intent=contagious,MEL,contagious
+惡性黑色素瘤 (MEL) 相關問題： MEL 會從母體傳染給胎兒嗎？,MEL 不會傳染給他人，它是一種體內細胞變異。,disease=MEL intent=contagious,MEL,contagious
+惡性黑色素瘤 (MEL) 相關問題：我的 MEL 會傳染嗎？,MEL 不會傳染給他人，它是一種體內細胞變異。,disease=MEL intent=contagious,MEL,contagious
+惡性黑色素瘤 (MEL) 相關問題：MEL 是否有傳播的風險？,MEL 不會傳染給他人，它是一種體內細胞變異。,disease=MEL intent=contagious,MEL,contagious
+惡性黑色素瘤 (MEL) 相關問題：MEL 是否有傳播的風險？,黑色素瘤是細胞異常增生，無傳染風險。,disease=MEL intent=contagious,MEL,contagious
+惡性黑色素瘤 (MEL) 相關問題：MEL 會通過血液傳染嗎？,黑色素瘤是細胞異常增生，無傳染風險。,disease=MEL intent=contagious,MEL,contagious
+惡性黑色素瘤 (MEL) 相關問題：MEL 會不會傳染給家人或朋友？,黑色素瘤是細胞異常增生，無傳染風險。,disease=MEL intent=contagious,MEL,contagious
+惡性黑色素瘤 (MEL) 相關問題：MEL 具有傳染性嗎？,黑色素瘤是細胞異常增生，無傳染風險。,disease=MEL intent=contagious,MEL,contagious
+惡性黑色素瘤 (MEL) 相關問題：關於 MEL 的傳染性問題，我需要注意什麼？,黑色素瘤是細胞異常增生，無傳染風險。,disease=MEL intent=contagious,MEL,contagious
+惡性黑色素瘤 (MEL) 相關問題：我的 MEL 會傳染嗎？,MEL 不會從人傳染給人。,disease=MEL intent=contagious,MEL,contagious
+惡性黑色素瘤 (MEL) 相關問題：MEL 會通過血液傳染嗎？,MEL 不會從人傳染給人。,disease=MEL intent=contagious,MEL,contagious
+惡性黑色素瘤 (MEL) 相關問題：關於 MEL 的傳染性問題，我需要注意什麼？,MEL 不會從人傳染給人。,disease=MEL intent=contagious,MEL,contagious
+惡性黑色素瘤 (MEL) 相關問題：MEL 在什麼情況下會傳染？,MEL 不會從人傳染給人。,disease=MEL intent=contagious,MEL,contagious
+惡性黑色素瘤 (MEL) 相關問題：MEL 有無傳染性？,MEL 不會從人傳染給人。,disease=MEL intent=contagious,MEL,contagious
+惡性黑色素瘤 (MEL) 相關問題：MEL 是由接觸傳播的嗎？,黑色素瘤沒有傳染性。,disease=MEL intent=contagious,MEL,contagious
+惡性黑色素瘤 (MEL) 相關問題：我的 MEL 會傳染嗎？,黑色素瘤沒有傳染性。,disease=MEL intent=contagious,MEL,contagious
+惡性黑色素瘤 (MEL) 相關問題：寵物會把 MEL 傳染給我嗎？,黑色素瘤沒有傳染性。,disease=MEL intent=contagious,MEL,contagious
+惡性黑色素瘤 (MEL) 相關問題：MEL 會不會傳染給家人或朋友？,黑色素瘤沒有傳染性。,disease=MEL intent=contagious,MEL,contagious
+惡性黑色素瘤 (MEL) 相關問題：MEL 是由接觸傳播的嗎？,黑色素瘤沒有傳染性。,disease=MEL intent=contagious,MEL,contagious
+惡性黑色素瘤 (MEL) 相關問題：MEL 是怎樣的疾病？,這個病灶是 MEL，屬於常見類型。,disease=MEL intent=intro,MEL,intro
+惡性黑色素瘤 (MEL) 相關問題：MEL 是一種什麼樣的皮膚狀況？,這個病灶是 MEL，屬於常見類型。,disease=MEL intent=intro,MEL,intro
+惡性黑色素瘤 (MEL) 相關問題：MEL 的定義是什麼？,這個病灶是 MEL，屬於常見類型。,disease=MEL intent=intro,MEL,intro
+惡性黑色素瘤 (MEL) 相關問題：MEL 是什麼病症？,這個病灶是 MEL，屬於常見類型。,disease=MEL intent=intro,MEL,intro
+惡性黑色素瘤 (MEL) 相關問題：能解釋一下 MEL 嗎？,這個病灶是 MEL，屬於常見類型。,disease=MEL intent=intro,MEL,intro
+惡性黑色素瘤 (MEL) 相關問題：MEL 是怎樣的疾病？,系統判斷這是 MEL，常見於皮膚表層。,disease=MEL intent=intro,MEL,intro
+惡性黑色素瘤 (MEL) 相關問題：您可以簡要介紹一下 MEL 是什麼嗎？,系統判斷這是 MEL，常見於皮膚表層。,disease=MEL intent=intro,MEL,intro
+惡性黑色素瘤 (MEL) 相關問題：請說明一下 MEL 的特點。,系統判斷這是 MEL，常見於皮膚表層。,disease=MEL intent=intro,MEL,intro
+惡性黑色素瘤 (MEL) 相關問題：MEL 是怎樣的疾病？,系統判斷這是 MEL，常見於皮膚表層。,disease=MEL intent=intro,MEL,intro
+惡性黑色素瘤 (MEL) 相關問題： MEL 的病理學特點是什麼？,系統判斷這是 MEL，常見於皮膚表層。,disease=MEL intent=intro,MEL,intro
+惡性黑色素瘤 (MEL) 相關問題：MEL 是什麼病？,MEL 是一種常見的皮膚病。,disease=MEL intent=intro,MEL,intro
+惡性黑色素瘤 (MEL) 相關問題： MEL 有哪些亞型？,MEL 是一種常見的皮膚病。,disease=MEL intent=intro,MEL,intro
+惡性黑色素瘤 (MEL) 相關問題： MEL 的病理學特點是什麼？,MEL 是一種常見的皮膚病。,disease=MEL intent=intro,MEL,intro
+惡性黑色素瘤 (MEL) 相關問題：MEL 的發病率高嗎？,MEL 是一種常見的皮膚病。,disease=MEL intent=intro,MEL,intro
+惡性黑色素瘤 (MEL) 相關問題：MEL 是什麼病？,MEL 是一種常見的皮膚病。,disease=MEL intent=intro,MEL,intro
+惡性黑色素瘤 (MEL) 相關問題：您可以簡要介紹一下 MEL 是什麼嗎？,我們系統覺得可能是黑色素瘤，是一種高風險病變。,disease=MEL intent=intro,MEL,intro
+惡性黑色素瘤 (MEL) 相關問題：請說明一下 MEL 的特點。,我們系統覺得可能是黑色素瘤，是一種高風險病變。,disease=MEL intent=intro,MEL,intro
+惡性黑色素瘤 (MEL) 相關問題：MEL 是怎樣的疾病？,我們系統覺得可能是黑色素瘤，是一種高風險病變。,disease=MEL intent=intro,MEL,intro
+惡性黑色素瘤 (MEL) 相關問題： MEL 的診斷標準是什麼？,我們系統覺得可能是黑色素瘤，是一種高風險病變。,disease=MEL intent=intro,MEL,intro
+惡性黑色素瘤 (MEL) 相關問題：請介紹一下 MEL,我們系統覺得可能是黑色素瘤，是一種高風險病變。,disease=MEL intent=intro,MEL,intro
+惡性黑色素瘤 (MEL) 相關問題：MEL 通常出現在哪個部位？,這種病叫做黑色素瘤，我建議盡快看看了解一下。,disease=MEL intent=intro,MEL,intro
+惡性黑色素瘤 (MEL) 相關問題：MEL 的定義是什麼？,這種病叫做黑色素瘤，我建議盡快看看了解一下。,disease=MEL intent=intro,MEL,intro
+惡性黑色素瘤 (MEL) 相關問題： MEL 的臨床表現是怎樣的？,這種病叫做黑色素瘤，我建議盡快看看了解一下。,disease=MEL intent=intro,MEL,intro
+惡性黑色素瘤 (MEL) 相關問題：MEL 的定義是什麼？,這種病叫做黑色素瘤，我建議盡快看看了解一下。,disease=MEL intent=intro,MEL,intro
+惡性黑色素瘤 (MEL) 相關問題： MEL 的病理學特點是什麼？,這種病叫做黑色素瘤，我建議盡快看看了解一下。,disease=MEL intent=intro,MEL,intro
+惡性黑色素瘤 (MEL) 相關問題：MEL 是什麼？,這是惡性黑色素瘤，是一種較嚴重的皮膚癌。,disease=MEL intent=intro,MEL,intro
+惡性黑色素瘤 (MEL) 相關問題：能不能給我解釋一下 MEL 的基本資訊？,這是惡性黑色素瘤，是一種較嚴重的皮膚癌。,disease=MEL intent=intro,MEL,intro
+惡性黑色素瘤 (MEL) 相關問題：MEL 的成因是什麼？,這是惡性黑色素瘤，是一種較嚴重的皮膚癌。,disease=MEL intent=intro,MEL,intro
+惡性黑色素瘤 (MEL) 相關問題：MEL 的成因是什麼？,這是惡性黑色素瘤，是一種較嚴重的皮膚癌。,disease=MEL intent=intro,MEL,intro
+惡性黑色素瘤 (MEL) 相關問題：MEL 的發病率高嗎？,這是惡性黑色素瘤，是一種較嚴重的皮膚癌。,disease=MEL intent=intro,MEL,intro
+惡性黑色素瘤 (MEL) 相關問題： MEL 的診斷標準是什麼？,這是一個惡性黑色素瘤（MEL），是一種嚴重的皮膚癌。,disease=MEL intent=intro,MEL,intro
+惡性黑色素瘤 (MEL) 相關問題： MEL 的病理學特點是什麼？,這是一個惡性黑色素瘤（MEL），是一種嚴重的皮膚癌。,disease=MEL intent=intro,MEL,intro
+惡性黑色素瘤 (MEL) 相關問題： MEL 的診斷標準是什麼？,這是一個惡性黑色素瘤（MEL），是一種嚴重的皮膚癌。,disease=MEL intent=intro,MEL,intro
+惡性黑色素瘤 (MEL) 相關問題：MEL 是什麼病？,這是一個惡性黑色素瘤（MEL），是一種嚴重的皮膚癌。,disease=MEL intent=intro,MEL,intro
+惡性黑色素瘤 (MEL) 相關問題：MEL 是一種什麼樣的皮膚狀況？,這是一個惡性黑色素瘤（MEL），是一種嚴重的皮膚癌。,disease=MEL intent=intro,MEL,intro
+惡性黑色素瘤 (MEL) 相關問題：這種 MEL 是怎麼形成的？,系統判斷為惡性黑色素瘤，這是最危險的皮膚癌之一，需嚴肅對待。,disease=MEL intent=intro,MEL,intro
+惡性黑色素瘤 (MEL) 相關問題： MEL 的臨床表現是怎樣的？,系統判斷為惡性黑色素瘤，這是最危險的皮膚癌之一，需嚴肅對待。,disease=MEL intent=intro,MEL,intro
+惡性黑色素瘤 (MEL) 相關問題：MEL 的症狀有哪些？,系統判斷為惡性黑色素瘤，這是最危險的皮膚癌之一，需嚴肅對待。,disease=MEL intent=intro,MEL,intro
+惡性黑色素瘤 (MEL) 相關問題：MEL 是什麼病？,系統判斷為惡性黑色素瘤，這是最危險的皮膚癌之一，需嚴肅對待。,disease=MEL intent=intro,MEL,intro
+惡性黑色素瘤 (MEL) 相關問題：什麼是 MEL？,系統判斷為惡性黑色素瘤，這是最危險的皮膚癌之一，需嚴肅對待。,disease=MEL intent=intro,MEL,intro
+惡性黑色素瘤 (MEL) 相關問題：能解釋一下 MEL 嗎？,惡性黑色素瘤（MEL）起源於黑色素細胞，具有高惡性度，早期診斷至關重要。,disease=MEL intent=intro,MEL,intro
+惡性黑色素瘤 (MEL) 相關問題：MEL 是什麼？,惡性黑色素瘤（MEL）起源於黑色素細胞，具有高惡性度，早期診斷至關重要。,disease=MEL intent=intro,MEL,intro
+惡性黑色素瘤 (MEL) 相關問題：MEL 的定義是什麼？,惡性黑色素瘤（MEL）起源於黑色素細胞，具有高惡性度，早期診斷至關重要。,disease=MEL intent=intro,MEL,intro
+惡性黑色素瘤 (MEL) 相關問題：請介紹一下 MEL,惡性黑色素瘤（MEL）起源於黑色素細胞，具有高惡性度，早期診斷至關重要。,disease=MEL intent=intro,MEL,intro
+惡性黑色素瘤 (MEL) 相關問題：MEL 的發病率高嗎？,惡性黑色素瘤（MEL）起源於黑色素細胞，具有高惡性度，早期診斷至關重要。,disease=MEL intent=intro,MEL,intro
+惡性黑色素瘤 (MEL) 相關問題：什麼是 MEL？,MEL 是一種惡性度較高的皮膚癌。,disease=MEL intent=intro,MEL,intro
+惡性黑色素瘤 (MEL) 相關問題：MEL 是什麼？,MEL 是一種惡性度較高的皮膚癌。,disease=MEL intent=intro,MEL,intro
+惡性黑色素瘤 (MEL) 相關問題：MEL 的定義是什麼？,MEL 是一種惡性度較高的皮膚癌。,disease=MEL intent=intro,MEL,intro
+惡性黑色素瘤 (MEL) 相關問題：MEL 是什麼？,MEL 是一種惡性度較高的皮膚癌。,disease=MEL intent=intro,MEL,intro
+惡性黑色素瘤 (MEL) 相關問題：MEL 是怎樣的疾病？,MEL 是一種惡性度較高的皮膚癌。,disease=MEL intent=intro,MEL,intro
+惡性黑色素瘤 (MEL) 相關問題：如果 MEL 惡化了，要立即就醫嗎？,這種情況（MEL）建議由皮膚科專業人員判斷。,disease=MEL intent=need_doctor,MEL,need_doctor
+惡性黑色素瘤 (MEL) 相關問題：MEL 要不要去看醫生？,這種情況（MEL）建議由皮膚科專業人員判斷。,disease=MEL intent=need_doctor,MEL,need_doctor
+惡性黑色素瘤 (MEL) 相關問題：有 MEL 要看醫生嗎？,這種情況（MEL）建議由皮膚科專業人員判斷。,disease=MEL intent=need_doctor,MEL,need_doctor
+惡性黑色素瘤 (MEL) 相關問題： MEL 需要定期回診嗎？,這種情況（MEL）建議由皮膚科專業人員判斷。,disease=MEL intent=need_doctor,MEL,need_doctor
+惡性黑色素瘤 (MEL) 相關問題： MEL 可以在一般診所看嗎？還是要去大醫院？,這種情況（MEL）建議由皮膚科專業人員判斷。,disease=MEL intent=need_doctor,MEL,need_doctor
+惡性黑色素瘤 (MEL) 相關問題：如果 MEL 惡化了，要立即就醫嗎？,針對 MEL，建議儘快就醫以確保安全。,disease=MEL intent=need_doctor,MEL,need_doctor
+惡性黑色素瘤 (MEL) 相關問題：患有 MEL 的話，有沒有必要去醫院檢查一下？,針對 MEL，建議儘快就醫以確保安全。,disease=MEL intent=need_doctor,MEL,need_doctor
+惡性黑色素瘤 (MEL) 相關問題：得了 MEL 什麼時候需要立刻去看醫生？,針對 MEL，建議儘快就醫以確保安全。,disease=MEL intent=need_doctor,MEL,need_doctor
+惡性黑色素瘤 (MEL) 相關問題：什麼時候我需要緊急就醫 MEL？,針對 MEL，建議儘快就醫以確保安全。,disease=MEL intent=need_doctor,MEL,need_doctor
+惡性黑色素瘤 (MEL) 相關問題：關於 MEL，有哪些情況是必須尋求醫生幫助的？,針對 MEL，建議儘快就醫以確保安全。,disease=MEL intent=need_doctor,MEL,need_doctor
+惡性黑色素瘤 (MEL) 相關問題： MEL 看醫生前需要準備什麼？,MEL 建議由醫師進一步診斷。,disease=MEL intent=need_doctor,MEL,need_doctor
+惡性黑色素瘤 (MEL) 相關問題：MEL 什麼時候要就診？,MEL 建議由醫師進一步診斷。,disease=MEL intent=need_doctor,MEL,need_doctor
+惡性黑色素瘤 (MEL) 相關問題： MEL 需要做什麼檢查嗎？,MEL 建議由醫師進一步診斷。,disease=MEL intent=need_doctor,MEL,need_doctor
+惡性黑色素瘤 (MEL) 相關問題：醫生會如何診斷 MEL？,MEL 建議由醫師進一步診斷。,disease=MEL intent=need_doctor,MEL,need_doctor
+惡性黑色素瘤 (MEL) 相關問題：有 MEL 要看醫生嗎？,MEL 建議由醫師進一步診斷。,disease=MEL intent=need_doctor,MEL,need_doctor
+惡性黑色素瘤 (MEL) 相關問題：患有 MEL 的話，有沒有必要去醫院檢查一下？,此類病變不可拖延，務必就診。,disease=MEL intent=need_doctor,MEL,need_doctor
+惡性黑色素瘤 (MEL) 相關問題：MEL 什麼時候要就診？,此類病變不可拖延，務必就診。,disease=MEL intent=need_doctor,MEL,need_doctor
+惡性黑色素瘤 (MEL) 相關問題：患有 MEL 的話，有沒有必要去醫院檢查一下？,此類病變不可拖延，務必就診。,disease=MEL intent=need_doctor,MEL,need_doctor
+惡性黑色素瘤 (MEL) 相關問題： MEL 看醫生前需要準備什麼？,此類病變不可拖延，務必就診。,disease=MEL intent=need_doctor,MEL,need_doctor
+惡性黑色素瘤 (MEL) 相關問題：有 MEL 要看醫生嗎？,此類病變不可拖延，務必就診。,disease=MEL intent=need_doctor,MEL,need_doctor
+惡性黑色素瘤 (MEL) 相關問題：我應該在什麼情況下為 MEL 就診？,我建議儘快就醫了解一下，避免延誤病情。,disease=MEL intent=need_doctor,MEL,need_doctor
+惡性黑色素瘤 (MEL) 相關問題：得了 MEL 什麼時候需要立刻去看醫生？,我建議儘快就醫了解一下，避免延誤病情。,disease=MEL intent=need_doctor,MEL,need_doctor
+惡性黑色素瘤 (MEL) 相關問題：什麼時候需要因為 MEL 去醫院？,我建議儘快就醫了解一下，避免延誤病情。,disease=MEL intent=need_doctor,MEL,need_doctor
+惡性黑色素瘤 (MEL) 相關問題：有 MEL 要看醫生嗎？,我建議儘快就醫了解一下，避免延誤病情。,disease=MEL intent=need_doctor,MEL,need_doctor
+惡性黑色素瘤 (MEL) 相關問題： MEL 可以在一般診所看嗎？還是要去大醫院？,我建議儘快就醫了解一下，避免延誤病情。,disease=MEL intent=need_doctor,MEL,need_doctor
+惡性黑色素瘤 (MEL) 相關問題：MEL 要不要去看醫生？,確診或高度懷疑惡性黑色素瘤後，必須立即就醫，刻不容緩。,disease=MEL intent=need_doctor,MEL,need_doctor
+惡性黑色素瘤 (MEL) 相關問題：MEL 可以自行處理嗎？,確診或高度懷疑惡性黑色素瘤後，必須立即就醫，刻不容緩。,disease=MEL intent=need_doctor,MEL,need_doctor
+惡性黑色素瘤 (MEL) 相關問題：得了 MEL 要掛什麼科？,確診或高度懷疑惡性黑色素瘤後，必須立即就醫，刻不容緩。,disease=MEL intent=need_doctor,MEL,need_doctor
+惡性黑色素瘤 (MEL) 相關問題：MEL 這個狀況，我應該去看哪個科別的醫生？,確診或高度懷疑惡性黑色素瘤後，必須立即就醫，刻不容緩。,disease=MEL intent=need_doctor,MEL,need_doctor
+惡性黑色素瘤 (MEL) 相關問題：我得了 MEL，去看醫生會有幫助嗎？,確診或高度懷疑惡性黑色素瘤後，必須立即就醫，刻不容緩。,disease=MEL intent=need_doctor,MEL,need_doctor
+惡性黑色素瘤 (MEL) 相關問題：醫生會如何診斷 MEL？,對於 MEL，請務必尋求皮膚腫瘤科醫師的專業診斷和治療。,disease=MEL intent=need_doctor,MEL,need_doctor
+惡性黑色素瘤 (MEL) 相關問題： MEL 可以在一般診所看嗎？還是要去大醫院？,對於 MEL，請務必尋求皮膚腫瘤科醫師的專業診斷和治療。,disease=MEL intent=need_doctor,MEL,need_doctor
+惡性黑色素瘤 (MEL) 相關問題：如果我被診斷出 MEL，是否需要馬上就醫？,對於 MEL，請務必尋求皮膚腫瘤科醫師的專業診斷和治療。,disease=MEL intent=need_doctor,MEL,need_doctor
+惡性黑色素瘤 (MEL) 相關問題：我應該在什麼情況下為 MEL 就診？,對於 MEL，請務必尋求皮膚腫瘤科醫師的專業診斷和治療。,disease=MEL intent=need_doctor,MEL,need_doctor
+惡性黑色素瘤 (MEL) 相關問題：我應該在什麼情況下為 MEL 就診？,對於 MEL，請務必尋求皮膚腫瘤科醫師的專業診斷和治療。,disease=MEL intent=need_doctor,MEL,need_doctor
+惡性黑色素瘤 (MEL) 相關問題： MEL 需要做什麼檢查嗎？,一旦發現疑似惡性黑色素瘤的病灶，請立即預約看診，時間是關鍵。,disease=MEL intent=need_doctor,MEL,need_doctor
+惡性黑色素瘤 (MEL) 相關問題：我得了 MEL，去看醫生會有幫助嗎？,一旦發現疑似惡性黑色素瘤的病灶，請立即預約看診，時間是關鍵。,disease=MEL intent=need_doctor,MEL,need_doctor
+惡性黑色素瘤 (MEL) 相關問題：MEL 什麼時候要就診？,一旦發現疑似惡性黑色素瘤的病灶，請立即預約看診，時間是關鍵。,disease=MEL intent=need_doctor,MEL,need_doctor
+惡性黑色素瘤 (MEL) 相關問題：MEL 要不要去看醫生？,一旦發現疑似惡性黑色素瘤的病灶，請立即預約看診，時間是關鍵。,disease=MEL intent=need_doctor,MEL,need_doctor
+惡性黑色素瘤 (MEL) 相關問題：醫生會如何診斷 MEL？,一旦發現疑似惡性黑色素瘤的病灶，請立即預約看診，時間是關鍵。,disease=MEL intent=need_doctor,MEL,need_doctor
+惡性黑色素瘤 (MEL) 相關問題：得了 MEL 什麼時候需要立刻去看醫生？,MEL 需儘早確診並治療。,disease=MEL intent=need_doctor,MEL,need_doctor
+惡性黑色素瘤 (MEL) 相關問題：什麼時候我需要緊急就醫 MEL？,MEL 需儘早確診並治療。,disease=MEL intent=need_doctor,MEL,need_doctor
+惡性黑色素瘤 (MEL) 相關問題：患有 MEL 的話，有沒有必要去醫院檢查一下？,MEL 需儘早確診並治療。,disease=MEL intent=need_doctor,MEL,need_doctor
+惡性黑色素瘤 (MEL) 相關問題：我應該在什麼情況下為 MEL 就診？,MEL 需儘早確診並治療。,disease=MEL intent=need_doctor,MEL,need_doctor
+惡性黑色素瘤 (MEL) 相關問題： MEL 需要做什麼檢查嗎？,MEL 需儘早確診並治療。,disease=MEL intent=need_doctor,MEL,need_doctor
+惡性黑色素瘤 (MEL) 相關問題：得了 MEL 會有哪些不好的影響？,這種病變（MEL）需留意變化與風險。,disease=MEL intent=risk,MEL,risk
+惡性黑色素瘤 (MEL) 相關問題：MEL 和其他疾病有相關性嗎？,這種病變（MEL）需留意變化與風險。,disease=MEL intent=risk,MEL,risk
+惡性黑色素瘤 (MEL) 相關問題：MEL 需要擔心嗎？,這種病變（MEL）需留意變化與風險。,disease=MEL intent=risk,MEL,risk
+惡性黑色素瘤 (MEL) 相關問題： MEL 的致死率高嗎？,這種病變（MEL）需留意變化與風險。,disease=MEL intent=risk,MEL,risk
+惡性黑色素瘤 (MEL) 相關問題：得了 MEL 會有哪些不好的影響？,這種病變（MEL）需留意變化與風險。,disease=MEL intent=risk,MEL,risk
+惡性黑色素瘤 (MEL) 相關問題： MEL 的致死率高嗎？,MEL 有可能惡化，建議定期追蹤。,disease=MEL intent=risk,MEL,risk
+惡性黑色素瘤 (MEL) 相關問題：MEL 危險嗎？,MEL 有可能惡化，建議定期追蹤。,disease=MEL intent=risk,MEL,risk
+惡性黑色素瘤 (MEL) 相關問題： MEL 的復發機率大嗎？,MEL 有可能惡化，建議定期追蹤。,disease=MEL intent=risk,MEL,risk
+惡性黑色素瘤 (MEL) 相關問題：MEL 有什麼潛在問題？,MEL 有可能惡化，建議定期追蹤。,disease=MEL intent=risk,MEL,risk
+惡性黑色素瘤 (MEL) 相關問題： MEL 的致死率高嗎？,MEL 有可能惡化，建議定期追蹤。,disease=MEL intent=risk,MEL,risk
+惡性黑色素瘤 (MEL) 相關問題：得了 MEL 會有哪些不好的影響？,雖然目前為 MEL，但仍需注意惡性可能。,disease=MEL intent=risk,MEL,risk
+惡性黑色素瘤 (MEL) 相關問題：MEL 會有併發症嗎？,雖然目前為 MEL，但仍需注意惡性可能。,disease=MEL intent=risk,MEL,risk
+惡性黑色素瘤 (MEL) 相關問題：得了 MEL 會有哪些不好的影響？,雖然目前為 MEL，但仍需注意惡性可能。,disease=MEL intent=risk,MEL,risk
+惡性黑色素瘤 (MEL) 相關問題：MEL 需要擔心嗎？,雖然目前為 MEL，但仍需注意惡性可能。,disease=MEL intent=risk,MEL,risk
+惡性黑色素瘤 (MEL) 相關問題： MEL 的復發機率大嗎？,雖然目前為 MEL，但仍需注意惡性可能。,disease=MEL intent=risk,MEL,risk
+惡性黑色素瘤 (MEL) 相關問題：MEL 的危險性高嗎？,若不治療，有可能惡化或影響其他器官。,disease=MEL intent=risk,MEL,risk
+惡性黑色素瘤 (MEL) 相關問題：MEL 會變嚴重嗎？,若不治療，有可能惡化或影響其他器官。,disease=MEL intent=risk,MEL,risk
+惡性黑色素瘤 (MEL) 相關問題： MEL 會引起疼痛嗎？,若不治療，有可能惡化或影響其他器官。,disease=MEL intent=risk,MEL,risk
+惡性黑色素瘤 (MEL) 相關問題：MEL 的危險性高嗎？,若不治療，有可能惡化或影響其他器官。,disease=MEL intent=risk,MEL,risk
+惡性黑色素瘤 (MEL) 相關問題：MEL 和其他疾病有相關性嗎？,若不治療，有可能惡化或影響其他器官。,disease=MEL intent=risk,MEL,risk
+惡性黑色素瘤 (MEL) 相關問題：MEL 的危險性高嗎？,為皮膚癌中較具侵略性的一種。,disease=MEL intent=risk,MEL,risk
+惡性黑色素瘤 (MEL) 相關問題：MEL 有哪些潛在的健康風險或併發症？,為皮膚癌中較具侵略性的一種。,disease=MEL intent=risk,MEL,risk
+惡性黑色素瘤 (MEL) 相關問題：MEL 會影響生活品質嗎？,為皮膚癌中較具侵略性的一種。,disease=MEL intent=risk,MEL,risk
+惡性黑色素瘤 (MEL) 相關問題：MEL 有哪些潛在的健康風險或併發症？,為皮膚癌中較具侵略性的一種。,disease=MEL intent=risk,MEL,risk
+惡性黑色素瘤 (MEL) 相關問題：MEL 有哪些潛在的健康風險或併發症？,為皮膚癌中較具侵略性的一種。,disease=MEL intent=risk,MEL,risk
+惡性黑色素瘤 (MEL) 相關問題：MEL 有哪些潛在的健康風險或併發症？,惡性黑色素瘤具有高侵襲性和轉移風險，若不治療會迅速擴散。,disease=MEL intent=risk,MEL,risk
+惡性黑色素瘤 (MEL) 相關問題：MEL 危險嗎？,惡性黑色素瘤具有高侵襲性和轉移風險，若不治療會迅速擴散。,disease=MEL intent=risk,MEL,risk
+惡性黑色素瘤 (MEL) 相關問題：患有 MEL 需要擔心癌變嗎？,惡性黑色素瘤具有高侵襲性和轉移風險，若不治療會迅速擴散。,disease=MEL intent=risk,MEL,risk
+惡性黑色素瘤 (MEL) 相關問題：MEL 的長期預後如何？會不會有危險？,惡性黑色素瘤具有高侵襲性和轉移風險，若不治療會迅速擴散。,disease=MEL intent=risk,MEL,risk
+惡性黑色素瘤 (MEL) 相關問題：MEL 需要擔心嗎？,惡性黑色素瘤具有高侵襲性和轉移風險，若不治療會迅速擴散。,disease=MEL intent=risk,MEL,risk
+惡性黑色素瘤 (MEL) 相關問題：MEL 會變嚴重嗎？,MEL 是最具致命性的皮膚癌，早期發現並治療對於預後至關重要。,disease=MEL intent=risk,MEL,risk
+惡性黑色素瘤 (MEL) 相關問題： MEL 的復發機率大嗎？,MEL 是最具致命性的皮膚癌，早期發現並治療對於預後至關重要。,disease=MEL intent=risk,MEL,risk
+惡性黑色素瘤 (MEL) 相關問題：MEL 的危險性高嗎？,MEL 是最具致命性的皮膚癌，早期發現並治療對於預後至關重要。,disease=MEL intent=risk,MEL,risk
+惡性黑色素瘤 (MEL) 相關問題： MEL 的復發機率大嗎？,MEL 是最具致命性的皮膚癌，早期發現並治療對於預後至關重要。,disease=MEL intent=risk,MEL,risk
+惡性黑色素瘤 (MEL) 相關問題：MEL 會有併發症嗎？,MEL 是最具致命性的皮膚癌，早期發現並治療對於預後至關重要。,disease=MEL intent=risk,MEL,risk
+惡性黑色素瘤 (MEL) 相關問題：MEL 有哪些潛在的健康風險或併發症？,惡性黑色素瘤的風險在於其快速轉移的能力，因此早期診斷是關鍵。,disease=MEL intent=risk,MEL,risk
+惡性黑色素瘤 (MEL) 相關問題：MEL 會不會惡化成更嚴重的疾病？,惡性黑色素瘤的風險在於其快速轉移的能力，因此早期診斷是關鍵。,disease=MEL intent=risk,MEL,risk
+惡性黑色素瘤 (MEL) 相關問題： MEL 的復發機率大嗎？,惡性黑色素瘤的風險在於其快速轉移的能力，因此早期診斷是關鍵。,disease=MEL intent=risk,MEL,risk
+惡性黑色素瘤 (MEL) 相關問題：MEL 和其他疾病有相關性嗎？,惡性黑色素瘤的風險在於其快速轉移的能力，因此早期診斷是關鍵。,disease=MEL intent=risk,MEL,risk
+惡性黑色素瘤 (MEL) 相關問題： MEL 的復發機率大嗎？,惡性黑色素瘤的風險在於其快速轉移的能力，因此早期診斷是關鍵。,disease=MEL intent=risk,MEL,risk
+惡性黑色素瘤 (MEL) 相關問題：MEL 會不會留下疤痕？,惡性黑色素瘤有較高惡性風險，需嚴密追蹤。,disease=MEL intent=risk,MEL,risk
+惡性黑色素瘤 (MEL) 相關問題：MEL 需要擔心嗎？,惡性黑色素瘤有較高惡性風險，需嚴密追蹤。,disease=MEL intent=risk,MEL,risk
+惡性黑色素瘤 (MEL) 相關問題：如果我患有 MEL，需要警惕哪些風險？,惡性黑色素瘤有較高惡性風險，需嚴密追蹤。,disease=MEL intent=risk,MEL,risk
+惡性黑色素瘤 (MEL) 相關問題：MEL 會有併發症嗎？,惡性黑色素瘤有較高惡性風險，需嚴密追蹤。,disease=MEL intent=risk,MEL,risk
+惡性黑色素瘤 (MEL) 相關問題：MEL 會對身體造成什麼影響？,惡性黑色素瘤有較高惡性風險，需嚴密追蹤。,disease=MEL intent=risk,MEL,risk
+惡性黑色素瘤 (MEL) 相關問題：針對 MEL 有沒有非手術的治療選項？,根據嚴重程度，MEL 可接受藥物或物理治療。,disease=MEL intent=treatment,MEL,treatment
+惡性黑色素瘤 (MEL) 相關問題：治療 MEL 的成功率大概是多少？,根據嚴重程度，MEL 可接受藥物或物理治療。,disease=MEL intent=treatment,MEL,treatment
+惡性黑色素瘤 (MEL) 相關問題：得了 MEL 的話，有哪些治療方法可以選擇？,根據嚴重程度，MEL 可接受藥物或物理治療。,disease=MEL intent=treatment,MEL,treatment
+惡性黑色素瘤 (MEL) 相關問題：MEL 的治療方案有哪些？,根據嚴重程度，MEL 可接受藥物或物理治療。,disease=MEL intent=treatment,MEL,treatment
+惡性黑色素瘤 (MEL) 相關問題：MEL 治療後會復發嗎？,根據嚴重程度，MEL 可接受藥物或物理治療。,disease=MEL intent=treatment,MEL,treatment
+惡性黑色素瘤 (MEL) 相關問題：MEL 治療後會復發嗎？,常見治療 MEL 的方式包括外用藥與光療。,disease=MEL intent=treatment,MEL,treatment
+惡性黑色素瘤 (MEL) 相關問題： MEL 可以用雷射治療嗎？,常見治療 MEL 的方式包括外用藥與光療。,disease=MEL intent=treatment,MEL,treatment
+惡性黑色素瘤 (MEL) 相關問題： MEL 的中醫治療方法是什麼？,常見治療 MEL 的方式包括外用藥與光療。,disease=MEL intent=treatment,MEL,treatment
+惡性黑色素瘤 (MEL) 相關問題：請問 MEL 要如何治療？,常見治療 MEL 的方式包括外用藥與光療。,disease=MEL intent=treatment,MEL,treatment
+惡性黑色素瘤 (MEL) 相關問題：請問 MEL 要如何治療？,常見治療 MEL 的方式包括外用藥與光療。,disease=MEL intent=treatment,MEL,treatment
+惡性黑色素瘤 (MEL) 相關問題： MEL 的中醫治療方法是什麼？,MEL 可透過冷凍、藥膏或雷射等方式治療。,disease=MEL intent=treatment,MEL,treatment
+惡性黑色素瘤 (MEL) 相關問題：請問 MEL 要如何治療？,MEL 可透過冷凍、藥膏或雷射等方式治療。,disease=MEL intent=treatment,MEL,treatment
+惡性黑色素瘤 (MEL) 相關問題：請問 MEL 要如何治療？,MEL 可透過冷凍、藥膏或雷射等方式治療。,disease=MEL intent=treatment,MEL,treatment
+惡性黑色素瘤 (MEL) 相關問題：MEL 如何處理？,MEL 可透過冷凍、藥膏或雷射等方式治療。,disease=MEL intent=treatment,MEL,treatment
+惡性黑色素瘤 (MEL) 相關問題：MEL 的治療方法是什麼？,MEL 可透過冷凍、藥膏或雷射等方式治療。,disease=MEL intent=treatment,MEL,treatment
+惡性黑色素瘤 (MEL) 相關問題：MEL 的居家護理方法有哪些？,早期可透過手術完整切除，效果佳。,disease=MEL intent=treatment,MEL,treatment
+惡性黑色素瘤 (MEL) 相關問題：MEL 有沒有什麼藥物或手術可以處理？,早期可透過手術完整切除，效果佳。,disease=MEL intent=treatment,MEL,treatment
+惡性黑色素瘤 (MEL) 相關問題：MEL 的治療費用高嗎？,早期可透過手術完整切除，效果佳。,disease=MEL intent=treatment,MEL,treatment
+惡性黑色素瘤 (MEL) 相關問題：MEL 的治療方案有哪些？,早期可透過手術完整切除，效果佳。,disease=MEL intent=treatment,MEL,treatment
+惡性黑色素瘤 (MEL) 相關問題：MEL 如何處理？,早期可透過手術完整切除，效果佳。,disease=MEL intent=treatment,MEL,treatment
+惡性黑色素瘤 (MEL) 相關問題： MEL 治療期間有什麼需要注意的嗎？,惡性黑色素瘤的首選治療是手術切除，早期發現治癒率高。,disease=MEL intent=treatment,MEL,treatment
+惡性黑色素瘤 (MEL) 相關問題：MEL 有沒有什麼藥物或手術可以處理？,惡性黑色素瘤的首選治療是手術切除，早期發現治癒率高。,disease=MEL intent=treatment,MEL,treatment
+惡性黑色素瘤 (MEL) 相關問題：我適合哪種 MEL 的治療方式？,惡性黑色素瘤的首選治療是手術切除，早期發現治癒率高。,disease=MEL intent=treatment,MEL,treatment
+惡性黑色素瘤 (MEL) 相關問題：針對 MEL 這個病，建議採取什麼治療方案呢？,惡性黑色素瘤的首選治療是手術切除，早期發現治癒率高。,disease=MEL intent=treatment,MEL,treatment
+惡性黑色素瘤 (MEL) 相關問題： MEL 治療期間有什麼需要注意的嗎？,惡性黑色素瘤的首選治療是手術切除，早期發現治癒率高。,disease=MEL intent=treatment,MEL,treatment
+惡性黑色素瘤 (MEL) 相關問題：MEL 如何處理？,針對 MEL，治療方案可能包括手術、放射治療、化療或免疫療法，視分期而定。,disease=MEL intent=treatment,MEL,treatment
+惡性黑色素瘤 (MEL) 相關問題：我適合哪種 MEL 的治療方式？,針對 MEL，治療方案可能包括手術、放射治療、化療或免疫療法，視分期而定。,disease=MEL intent=treatment,MEL,treatment
+惡性黑色素瘤 (MEL) 相關問題：我得了 MEL，該怎麼辦？,針對 MEL，治療方案可能包括手術、放射治療、化療或免疫療法，視分期而定。,disease=MEL intent=treatment,MEL,treatment
+惡性黑色素瘤 (MEL) 相關問題：得了 MEL 的話，有哪些治療方法可以選擇？,針對 MEL，治療方案可能包括手術、放射治療、化療或免疫療法，視分期而定。,disease=MEL intent=treatment,MEL,treatment
+惡性黑色素瘤 (MEL) 相關問題：治療 MEL 的成功率大概是多少？,針對 MEL，治療方案可能包括手術、放射治療、化療或免疫療法，視分期而定。,disease=MEL intent=treatment,MEL,treatment
+惡性黑色素瘤 (MEL) 相關問題：治療 MEL 的最新方法是什麼？,惡性黑色素瘤的治療會根據其分期進行，可能涉及廣泛切除和輔助治療。,disease=MEL intent=treatment,MEL,treatment
+惡性黑色素瘤 (MEL) 相關問題：MEL 治療後會復發嗎？,惡性黑色素瘤的治療會根據其分期進行，可能涉及廣泛切除和輔助治療。,disease=MEL intent=treatment,MEL,treatment
+惡性黑色素瘤 (MEL) 相關問題：治療 MEL 的最新方法是什麼？,惡性黑色素瘤的治療會根據其分期進行，可能涉及廣泛切除和輔助治療。,disease=MEL intent=treatment,MEL,treatment
+惡性黑色素瘤 (MEL) 相關問題： MEL 的中醫治療方法是什麼？,惡性黑色素瘤的治療會根據其分期進行，可能涉及廣泛切除和輔助治療。,disease=MEL intent=treatment,MEL,treatment
+惡性黑色素瘤 (MEL) 相關問題：MEL 的治療方案有哪些？,惡性黑色素瘤的治療會根據其分期進行，可能涉及廣泛切除和輔助治療。,disease=MEL intent=treatment,MEL,treatment
+黑色素痣 (NV) 相關問題：寵物會把 NV 傳染給我嗎？,NV 並不具傳染性，請放心。,disease=NV intent=contagious,NV,contagious
+黑色素痣 (NV) 相關問題：NV 會傳染嗎？,NV 並不具傳染性，請放心。,disease=NV intent=contagious,NV,contagious
+黑色素痣 (NV) 相關問題：關於 NV 的傳染性問題，我需要注意什麼？,NV 並不具傳染性，請放心。,disease=NV intent=contagious,NV,contagious
+黑色素痣 (NV) 相關問題：NV 會不會交叉感染？,NV 並不具傳染性，請放心。,disease=NV intent=contagious,NV,contagious
+黑色素痣 (NV) 相關問題：NV 具有傳染性嗎？,NV 並不具傳染性，請放心。,disease=NV intent=contagious,NV,contagious
+黑色素痣 (NV) 相關問題：寵物會把 NV 傳染給我嗎？,NV 通常不會透過接觸傳染。,disease=NV intent=contagious,NV,contagious
+黑色素痣 (NV) 相關問題：NV 是否有傳播的風險？,NV 通常不會透過接觸傳染。,disease=NV intent=contagious,NV,contagious
+黑色素痣 (NV) 相關問題：NV 在什麼情況下會傳染？,NV 通常不會透過接觸傳染。,disease=NV intent=contagious,NV,contagious
+黑色素痣 (NV) 相關問題：我得了 NV，會不會感染其他人？,NV 通常不會透過接觸傳染。,disease=NV intent=contagious,NV,contagious
+黑色素痣 (NV) 相關問題：關於 NV 的傳染性問題，我需要注意什麼？,NV 通常不會透過接觸傳染。,disease=NV intent=contagious,NV,contagious
+黑色素痣 (NV) 相關問題：NV 在什麼情況下會傳染？,此病（NV）不會傳染給他人。,disease=NV intent=contagious,NV,contagious
+黑色素痣 (NV) 相關問題：NV 是由接觸傳播的嗎？,此病（NV）不會傳染給他人。,disease=NV intent=contagious,NV,contagious
+黑色素痣 (NV) 相關問題：NV 是通過什麼方式傳染的？,此病（NV）不會傳染給他人。,disease=NV intent=contagious,NV,contagious
+黑色素痣 (NV) 相關問題：NV 會傳播嗎？,此病（NV）不會傳染給他人。,disease=NV intent=contagious,NV,contagious
+黑色素痣 (NV) 相關問題：NV 在什麼情況下會傳染？,此病（NV）不會傳染給他人。,disease=NV intent=contagious,NV,contagious
+黑色素痣 (NV) 相關問題：NV 會通過血液傳染嗎？,黑色素痣（NV）不具傳染性，請安心。,disease=NV intent=contagious,NV,contagious
+黑色素痣 (NV) 相關問題：NV 會傳播嗎？,黑色素痣（NV）不具傳染性，請安心。,disease=NV intent=contagious,NV,contagious
+黑色素痣 (NV) 相關問題：NV 會傳播嗎？,黑色素痣（NV）不具傳染性，請安心。,disease=NV intent=contagious,NV,contagious
+黑色素痣 (NV) 相關問題：NV 會不會交叉感染？,黑色素痣（NV）不具傳染性，請安心。,disease=NV intent=contagious,NV,contagious
+黑色素痣 (NV) 相關問題：NV 是否有傳播的風險？,黑色素痣（NV）不具傳染性，請安心。,disease=NV intent=contagious,NV,contagious
+黑色素痣 (NV) 相關問題：NV 有無傳染性？,您無需擔心黑色素痣會傳染給他人。,disease=NV intent=contagious,NV,contagious
+黑色素痣 (NV) 相關問題：關於 NV 的傳染性問題，我需要注意什麼？,您無需擔心黑色素痣會傳染給他人。,disease=NV intent=contagious,NV,contagious
+黑色素痣 (NV) 相關問題：NV 會不會傳染給別人？,您無需擔心黑色素痣會傳染給他人。,disease=NV intent=contagious,NV,contagious
+黑色素痣 (NV) 相關問題：NV 有無傳染性？,您無需擔心黑色素痣會傳染給他人。,disease=NV intent=contagious,NV,contagious
+黑色素痣 (NV) 相關問題： NV 會從母體傳染給胎兒嗎？,您無需擔心黑色素痣會傳染給他人。,disease=NV intent=contagious,NV,contagious
+黑色素痣 (NV) 相關問題：NV 會通過空氣傳染嗎？,黑色素痣是皮膚細胞的聚集，沒有傳染風險。,disease=NV intent=contagious,NV,contagious
+黑色素痣 (NV) 相關問題：怎麼預防 NV 傳染？,黑色素痣是皮膚細胞的聚集，沒有傳染風險。,disease=NV intent=contagious,NV,contagious
+黑色素痣 (NV) 相關問題：NV 會傳播嗎？,黑色素痣是皮膚細胞的聚集，沒有傳染風險。,disease=NV intent=contagious,NV,contagious
+黑色素痣 (NV) 相關問題：怎麼預防 NV 傳染？,黑色素痣是皮膚細胞的聚集，沒有傳染風險。,disease=NV intent=contagious,NV,contagious
+黑色素痣 (NV) 相關問題：NV 會不會傳染給別人？,黑色素痣是皮膚細胞的聚集，沒有傳染風險。,disease=NV intent=contagious,NV,contagious
+黑色素痣 (NV) 相關問題：這種 NV 是傳染性的嗎？,黑色素痣不具傳染性。,disease=NV intent=contagious,NV,contagious
+黑色素痣 (NV) 相關問題： NV 會從母體傳染給胎兒嗎？,黑色素痣不具傳染性。,disease=NV intent=contagious,NV,contagious
+黑色素痣 (NV) 相關問題：NV 具有傳染性嗎？,黑色素痣不具傳染性。,disease=NV intent=contagious,NV,contagious
+黑色素痣 (NV) 相關問題：我得了 NV，會不會感染其他人？,黑色素痣不具傳染性。,disease=NV intent=contagious,NV,contagious
+黑色素痣 (NV) 相關問題：我的 NV 會傳染嗎？,黑色素痣不具傳染性。,disease=NV intent=contagious,NV,contagious
+黑色素痣 (NV) 相關問題：您可以簡要介紹一下 NV 是什麼嗎？,這個病灶是 NV，屬於常見類型。,disease=NV intent=intro,NV,intro
+黑色素痣 (NV) 相關問題：NV 通常出現在哪個部位？,這個病灶是 NV，屬於常見類型。,disease=NV intent=intro,NV,intro
+黑色素痣 (NV) 相關問題：能不能給我解釋一下 NV 的基本資訊？,這個病灶是 NV，屬於常見類型。,disease=NV intent=intro,NV,intro
+黑色素痣 (NV) 相關問題：我想了解 NV 這個疾病，它主要表現是什麼？,這個病灶是 NV，屬於常見類型。,disease=NV intent=intro,NV,intro
+黑色素痣 (NV) 相關問題：請介紹一下 NV,這個病灶是 NV，屬於常見類型。,disease=NV intent=intro,NV,intro
+黑色素痣 (NV) 相關問題：NV 的發病率高嗎？,NV 是一種常見的皮膚病。,disease=NV intent=intro,NV,intro
+黑色素痣 (NV) 相關問題：NV 的定義是什麼？,NV 是一種常見的皮膚病。,disease=NV intent=intro,NV,intro
+黑色素痣 (NV) 相關問題：NV 是一種什麼樣的皮膚狀況？,NV 是一種常見的皮膚病。,disease=NV intent=intro,NV,intro
+黑色素痣 (NV) 相關問題：請說明一下 NV 的特點。,NV 是一種常見的皮膚病。,disease=NV intent=intro,NV,intro
+黑色素痣 (NV) 相關問題：NV 是一種什麼樣的皮膚狀況？,NV 是一種常見的皮膚病。,disease=NV intent=intro,NV,intro
+黑色素痣 (NV) 相關問題：能不能給我解釋一下 NV 的基本資訊？,系統判斷這是 NV，常見於皮膚表層。,disease=NV intent=intro,NV,intro
+黑色素痣 (NV) 相關問題：NV 是怎樣的疾病？,系統判斷這是 NV，常見於皮膚表層。,disease=NV intent=intro,NV,intro
+黑色素痣 (NV) 相關問題：請介紹一下 NV,系統判斷這是 NV，常見於皮膚表層。,disease=NV intent=intro,NV,intro
+黑色素痣 (NV) 相關問題：請說明一下 NV 的特點。,系統判斷這是 NV，常見於皮膚表層。,disease=NV intent=intro,NV,intro
+黑色素痣 (NV) 相關問題：能解釋一下 NV 嗎？,系統判斷這是 NV，常見於皮膚表層。,disease=NV intent=intro,NV,intro
+黑色素痣 (NV) 相關問題：NV 的發病率高嗎？,黑色素痣是正常的皮膚色素累積。,disease=NV intent=intro,NV,intro
+黑色素痣 (NV) 相關問題：NV 是怎樣的疾病？,黑色素痣是正常的皮膚色素累積。,disease=NV intent=intro,NV,intro
+黑色素痣 (NV) 相關問題： NV 有哪些亞型？,黑色素痣是正常的皮膚色素累積。,disease=NV intent=intro,NV,intro
+黑色素痣 (NV) 相關問題：介紹一下 NV。,黑色素痣是正常的皮膚色素累積。,disease=NV intent=intro,NV,intro
+黑色素痣 (NV) 相關問題：NV 通常出現在哪個部位？,黑色素痣是正常的皮膚色素累積。,disease=NV intent=intro,NV,intro
+黑色素痣 (NV) 相關問題：NV 是什麼？,這是黑色素痣，一般來說是良性的皮膚色素斑。,disease=NV intent=intro,NV,intro
+黑色素痣 (NV) 相關問題：能解釋一下 NV 嗎？,這是黑色素痣，一般來說是良性的皮膚色素斑。,disease=NV intent=intro,NV,intro
+黑色素痣 (NV) 相關問題：NV 的發病率高嗎？,這是黑色素痣，一般來說是良性的皮膚色素斑。,disease=NV intent=intro,NV,intro
+黑色素痣 (NV) 相關問題：NV 的定義是什麼？,這是黑色素痣，一般來說是良性的皮膚色素斑。,disease=NV intent=intro,NV,intro
+黑色素痣 (NV) 相關問題：請介紹一下 NV,這是黑色素痣，一般來說是良性的皮膚色素斑。,disease=NV intent=intro,NV,intro
+黑色素痣 (NV) 相關問題：NV 的成因是什麼？,這是一個黑色素痣（NV），通常是良性的色素沉積。,disease=NV intent=intro,NV,intro
+黑色素痣 (NV) 相關問題：NV 是怎樣的疾病？,這是一個黑色素痣（NV），通常是良性的色素沉積。,disease=NV intent=intro,NV,intro
+黑色素痣 (NV) 相關問題：NV 的症狀有哪些？,這是一個黑色素痣（NV），通常是良性的色素沉積。,disease=NV intent=intro,NV,intro
+黑色素痣 (NV) 相關問題：什麼是 NV？,這是一個黑色素痣（NV），通常是良性的色素沉積。,disease=NV intent=intro,NV,intro
+黑色素痣 (NV) 相關問題：NV 是什麼病症？,這是一個黑色素痣（NV），通常是良性的色素沉積。,disease=NV intent=intro,NV,intro
+黑色素痣 (NV) 相關問題：能不能給我解釋一下 NV 的基本資訊？,系統判斷為黑色素痣，這是非常普遍的皮膚特徵。,disease=NV intent=intro,NV,intro
+黑色素痣 (NV) 相關問題： NV 的診斷標準是什麼？,系統判斷為黑色素痣，這是非常普遍的皮膚特徵。,disease=NV intent=intro,NV,intro
+黑色素痣 (NV) 相關問題： NV 的病理學特點是什麼？,系統判斷為黑色素痣，這是非常普遍的皮膚特徵。,disease=NV intent=intro,NV,intro
+黑色素痣 (NV) 相關問題：NV 的定義是什麼？,系統判斷為黑色素痣，這是非常普遍的皮膚特徵。,disease=NV intent=intro,NV,intro
+黑色素痣 (NV) 相關問題：NV 和其他皮膚病有什麼區別？,系統判斷為黑色素痣，這是非常普遍的皮膚特徵。,disease=NV intent=intro,NV,intro
+黑色素痣 (NV) 相關問題：NV 是什麼病症？,黑色素痣是皮膚上的色素細胞聚集，通常為咖啡色或黑色斑點。,disease=NV intent=intro,NV,intro
+黑色素痣 (NV) 相關問題： NV 有哪些亞型？,黑色素痣是皮膚上的色素細胞聚集，通常為咖啡色或黑色斑點。,disease=NV intent=intro,NV,intro
+黑色素痣 (NV) 相關問題：NV 通常出現在哪個部位？,黑色素痣是皮膚上的色素細胞聚集，通常為咖啡色或黑色斑點。,disease=NV intent=intro,NV,intro
+黑色素痣 (NV) 相關問題：這種 NV 是怎麼形成的？,黑色素痣是皮膚上的色素細胞聚集，通常為咖啡色或黑色斑點。,disease=NV intent=intro,NV,intro
+黑色素痣 (NV) 相關問題：NV 是一種什麼樣的皮膚狀況？,黑色素痣是皮膚上的色素細胞聚集，通常為咖啡色或黑色斑點。,disease=NV intent=intro,NV,intro
+黑色素痣 (NV) 相關問題： NV 的臨床表現是怎樣的？,NV 為皮膚上常見的良性增生。,disease=NV intent=intro,NV,intro
+黑色素痣 (NV) 相關問題：我想了解 NV 這個疾病，它主要表現是什麼？,NV 為皮膚上常見的良性增生。,disease=NV intent=intro,NV,intro
+黑色素痣 (NV) 相關問題：NV 和其他皮膚病有什麼區別？,NV 為皮膚上常見的良性增生。,disease=NV intent=intro,NV,intro
+黑色素痣 (NV) 相關問題：NV 是一種什麼樣的皮膚狀況？,NV 為皮膚上常見的良性增生。,disease=NV intent=intro,NV,intro
+黑色素痣 (NV) 相關問題：NV 和其他皮膚病有什麼區別？,NV 為皮膚上常見的良性增生。,disease=NV intent=intro,NV,intro
+黑色素痣 (NV) 相關問題： NV 的診斷標準是什麼？,黑色素痣（NV）是皮膚上常見的良性色素性病變。,disease=NV intent=intro,NV,intro
+黑色素痣 (NV) 相關問題：NV 是什麼病症？,黑色素痣（NV）是皮膚上常見的良性色素性病變。,disease=NV intent=intro,NV,intro
+黑色素痣 (NV) 相關問題：您可以簡要介紹一下 NV 是什麼嗎？,黑色素痣（NV）是皮膚上常見的良性色素性病變。,disease=NV intent=intro,NV,intro
+黑色素痣 (NV) 相關問題：NV 是怎樣的疾病？,黑色素痣（NV）是皮膚上常見的良性色素性病變。,disease=NV intent=intro,NV,intro
+黑色素痣 (NV) 相關問題：NV 通常出現在哪個部位？,黑色素痣（NV）是皮膚上常見的良性色素性病變。,disease=NV intent=intro,NV,intro
+黑色素痣 (NV) 相關問題： NV 的臨床表現是怎樣的？,NV 表現為大小、形狀、顏色各異的斑點或突起。,disease=NV intent=intro,NV,intro
+黑色素痣 (NV) 相關問題：這種 NV 是怎麼形成的？,NV 表現為大小、形狀、顏色各異的斑點或突起。,disease=NV intent=intro,NV,intro
+黑色素痣 (NV) 相關問題：什麼是 NV？,NV 表現為大小、形狀、顏色各異的斑點或突起。,disease=NV intent=intro,NV,intro
+黑色素痣 (NV) 相關問題： NV 的診斷標準是什麼？,NV 表現為大小、形狀、顏色各異的斑點或突起。,disease=NV intent=intro,NV,intro
+黑色素痣 (NV) 相關問題：NV 是什麼？,NV 表現為大小、形狀、顏色各異的斑點或突起。,disease=NV intent=intro,NV,intro
+黑色素痣 (NV) 相關問題：請介紹一下 NV,黑色素痣是皮膚細胞聚集形成，多數為良性。,disease=NV intent=intro,NV,intro
+黑色素痣 (NV) 相關問題：這種 NV 是怎麼形成的？,黑色素痣是皮膚細胞聚集形成，多數為良性。,disease=NV intent=intro,NV,intro
+黑色素痣 (NV) 相關問題：我想了解 NV 這個疾病，它主要表現是什麼？,黑色素痣是皮膚細胞聚集形成，多數為良性。,disease=NV intent=intro,NV,intro
+黑色素痣 (NV) 相關問題：能不能給我解釋一下 NV 的基本資訊？,黑色素痣是皮膚細胞聚集形成，多數為良性。,disease=NV intent=intro,NV,intro
+黑色素痣 (NV) 相關問題：NV 是什麼？,黑色素痣是皮膚細胞聚集形成，多數為良性。,disease=NV intent=intro,NV,intro
+黑色素痣 (NV) 相關問題： NV 需要定期回診嗎？,NV 若有變化，請儘早就診。,disease=NV intent=need_doctor,NV,need_doctor
+黑色素痣 (NV) 相關問題：患有 NV 的話，有沒有必要去醫院檢查一下？,NV 若有變化，請儘早就診。,disease=NV intent=need_doctor,NV,need_doctor
+黑色素痣 (NV) 相關問題：NV 什麼時候要就診？,NV 若有變化，請儘早就診。,disease=NV intent=need_doctor,NV,need_doctor
+黑色素痣 (NV) 相關問題：得了 NV 要掛什麼科？,NV 若有變化，請儘早就診。,disease=NV intent=need_doctor,NV,need_doctor
+黑色素痣 (NV) 相關問題：什麼時候我需要緊急就醫 NV？,NV 若有變化，請儘早就診。,disease=NV intent=need_doctor,NV,need_doctor
+黑色素痣 (NV) 相關問題：NV 可以自行處理嗎？,NV 建議由醫師進一步診斷。,disease=NV intent=need_doctor,NV,need_doctor
+黑色素痣 (NV) 相關問題：醫生會如何診斷 NV？,NV 建議由醫師進一步診斷。,disease=NV intent=need_doctor,NV,need_doctor
+黑色素痣 (NV) 相關問題：得了 NV 什麼時候需要立刻去看醫生？,NV 建議由醫師進一步診斷。,disease=NV intent=need_doctor,NV,need_doctor
+黑色素痣 (NV) 相關問題：得了 NV 什麼時候需要立刻去看醫生？,NV 建議由醫師進一步診斷。,disease=NV intent=need_doctor,NV,need_doctor
+黑色素痣 (NV) 相關問題：NV 什麼時候要就診？,NV 建議由醫師進一步診斷。,disease=NV intent=need_doctor,NV,need_doctor
+黑色素痣 (NV) 相關問題：患有 NV 的話，有沒有必要去醫院檢查一下？,這種情況（NV）建議由皮膚科專業人員判斷。,disease=NV intent=need_doctor,NV,need_doctor
+黑色素痣 (NV) 相關問題：我應該在什麼情況下為 NV 就診？,這種情況（NV）建議由皮膚科專業人員判斷。,disease=NV intent=need_doctor,NV,need_doctor
+黑色素痣 (NV) 相關問題：NV 怎樣才需要看醫生？,這種情況（NV）建議由皮膚科專業人員判斷。,disease=NV intent=need_doctor,NV,need_doctor
+黑色素痣 (NV) 相關問題：NV 怎樣才需要看醫生？,這種情況（NV）建議由皮膚科專業人員判斷。,disease=NV intent=need_doctor,NV,need_doctor
+黑色素痣 (NV) 相關問題：得了 NV 要去醫院嗎？,這種情況（NV）建議由皮膚科專業人員判斷。,disease=NV intent=need_doctor,NV,need_doctor
+黑色素痣 (NV) 相關問題：NV 需要就醫嗎？,無明顯異常時可觀察，不急得就診。,disease=NV intent=need_doctor,NV,need_doctor
+黑色素痣 (NV) 相關問題：NV 什麼時候要就診？,無明顯異常時可觀察，不急得就診。,disease=NV intent=need_doctor,NV,need_doctor
+黑色素痣 (NV) 相關問題： NV 可以在一般診所看嗎？還是要去大醫院？,無明顯異常時可觀察，不急得就診。,disease=NV intent=need_doctor,NV,need_doctor
+黑色素痣 (NV) 相關問題：我得了 NV，去看醫生會有幫助嗎？,無明顯異常時可觀察，不急得就診。,disease=NV intent=need_doctor,NV,need_doctor
+黑色素痣 (NV) 相關問題：我應該在什麼情況下為 NV 就診？,無明顯異常時可觀察，不急得就診。,disease=NV intent=need_doctor,NV,need_doctor
+黑色素痣 (NV) 相關問題：有 NV 要看醫生嗎？,我建議每年由皮膚科醫師判斷一下一次。,disease=NV intent=need_doctor,NV,need_doctor
+黑色素痣 (NV) 相關問題：得了 NV 要去醫院嗎？,我建議每年由皮膚科醫師判斷一下一次。,disease=NV intent=need_doctor,NV,need_doctor
+黑色素痣 (NV) 相關問題：我應該在什麼情況下為 NV 就診？,我建議每年由皮膚科醫師判斷一下一次。,disease=NV intent=need_doctor,NV,need_doctor
+黑色素痣 (NV) 相關問題：我得了 NV，去看醫生會有幫助嗎？,我建議每年由皮膚科醫師判斷一下一次。,disease=NV intent=need_doctor,NV,need_doctor
+黑色素痣 (NV) 相關問題：NV 什麼時候要就診？,我建議每年由皮膚科醫師判斷一下一次。,disease=NV intent=need_doctor,NV,need_doctor
+黑色素痣 (NV) 相關問題： NV 需要定期回診嗎？,若黑色素痣出現變化，例如變大、變色、發癢或出血，應立即就醫。,disease=NV intent=need_doctor,NV,need_doctor
+黑色素痣 (NV) 相關問題：什麼時候需要因為 NV 去醫院？,若黑色素痣出現變化，例如變大、變色、發癢或出血，應立即就醫。,disease=NV intent=need_doctor,NV,need_doctor
+黑色素痣 (NV) 相關問題：得了 NV 要掛什麼科？,若黑色素痣出現變化，例如變大、變色、發癢或出血，應立即就醫。,disease=NV intent=need_doctor,NV,need_doctor
+黑色素痣 (NV) 相關問題：NV 可以自行處理嗎？,若黑色素痣出現變化，例如變大、變色、發癢或出血，應立即就醫。,disease=NV intent=need_doctor,NV,need_doctor
+黑色素痣 (NV) 相關問題：我得了 NV，去看醫生會有幫助嗎？,若黑色素痣出現變化，例如變大、變色、發癢或出血，應立即就醫。,disease=NV intent=need_doctor,NV,need_doctor
+黑色素痣 (NV) 相關問題：NV 什麼時候要就診？,建議您每年定期請皮膚科醫師檢查一次身上的痣，以確保健康。,disease=NV intent=need_doctor,NV,need_doctor
+黑色素痣 (NV) 相關問題：NV 要不要去看醫生？,建議您每年定期請皮膚科醫師檢查一次身上的痣，以確保健康。,disease=NV intent=need_doctor,NV,need_doctor
+黑色素痣 (NV) 相關問題： NV 需要做什麼檢查嗎？,建議您每年定期請皮膚科醫師檢查一次身上的痣，以確保健康。,disease=NV intent=need_doctor,NV,need_doctor
+黑色素痣 (NV) 相關問題：有 NV 要看醫生嗎？,建議您每年定期請皮膚科醫師檢查一次身上的痣，以確保健康。,disease=NV intent=need_doctor,NV,need_doctor
+黑色素痣 (NV) 相關問題：NV 什麼時候要就診？,建議您每年定期請皮膚科醫師檢查一次身上的痣，以確保健康。,disease=NV intent=need_doctor,NV,need_doctor
+黑色素痣 (NV) 相關問題： NV 需要定期回診嗎？,如果對黑色素痣有任何疑慮，或希望進行去除，請諮詢專業皮膚科醫生。,disease=NV intent=need_doctor,NV,need_doctor
+黑色素痣 (NV) 相關問題：關於 NV，有哪些情況是必須尋求醫生幫助的？,如果對黑色素痣有任何疑慮，或希望進行去除，請諮詢專業皮膚科醫生。,disease=NV intent=need_doctor,NV,need_doctor
+黑色素痣 (NV) 相關問題：NV 怎樣才需要看醫生？,如果對黑色素痣有任何疑慮，或希望進行去除，請諮詢專業皮膚科醫生。,disease=NV intent=need_doctor,NV,need_doctor
+黑色素痣 (NV) 相關問題：醫生會如何診斷 NV？,如果對黑色素痣有任何疑慮，或希望進行去除，請諮詢專業皮膚科醫生。,disease=NV intent=need_doctor,NV,need_doctor
+黑色素痣 (NV) 相關問題：得了 NV 什麼時候需要立刻去看醫生？,如果對黑色素痣有任何疑慮，或希望進行去除，請諮詢專業皮膚科醫生。,disease=NV intent=need_doctor,NV,need_doctor
+黑色素痣 (NV) 相關問題：NV 要不要去看醫生？,若 NV 出現不對稱、邊緣不規則、顏色不均、直徑增大或隆起變化，請立即就醫。,disease=NV intent=need_doctor,NV,need_doctor
+黑色素痣 (NV) 相關問題：有 NV 要看醫生嗎？,若 NV 出現不對稱、邊緣不規則、顏色不均、直徑增大或隆起變化，請立即就醫。,disease=NV intent=need_doctor,NV,need_doctor
+黑色素痣 (NV) 相關問題：醫生會如何診斷 NV？,若 NV 出現不對稱、邊緣不規則、顏色不均、直徑增大或隆起變化，請立即就醫。,disease=NV intent=need_doctor,NV,need_doctor
+黑色素痣 (NV) 相關問題：NV 可以自行處理嗎？,若 NV 出現不對稱、邊緣不規則、顏色不均、直徑增大或隆起變化，請立即就醫。,disease=NV intent=need_doctor,NV,need_doctor
+黑色素痣 (NV) 相關問題： NV 需要做什麼檢查嗎？,若 NV 出現不對稱、邊緣不規則、顏色不均、直徑增大或隆起變化，請立即就醫。,disease=NV intent=need_doctor,NV,need_doctor
+黑色素痣 (NV) 相關問題： NV 需要定期回診嗎？,對黑色素痣有疑慮，特別是新出現或快速變化的，應諮詢皮膚科。,disease=NV intent=need_doctor,NV,need_doctor
+黑色素痣 (NV) 相關問題：什麼時候我需要緊急就醫 NV？,對黑色素痣有疑慮，特別是新出現或快速變化的，應諮詢皮膚科。,disease=NV intent=need_doctor,NV,need_doctor
+黑色素痣 (NV) 相關問題：關於 NV，有哪些情況是必須尋求醫生幫助的？,對黑色素痣有疑慮，特別是新出現或快速變化的，應諮詢皮膚科。,disease=NV intent=need_doctor,NV,need_doctor
+黑色素痣 (NV) 相關問題：得了 NV 要去醫院嗎？,對黑色素痣有疑慮，特別是新出現或快速變化的，應諮詢皮膚科。,disease=NV intent=need_doctor,NV,need_doctor
+黑色素痣 (NV) 相關問題：NV 這個狀況，我應該去看哪個科別的醫生？,對黑色素痣有疑慮，特別是新出現或快速變化的，應諮詢皮膚科。,disease=NV intent=need_doctor,NV,need_doctor
+黑色素痣 (NV) 相關問題：NV 需要看醫生嗎？,定期檢查身體上的痣，若有任何變化應尋求專業評估。,disease=NV intent=need_doctor,NV,need_doctor
+黑色素痣 (NV) 相關問題： NV 需要定期回診嗎？,定期檢查身體上的痣，若有任何變化應尋求專業評估。,disease=NV intent=need_doctor,NV,need_doctor
+黑色素痣 (NV) 相關問題：我得了 NV，去看醫生會有幫助嗎？,定期檢查身體上的痣，若有任何變化應尋求專業評估。,disease=NV intent=need_doctor,NV,need_doctor
+黑色素痣 (NV) 相關問題：得了 NV 要掛什麼科？,定期檢查身體上的痣，若有任何變化應尋求專業評估。,disease=NV intent=need_doctor,NV,need_doctor
+黑色素痣 (NV) 相關問題：關於 NV，有哪些情況是必須尋求醫生幫助的？,定期檢查身體上的痣，若有任何變化應尋求專業評估。,disease=NV intent=need_doctor,NV,need_doctor
+黑色素痣 (NV) 相關問題：NV 會不會惡化成更嚴重的疾病？,NV 有機率癌變，請提高警覺。,disease=NV intent=risk,NV,risk
+黑色素痣 (NV) 相關問題：NV 會不會惡化成更嚴重的疾病？,NV 有機率癌變，請提高警覺。,disease=NV intent=risk,NV,risk
+黑色素痣 (NV) 相關問題：NV 的危險性高嗎？,NV 有機率癌變，請提高警覺。,disease=NV intent=risk,NV,risk
+黑色素痣 (NV) 相關問題：NV 會變嚴重嗎？,NV 有機率癌變，請提高警覺。,disease=NV intent=risk,NV,risk
+黑色素痣 (NV) 相關問題：NV 有哪些潛在的健康風險或併發症？,NV 有機率癌變，請提高警覺。,disease=NV intent=risk,NV,risk
+黑色素痣 (NV) 相關問題：NV 危險嗎？,NV 有可能惡化，建議定期追蹤。,disease=NV intent=risk,NV,risk
+黑色素痣 (NV) 相關問題：NV 有哪些潛在的健康風險或併發症？,NV 有可能惡化，建議定期追蹤。,disease=NV intent=risk,NV,risk
+黑色素痣 (NV) 相關問題：NV 有什麼潛在問題？,NV 有可能惡化，建議定期追蹤。,disease=NV intent=risk,NV,risk
+黑色素痣 (NV) 相關問題：NV 會惡化嗎？,NV 有可能惡化，建議定期追蹤。,disease=NV intent=risk,NV,risk
+黑色素痣 (NV) 相關問題：NV 危險嗎？,NV 有可能惡化，建議定期追蹤。,disease=NV intent=risk,NV,risk
+黑色素痣 (NV) 相關問題：NV 有什麼風險？,多數為良性，但若形狀不對稱要注意。,disease=NV intent=risk,NV,risk
+黑色素痣 (NV) 相關問題：NV 會不會危及生命？,多數為良性，但若形狀不對稱要注意。,disease=NV intent=risk,NV,risk
+黑色素痣 (NV) 相關問題：NV 會影響生活品質嗎？,多數為良性，但若形狀不對稱要注意。,disease=NV intent=risk,NV,risk
+黑色素痣 (NV) 相關問題： NV 的致死率高嗎？,多數為良性，但若形狀不對稱要注意。,disease=NV intent=risk,NV,risk
+黑色素痣 (NV) 相關問題：NV 會不會留下疤痕？,多數為良性，但若形狀不對稱要注意。,disease=NV intent=risk,NV,risk
+黑色素痣 (NV) 相關問題：如果我患有 NV，需要警惕哪些風險？,整體風險低，但還是不可忽視。,disease=NV intent=risk,NV,risk
+黑色素痣 (NV) 相關問題：NV 有什麼潛在問題？,整體風險低，但還是不可忽視。,disease=NV intent=risk,NV,risk
+黑色素痣 (NV) 相關問題： NV 會引起疼痛嗎？,整體風險低，但還是不可忽視。,disease=NV intent=risk,NV,risk
+黑色素痣 (NV) 相關問題： NV 有什麼長期後遺症嗎？,整體風險低，但還是不可忽視。,disease=NV intent=risk,NV,risk
+黑色素痣 (NV) 相關問題：NV 會不會危及生命？,整體風險低，但還是不可忽視。,disease=NV intent=risk,NV,risk
+黑色素痣 (NV) 相關問題：NV 的危險性高嗎？,多數黑色素痣是良性的，但仍需注意 ABCD 原則（不對稱、邊緣不規則、顏色不均、直徑大於6毫米）。,disease=NV intent=risk,NV,risk
+黑色素痣 (NV) 相關問題：患有 NV 需要擔心癌變嗎？,多數黑色素痣是良性的，但仍需注意 ABCD 原則（不對稱、邊緣不規則、顏色不均、直徑大於6毫米）。,disease=NV intent=risk,NV,risk
+黑色素痣 (NV) 相關問題：NV 會變嚴重嗎？,多數黑色素痣是良性的，但仍需注意 ABCD 原則（不對稱、邊緣不規則、顏色不均、直徑大於6毫米）。,disease=NV intent=risk,NV,risk
+黑色素痣 (NV) 相關問題：NV 有什麼潛在問題？,多數黑色素痣是良性的，但仍需注意 ABCD 原則（不對稱、邊緣不規則、顏色不均、直徑大於6毫米）。,disease=NV intent=risk,NV,risk
+黑色素痣 (NV) 相關問題： NV 的致死率高嗎？,多數黑色素痣是良性的，但仍需注意 ABCD 原則（不對稱、邊緣不規則、顏色不均、直徑大於6毫米）。,disease=NV intent=risk,NV,risk
+黑色素痣 (NV) 相關問題：NV 有哪些潛在的健康風險或併發症？,雖然黑色素痣癌變的機率不高，但若觀察到其形狀、大小或顏色發生變化，應及時就醫。,disease=NV intent=risk,NV,risk
+黑色素痣 (NV) 相關問題：NV 會不會留下疤痕？,雖然黑色素痣癌變的機率不高，但若觀察到其形狀、大小或顏色發生變化，應及時就醫。,disease=NV intent=risk,NV,risk
+黑色素痣 (NV) 相關問題：得了 NV 會有哪些不好的影響？,雖然黑色素痣癌變的機率不高，但若觀察到其形狀、大小或顏色發生變化，應及時就醫。,disease=NV intent=risk,NV,risk
+黑色素痣 (NV) 相關問題：NV 有哪些潛在的健康風險或併發症？,雖然黑色素痣癌變的機率不高，但若觀察到其形狀、大小或顏色發生變化，應及時就醫。,disease=NV intent=risk,NV,risk
+黑色素痣 (NV) 相關問題：NV 危險嗎？,雖然黑色素痣癌變的機率不高，但若觀察到其形狀、大小或顏色發生變化，應及時就醫。,disease=NV intent=risk,NV,risk
+黑色素痣 (NV) 相關問題：NV 的危險性高嗎？,黑色素痣的風險在於少數情況下可能演變為惡性黑色素瘤，因此定期自我檢查很重要。,disease=NV intent=risk,NV,risk
+黑色素痣 (NV) 相關問題：NV 危險嗎？,黑色素痣的風險在於少數情況下可能演變為惡性黑色素瘤，因此定期自我檢查很重要。,disease=NV intent=risk,NV,risk
+黑色素痣 (NV) 相關問題： NV 的致死率高嗎？,黑色素痣的風險在於少數情況下可能演變為惡性黑色素瘤，因此定期自我檢查很重要。,disease=NV intent=risk,NV,risk
+黑色素痣 (NV) 相關問題：NV 需要擔心嗎？,黑色素痣的風險在於少數情況下可能演變為惡性黑色素瘤，因此定期自我檢查很重要。,disease=NV intent=risk,NV,risk
+黑色素痣 (NV) 相關問題：NV 有什麼風險？,黑色素痣的風險在於少數情況下可能演變為惡性黑色素瘤，因此定期自我檢查很重要。,disease=NV intent=risk,NV,risk
+黑色素痣 (NV) 相關問題：NV 會對身體造成什麼影響？,大多數 NV 是良性的，但少數可能惡變為黑色素瘤。,disease=NV intent=risk,NV,risk
+黑色素痣 (NV) 相關問題：NV 會有併發症嗎？,大多數 NV 是良性的，但少數可能惡變為黑色素瘤。,disease=NV intent=risk,NV,risk
+黑色素痣 (NV) 相關問題： NV 的復發機率大嗎？,大多數 NV 是良性的，但少數可能惡變為黑色素瘤。,disease=NV intent=risk,NV,risk
+黑色素痣 (NV) 相關問題：NV 有哪些潛在的健康風險或併發症？,大多數 NV 是良性的，但少數可能惡變為黑色素瘤。,disease=NV intent=risk,NV,risk
+黑色素痣 (NV) 相關問題：NV 會惡化嗎？,大多數 NV 是良性的，但少數可能惡變為黑色素瘤。,disease=NV intent=risk,NV,risk
+黑色素痣 (NV) 相關問題： NV 會引起疼痛嗎？,黑色素痣的風險在於其有極低的機率轉變為惡性。,disease=NV intent=risk,NV,risk
+黑色素痣 (NV) 相關問題：如果我患有 NV，需要警惕哪些風險？,黑色素痣的風險在於其有極低的機率轉變為惡性。,disease=NV intent=risk,NV,risk
+黑色素痣 (NV) 相關問題：有哪些情況下 NV 會變得更嚴重？,黑色素痣的風險在於其有極低的機率轉變為惡性。,disease=NV intent=risk,NV,risk
+黑色素痣 (NV) 相關問題： NV 會引起疼痛嗎？,黑色素痣的風險在於其有極低的機率轉變為惡性。,disease=NV intent=risk,NV,risk
+黑色素痣 (NV) 相關問題：NV 的長期預後如何？會不會有危險？,黑色素痣的風險在於其有極低的機率轉變為惡性。,disease=NV intent=risk,NV,risk
+黑色素痣 (NV) 相關問題： NV 的致死率高嗎？,NV 應注意 ABCDE 原則，及早發現惡變跡象。,disease=NV intent=risk,NV,risk
+黑色素痣 (NV) 相關問題：有哪些情況下 NV 會變得更嚴重？,NV 應注意 ABCDE 原則，及早發現惡變跡象。,disease=NV intent=risk,NV,risk
+黑色素痣 (NV) 相關問題：NV 會對身體造成什麼影響？,NV 應注意 ABCDE 原則，及早發現惡變跡象。,disease=NV intent=risk,NV,risk
+黑色素痣 (NV) 相關問題：NV 有什麼潛在問題？,NV 應注意 ABCDE 原則，及早發現惡變跡象。,disease=NV intent=risk,NV,risk
+黑色素痣 (NV) 相關問題：NV 會惡化嗎？,NV 應注意 ABCDE 原則，及早發現惡變跡象。,disease=NV intent=risk,NV,risk
+黑色素痣 (NV) 相關問題：治療 NV 的成功率大概是多少？,根據嚴重程度，NV 可接受藥物或物理治療。,disease=NV intent=treatment,NV,treatment
+黑色素痣 (NV) 相關問題：NV 的治療流程是怎樣的？,根據嚴重程度，NV 可接受藥物或物理治療。,disease=NV intent=treatment,NV,treatment
+黑色素痣 (NV) 相關問題：針對 NV，醫生通常會建議什麼治療？,根據嚴重程度，NV 可接受藥物或物理治療。,disease=NV intent=treatment,NV,treatment
+黑色素痣 (NV) 相關問題：NV 有沒有什麼藥物或手術可以處理？,根據嚴重程度，NV 可接受藥物或物理治療。,disease=NV intent=treatment,NV,treatment
+黑色素痣 (NV) 相關問題：如果我被診斷出 NV，下一步該怎麼辦？,根據嚴重程度，NV 可接受藥物或物理治療。,disease=NV intent=treatment,NV,treatment
+黑色素痣 (NV) 相關問題： NV 治療期間有什麼需要注意的嗎？,常見治療 NV 的方式包括外用藥與光療。,disease=NV intent=treatment,NV,treatment
+黑色素痣 (NV) 相關問題：治療 NV 的成功率大概是多少？,常見治療 NV 的方式包括外用藥與光療。,disease=NV intent=treatment,NV,treatment
+黑色素痣 (NV) 相關問題： NV 治療期間有什麼需要注意的嗎？,常見治療 NV 的方式包括外用藥與光療。,disease=NV intent=treatment,NV,treatment
+黑色素痣 (NV) 相關問題：有什麼方法可以緩解 NV 的症狀？,常見治療 NV 的方式包括外用藥與光療。,disease=NV intent=treatment,NV,treatment
+黑色素痣 (NV) 相關問題：得了 NV 的話，有哪些治療方法可以選擇？,常見治療 NV 的方式包括外用藥與光療。,disease=NV intent=treatment,NV,treatment
+黑色素痣 (NV) 相關問題：我得了 NV，該怎麼辦？,NV 可透過冷凍、藥膏或雷射等方式治療。,disease=NV intent=treatment,NV,treatment
+黑色素痣 (NV) 相關問題： NV 的中醫治療方法是什麼？,NV 可透過冷凍、藥膏或雷射等方式治療。,disease=NV intent=treatment,NV,treatment
+黑色素痣 (NV) 相關問題：如果我被診斷出 NV，下一步該怎麼辦？,NV 可透過冷凍、藥膏或雷射等方式治療。,disease=NV intent=treatment,NV,treatment
+黑色素痣 (NV) 相關問題：請問 NV 要怎麼治療比較好？,NV 可透過冷凍、藥膏或雷射等方式治療。,disease=NV intent=treatment,NV,treatment
+黑色素痣 (NV) 相關問題：NV 可以不用治療嗎？,NV 可透過冷凍、藥膏或雷射等方式治療。,disease=NV intent=treatment,NV,treatment
+黑色素痣 (NV) 相關問題： NV 治療期間有什麼需要注意的嗎？,皮膚科可提供美容性去除方式。,disease=NV intent=treatment,NV,treatment
+黑色素痣 (NV) 相關問題：我得了 NV，該怎麼辦？,皮膚科可提供美容性去除方式。,disease=NV intent=treatment,NV,treatment
+黑色素痣 (NV) 相關問題：NV 的治療費用高嗎？,皮膚科可提供美容性去除方式。,disease=NV intent=treatment,NV,treatment
+黑色素痣 (NV) 相關問題：NV 如何處理？,皮膚科可提供美容性去除方式。,disease=NV intent=treatment,NV,treatment
+黑色素痣 (NV) 相關問題：NV 治療後會復發嗎？,皮膚科可提供美容性去除方式。,disease=NV intent=treatment,NV,treatment
+黑色素痣 (NV) 相關問題：請問 NV 要如何治療？,一般不得治療，僅得觀察。,disease=NV intent=treatment,NV,treatment
+黑色素痣 (NV) 相關問題：NV 要怎麼治療？,一般不得治療，僅得觀察。,disease=NV intent=treatment,NV,treatment
+黑色素痣 (NV) 相關問題：NV 的治療方法是什麼？,一般不得治療，僅得觀察。,disease=NV intent=treatment,NV,treatment
+黑色素痣 (NV) 相關問題：治療 NV 的成功率大概是多少？,一般不得治療，僅得觀察。,disease=NV intent=treatment,NV,treatment
+黑色素痣 (NV) 相關問題：NV 的居家護理方法有哪些？,一般不得治療，僅得觀察。,disease=NV intent=treatment,NV,treatment
+黑色素痣 (NV) 相關問題：NV 的治療費用高嗎？,黑色素痣通常不需要治療，除非有美觀需求或惡性疑慮可手術切除。,disease=NV intent=treatment,NV,treatment
+黑色素痣 (NV) 相關問題：請問 NV 要怎麼治療比較好？,黑色素痣通常不需要治療，除非有美觀需求或惡性疑慮可手術切除。,disease=NV intent=treatment,NV,treatment
+黑色素痣 (NV) 相關問題：我適合哪種 NV 的治療方式？,黑色素痣通常不需要治療，除非有美觀需求或惡性疑慮可手術切除。,disease=NV intent=treatment,NV,treatment
+黑色素痣 (NV) 相關問題：如果我被診斷出 NV，下一步該怎麼辦？,黑色素痣通常不需要治療，除非有美觀需求或惡性疑慮可手術切除。,disease=NV intent=treatment,NV,treatment
+黑色素痣 (NV) 相關問題：有什麼方法可以緩解 NV 的症狀？,黑色素痣通常不需要治療，除非有美觀需求或惡性疑慮可手術切除。,disease=NV intent=treatment,NV,treatment
+黑色素痣 (NV) 相關問題：我得了 NV，該怎麼辦？,若因美觀因素希望去除黑色素痣，可諮詢醫師進行雷射或手術。,disease=NV intent=treatment,NV,treatment
+黑色素痣 (NV) 相關問題：治療 NV 的最新方法是什麼？,若因美觀因素希望去除黑色素痣，可諮詢醫師進行雷射或手術。,disease=NV intent=treatment,NV,treatment
+黑色素痣 (NV) 相關問題： NV 的中醫治療方法是什麼？,若因美觀因素希望去除黑色素痣，可諮詢醫師進行雷射或手術。,disease=NV intent=treatment,NV,treatment
+黑色素痣 (NV) 相關問題：針對 NV 有沒有非手術的治療選項？,若因美觀因素希望去除黑色素痣，可諮詢醫師進行雷射或手術。,disease=NV intent=treatment,NV,treatment
+黑色素痣 (NV) 相關問題：NV 治療後會復發嗎？,若因美觀因素希望去除黑色素痣，可諮詢醫師進行雷射或手術。,disease=NV intent=treatment,NV,treatment
+黑色素痣 (NV) 相關問題：治療 NV 的成功率大概是多少？,治療黑色素痣的常見方式包括手術切除或雷射去除，但通常在有特殊情況下才考慮。,disease=NV intent=treatment,NV,treatment
+黑色素痣 (NV) 相關問題：得了 NV 的話，有哪些治療方法可以選擇？,治療黑色素痣的常見方式包括手術切除或雷射去除，但通常在有特殊情況下才考慮。,disease=NV intent=treatment,NV,treatment
+黑色素痣 (NV) 相關問題：NV 可以怎麼治療？,治療黑色素痣的常見方式包括手術切除或雷射去除，但通常在有特殊情況下才考慮。,disease=NV intent=treatment,NV,treatment
+黑色素痣 (NV) 相關問題：針對 NV，醫生通常會建議什麼治療？,治療黑色素痣的常見方式包括手術切除或雷射去除，但通常在有特殊情況下才考慮。,disease=NV intent=treatment,NV,treatment
+黑色素痣 (NV) 相關問題：我應該在什麼時候開始治療 NV？,治療黑色素痣的常見方式包括手術切除或雷射去除，但通常在有特殊情況下才考慮。,disease=NV intent=treatment,NV,treatment
+黑色素痣 (NV) 相關問題：如果我被診斷出 NV，下一步該怎麼辦？,NV 通常不需治療，若惡性疑慮或美觀需求可切除。,disease=NV intent=treatment,NV,treatment
+黑色素痣 (NV) 相關問題： NV 可以用雷射治療嗎？,NV 通常不需治療，若惡性疑慮或美觀需求可切除。,disease=NV intent=treatment,NV,treatment
+黑色素痣 (NV) 相關問題： NV 的中醫治療方法是什麼？,NV 通常不需治療，若惡性疑慮或美觀需求可切除。,disease=NV intent=treatment,NV,treatment
+黑色素痣 (NV) 相關問題：如果我被診斷出 NV，下一步該怎麼辦？,NV 通常不需治療，若惡性疑慮或美觀需求可切除。,disease=NV intent=treatment,NV,treatment
+黑色素痣 (NV) 相關問題：我得了 NV，該怎麼辦？,NV 通常不需治療，若惡性疑慮或美觀需求可切除。,disease=NV intent=treatment,NV,treatment
+黑色素痣 (NV) 相關問題：針對 NV，醫生通常會建議什麼治療？,針對黑色素痣，可以透過手術切除、雷射或冷凍處理。,disease=NV intent=treatment,NV,treatment
+黑色素痣 (NV) 相關問題：NV 的治療方法是什麼？,針對黑色素痣，可以透過手術切除、雷射或冷凍處理。,disease=NV intent=treatment,NV,treatment
+黑色素痣 (NV) 相關問題：NV 的治療方案有哪些？,針對黑色素痣，可以透過手術切除、雷射或冷凍處理。,disease=NV intent=treatment,NV,treatment
+黑色素痣 (NV) 相關問題：我應該在什麼時候開始治療 NV？,針對黑色素痣，可以透過手術切除、雷射或冷凍處理。,disease=NV intent=treatment,NV,treatment
+黑色素痣 (NV) 相關問題：NV 可以怎麼治療？,針對黑色素痣，可以透過手術切除、雷射或冷凍處理。,disease=NV intent=treatment,NV,treatment
+黑色素痣 (NV) 相關問題：有什麼方法可以緩解 NV 的症狀？,NV 的治療方法視其性質和大小而定，良性可不處理。,disease=NV intent=treatment,NV,treatment
+黑色素痣 (NV) 相關問題：NV 的居家護理方法有哪些？,NV 的治療方法視其性質和大小而定，良性可不處理。,disease=NV intent=treatment,NV,treatment
+黑色素痣 (NV) 相關問題：我該如何治療 NV？,NV 的治療方法視其性質和大小而定，良性可不處理。,disease=NV intent=treatment,NV,treatment
+黑色素痣 (NV) 相關問題：我應該在什麼時候開始治療 NV？,NV 的治療方法視其性質和大小而定，良性可不處理。,disease=NV intent=treatment,NV,treatment
+黑色素痣 (NV) 相關問題：NV 可以不用治療嗎？,NV 的治療方法視其性質和大小而定，良性可不處理。,disease=NV intent=treatment,NV,treatment
+血管瘤 (VASC) 相關問題： VASC 會從母體傳染給胎兒嗎？,VASC 並不具傳染性，請放心。,disease=VASC intent=contagious,VASC,contagious
+血管瘤 (VASC) 相關問題：VASC 有無傳染性？,VASC 並不具傳染性，請放心。,disease=VASC intent=contagious,VASC,contagious
+血管瘤 (VASC) 相關問題：VASC 會不會感染他人？,VASC 並不具傳染性，請放心。,disease=VASC intent=contagious,VASC,contagious
+血管瘤 (VASC) 相關問題：怎麼預防 VASC 傳染？,VASC 並不具傳染性，請放心。,disease=VASC intent=contagious,VASC,contagious
+血管瘤 (VASC) 相關問題：VASC 會通過空氣傳染嗎？,VASC 並不具傳染性，請放心。,disease=VASC intent=contagious,VASC,contagious
+血管瘤 (VASC) 相關問題：VASC 的傳染途徑是什麼？,VASC 通常不會透過接觸傳染。,disease=VASC intent=contagious,VASC,contagious
+血管瘤 (VASC) 相關問題：VASC 是通過什麼方式傳染的？,VASC 通常不會透過接觸傳染。,disease=VASC intent=contagious,VASC,contagious
+血管瘤 (VASC) 相關問題： VASC 傳染期是多久？,VASC 通常不會透過接觸傳染。,disease=VASC intent=contagious,VASC,contagious
+血管瘤 (VASC) 相關問題：如果我接觸了 VASC 患者，會被傳染嗎？,VASC 通常不會透過接觸傳染。,disease=VASC intent=contagious,VASC,contagious
+血管瘤 (VASC) 相關問題：我的 VASC 會傳染嗎？,VASC 通常不會透過接觸傳染。,disease=VASC intent=contagious,VASC,contagious
+血管瘤 (VASC) 相關問題：VASC 會不會傳染給家人或朋友？,這種病屬體內血管異常，非外部感染。,disease=VASC intent=contagious,VASC,contagious
+血管瘤 (VASC) 相關問題：VASC 會通過空氣傳染嗎？,這種病屬體內血管異常，非外部感染。,disease=VASC intent=contagious,VASC,contagious
+血管瘤 (VASC) 相關問題：VASC 會不會交叉感染？,這種病屬體內血管異常，非外部感染。,disease=VASC intent=contagious,VASC,contagious
+血管瘤 (VASC) 相關問題：VASC 是通過什麼方式傳染的？,這種病屬體內血管異常，非外部感染。,disease=VASC intent=contagious,VASC,contagious
+血管瘤 (VASC) 相關問題：VASC 是否有傳播的風險？,這種病屬體內血管異常，非外部感染。,disease=VASC intent=contagious,VASC,contagious
+血管瘤 (VASC) 相關問題：VASC 的傳染途徑是什麼？,血管病變應該不會傳染。,disease=VASC intent=contagious,VASC,contagious
+血管瘤 (VASC) 相關問題：VASC 會不會交叉感染？,血管病變應該不會傳染。,disease=VASC intent=contagious,VASC,contagious
+血管瘤 (VASC) 相關問題：VASC 會不會傳染給別人？,血管病變應該不會傳染。,disease=VASC intent=contagious,VASC,contagious
+血管瘤 (VASC) 相關問題：VASC 是由接觸傳播的嗎？,血管病變應該不會傳染。,disease=VASC intent=contagious,VASC,contagious
+血管瘤 (VASC) 相關問題：我的 VASC 會傳染嗎？,血管病變應該不會傳染。,disease=VASC intent=contagious,VASC,contagious
+血管瘤 (VASC) 相關問題：VASC 會不會感染他人？,血管病變（VASC）不具傳染性。,disease=VASC intent=contagious,VASC,contagious
+血管瘤 (VASC) 相關問題：VASC 有無傳染性？,血管病變（VASC）不具傳染性。,disease=VASC intent=contagious,VASC,contagious
+血管瘤 (VASC) 相關問題：VASC 會不會感染他人？,血管病變（VASC）不具傳染性。,disease=VASC intent=contagious,VASC,contagious
+血管瘤 (VASC) 相關問題：VASC 具有傳染性嗎？,血管病變（VASC）不具傳染性。,disease=VASC intent=contagious,VASC,contagious
+血管瘤 (VASC) 相關問題：我的 VASC 會傳染嗎？,血管病變（VASC）不具傳染性。,disease=VASC intent=contagious,VASC,contagious
+血管瘤 (VASC) 相關問題： VASC 會從母體傳染給胎兒嗎？,VASC 是血管異常，不會傳染給他人。,disease=VASC intent=contagious,VASC,contagious
+血管瘤 (VASC) 相關問題：VASC 具有傳染性嗎？,VASC 是血管異常，不會傳染給他人。,disease=VASC intent=contagious,VASC,contagious
+血管瘤 (VASC) 相關問題： VASC 傳染期是多久？,VASC 是血管異常，不會傳染給他人。,disease=VASC intent=contagious,VASC,contagious
+血管瘤 (VASC) 相關問題：關於 VASC 的傳染性問題，我需要注意什麼？,VASC 是血管異常，不會傳染給他人。,disease=VASC intent=contagious,VASC,contagious
+血管瘤 (VASC) 相關問題：VASC 會傳播嗎？,VASC 是血管異常，不會傳染給他人。,disease=VASC intent=contagious,VASC,contagious
+血管瘤 (VASC) 相關問題：如果我接觸了 VASC 患者，會被傳染嗎？,這種病變與感染無關，因此沒有傳染性。,disease=VASC intent=contagious,VASC,contagious
+血管瘤 (VASC) 相關問題：如果我接觸了 VASC 患者，會被傳染嗎？,這種病變與感染無關，因此沒有傳染性。,disease=VASC intent=contagious,VASC,contagious
+血管瘤 (VASC) 相關問題：VASC 會通過空氣傳染嗎？,這種病變與感染無關，因此沒有傳染性。,disease=VASC intent=contagious,VASC,contagious
+血管瘤 (VASC) 相關問題：VASC 的傳染途徑是什麼？,這種病變與感染無關，因此沒有傳染性。,disease=VASC intent=contagious,VASC,contagious
+血管瘤 (VASC) 相關問題：VASC 會不會傳染給家人或朋友？,這種病變與感染無關，因此沒有傳染性。,disease=VASC intent=contagious,VASC,contagious
+血管瘤 (VASC) 相關問題：VASC 是一種什麼樣的皮膚狀況？,系統判斷這是 VASC，常見於皮膚表層。,disease=VASC intent=intro,VASC,intro
+血管瘤 (VASC) 相關問題： VASC 的臨床表現是怎樣的？,系統判斷這是 VASC，常見於皮膚表層。,disease=VASC intent=intro,VASC,intro
+血管瘤 (VASC) 相關問題： VASC 的臨床表現是怎樣的？,系統判斷這是 VASC，常見於皮膚表層。,disease=VASC intent=intro,VASC,intro
+血管瘤 (VASC) 相關問題：我想了解 VASC 這個疾病，它主要表現是什麼？,系統判斷這是 VASC，常見於皮膚表層。,disease=VASC intent=intro,VASC,intro
+血管瘤 (VASC) 相關問題：VASC 是怎樣的疾病？,系統判斷這是 VASC，常見於皮膚表層。,disease=VASC intent=intro,VASC,intro
+血管瘤 (VASC) 相關問題：VASC 是什麼病症？,VASC 是一種常見的皮膚病。,disease=VASC intent=intro,VASC,intro
+血管瘤 (VASC) 相關問題：我想了解 VASC 這個疾病，它主要表現是什麼？,VASC 是一種常見的皮膚病。,disease=VASC intent=intro,VASC,intro
+血管瘤 (VASC) 相關問題：VASC 的症狀有哪些？,VASC 是一種常見的皮膚病。,disease=VASC intent=intro,VASC,intro
+血管瘤 (VASC) 相關問題：能解釋一下 VASC 嗎？,VASC 是一種常見的皮膚病。,disease=VASC intent=intro,VASC,intro
+血管瘤 (VASC) 相關問題：VASC 和其他皮膚病有什麼區別？,VASC 是一種常見的皮膚病。,disease=VASC intent=intro,VASC,intro
+血管瘤 (VASC) 相關問題：您可以簡要介紹一下 VASC 是什麼嗎？,紅色或紫色斑塊為血管性皮膚病。,disease=VASC intent=intro,VASC,intro
+血管瘤 (VASC) 相關問題：我想了解 VASC 這個疾病，它主要表現是什麼？,紅色或紫色斑塊為血管性皮膚病。,disease=VASC intent=intro,VASC,intro
+血管瘤 (VASC) 相關問題：VASC 的定義是什麼？,紅色或紫色斑塊為血管性皮膚病。,disease=VASC intent=intro,VASC,intro
+血管瘤 (VASC) 相關問題： VASC 的病理學特點是什麼？,紅色或紫色斑塊為血管性皮膚病。,disease=VASC intent=intro,VASC,intro
+血管瘤 (VASC) 相關問題：VASC 和其他皮膚病有什麼區別？,紅色或紫色斑塊為血管性皮膚病。,disease=VASC intent=intro,VASC,intro
+血管瘤 (VASC) 相關問題： VASC 的診斷標準是什麼？,系統覺得可能是良性血管異常。,disease=VASC intent=intro,VASC,intro
+血管瘤 (VASC) 相關問題：介紹一下 VASC。,系統覺得可能是良性血管異常。,disease=VASC intent=intro,VASC,intro
+血管瘤 (VASC) 相關問題： VASC 的臨床表現是怎樣的？,系統覺得可能是良性血管異常。,disease=VASC intent=intro,VASC,intro
+血管瘤 (VASC) 相關問題：介紹一下 VASC。,系統覺得可能是良性血管異常。,disease=VASC intent=intro,VASC,intro
+血管瘤 (VASC) 相關問題：介紹一下 VASC。,系統覺得可能是良性血管異常。,disease=VASC intent=intro,VASC,intro
+血管瘤 (VASC) 相關問題：VASC 的定義是什麼？,這是一個血管病變（VASC），指血管結構或功能異常引起的皮膚問題。,disease=VASC intent=intro,VASC,intro
+血管瘤 (VASC) 相關問題：VASC 是什麼病症？,這是一個血管病變（VASC），指血管結構或功能異常引起的皮膚問題。,disease=VASC intent=intro,VASC,intro
+血管瘤 (VASC) 相關問題：VASC 和其他皮膚病有什麼區別？,這是一個血管病變（VASC），指血管結構或功能異常引起的皮膚問題。,disease=VASC intent=intro,VASC,intro
+血管瘤 (VASC) 相關問題：請說明一下 VASC 的特點。,這是一個血管病變（VASC），指血管結構或功能異常引起的皮膚問題。,disease=VASC intent=intro,VASC,intro
+血管瘤 (VASC) 相關問題：能解釋一下 VASC 嗎？,這是一個血管病變（VASC），指血管結構或功能異常引起的皮膚問題。,disease=VASC intent=intro,VASC,intro
+血管瘤 (VASC) 相關問題：您可以簡要介紹一下 VASC 是什麼嗎？,系統判斷為血管病變，這類病變可能表現為紅色斑塊或血管擴張。,disease=VASC intent=intro,VASC,intro
+血管瘤 (VASC) 相關問題：VASC 的定義是什麼？,系統判斷為血管病變，這類病變可能表現為紅色斑塊或血管擴張。,disease=VASC intent=intro,VASC,intro
+血管瘤 (VASC) 相關問題：VASC 是什麼病？,系統判斷為血管病變，這類病變可能表現為紅色斑塊或血管擴張。,disease=VASC intent=intro,VASC,intro
+血管瘤 (VASC) 相關問題：VASC 的症狀有哪些？,系統判斷為血管病變，這類病變可能表現為紅色斑塊或血管擴張。,disease=VASC intent=intro,VASC,intro
+血管瘤 (VASC) 相關問題： VASC 有哪些亞型？,系統判斷為血管病變，這類病變可能表現為紅色斑塊或血管擴張。,disease=VASC intent=intro,VASC,intro
+血管瘤 (VASC) 相關問題：介紹一下 VASC。,血管病變是指皮膚上的血管異常增生或擴張，通常表現為紅色的斑塊或點。,disease=VASC intent=intro,VASC,intro
+血管瘤 (VASC) 相關問題： VASC 的診斷標準是什麼？,血管病變是指皮膚上的血管異常增生或擴張，通常表現為紅色的斑塊或點。,disease=VASC intent=intro,VASC,intro
+血管瘤 (VASC) 相關問題：VASC 是怎樣的疾病？,血管病變是指皮膚上的血管異常增生或擴張，通常表現為紅色的斑塊或點。,disease=VASC intent=intro,VASC,intro
+血管瘤 (VASC) 相關問題：請說明一下 VASC 的特點。,血管病變是指皮膚上的血管異常增生或擴張，通常表現為紅色的斑塊或點。,disease=VASC intent=intro,VASC,intro
+血管瘤 (VASC) 相關問題：介紹一下 VASC。,血管病變是指皮膚上的血管異常增生或擴張，通常表現為紅色的斑塊或點。,disease=VASC intent=intro,VASC,intro
+血管瘤 (VASC) 相關問題：請說明一下 VASC 的特點。,血管病變是指皮膚上血管異常增生或擴張。,disease=VASC intent=intro,VASC,intro
+血管瘤 (VASC) 相關問題：VASC 的定義是什麼？,血管病變是指皮膚上血管異常增生或擴張。,disease=VASC intent=intro,VASC,intro
+血管瘤 (VASC) 相關問題：VASC 的定義是什麼？,血管病變是指皮膚上血管異常增生或擴張。,disease=VASC intent=intro,VASC,intro
+血管瘤 (VASC) 相關問題：VASC 是怎樣的疾病？,血管病變是指皮膚上血管異常增生或擴張。,disease=VASC intent=intro,VASC,intro
+血管瘤 (VASC) 相關問題：我想了解 VASC 這個疾病，它主要表現是什麼？,血管病變是指皮膚上血管異常增生或擴張。,disease=VASC intent=intro,VASC,intro
+血管瘤 (VASC) 相關問題：VASC 是一種什麼樣的皮膚狀況？,VASC 是由血管異常引起的皮膚問題，可能表現為紅色斑塊或血管擴張。,disease=VASC intent=intro,VASC,intro
+血管瘤 (VASC) 相關問題：我想了解 VASC 這個疾病，它主要表現是什麼？,VASC 是由血管異常引起的皮膚問題，可能表現為紅色斑塊或血管擴張。,disease=VASC intent=intro,VASC,intro
+血管瘤 (VASC) 相關問題：我想了解 VASC 這個疾病，它主要表現是什麼？,VASC 是由血管異常引起的皮膚問題，可能表現為紅色斑塊或血管擴張。,disease=VASC intent=intro,VASC,intro
+血管瘤 (VASC) 相關問題：VASC 的發病率高嗎？,VASC 是由血管異常引起的皮膚問題，可能表現為紅色斑塊或血管擴張。,disease=VASC intent=intro,VASC,intro
+血管瘤 (VASC) 相關問題： VASC 的診斷標準是什麼？,VASC 是由血管異常引起的皮膚問題，可能表現為紅色斑塊或血管擴張。,disease=VASC intent=intro,VASC,intro
+血管瘤 (VASC) 相關問題： VASC 看醫生前需要準備什麼？,這種情況（VASC）建議由皮膚科專業人員判斷。,disease=VASC intent=need_doctor,VASC,need_doctor
+血管瘤 (VASC) 相關問題：如果 VASC 惡化了，要立即就醫嗎？,這種情況（VASC）建議由皮膚科專業人員判斷。,disease=VASC intent=need_doctor,VASC,need_doctor
+血管瘤 (VASC) 相關問題：VASC 需要看醫生嗎？,這種情況（VASC）建議由皮膚科專業人員判斷。,disease=VASC intent=need_doctor,VASC,need_doctor
+血管瘤 (VASC) 相關問題：得了 VASC 什麼時候需要立刻去看醫生？,這種情況（VASC）建議由皮膚科專業人員判斷。,disease=VASC intent=need_doctor,VASC,need_doctor
+血管瘤 (VASC) 相關問題：VASC 要不要去看醫生？,這種情況（VASC）建議由皮膚科專業人員判斷。,disease=VASC intent=need_doctor,VASC,need_doctor
+血管瘤 (VASC) 相關問題：VASC 這個狀況，我應該去看哪個科別的醫生？,VASC 建議由醫師進一步診斷。,disease=VASC intent=need_doctor,VASC,need_doctor
+血管瘤 (VASC) 相關問題：什麼時候需要因為 VASC 去醫院？,VASC 建議由醫師進一步診斷。,disease=VASC intent=need_doctor,VASC,need_doctor
+血管瘤 (VASC) 相關問題：如果我被診斷出 VASC，是否需要馬上就醫？,VASC 建議由醫師進一步診斷。,disease=VASC intent=need_doctor,VASC,need_doctor
+血管瘤 (VASC) 相關問題：得了 VASC 什麼時候需要立刻去看醫生？,VASC 建議由醫師進一步診斷。,disease=VASC intent=need_doctor,VASC,need_doctor
+血管瘤 (VASC) 相關問題：VASC 這個狀況，我應該去看哪個科別的醫生？,VASC 建議由醫師進一步診斷。,disease=VASC intent=need_doctor,VASC,need_doctor
+血管瘤 (VASC) 相關問題：得了 VASC 要掛什麼科？,VASC 若有變化，請儘早就診。,disease=VASC intent=need_doctor,VASC,need_doctor
+血管瘤 (VASC) 相關問題：VASC 這個狀況，我應該去看哪個科別的醫生？,VASC 若有變化，請儘早就診。,disease=VASC intent=need_doctor,VASC,need_doctor
+血管瘤 (VASC) 相關問題：VASC 要不要去看醫生？,VASC 若有變化，請儘早就診。,disease=VASC intent=need_doctor,VASC,need_doctor
+血管瘤 (VASC) 相關問題：什麼時候需要因為 VASC 去醫院？,VASC 若有變化，請儘早就診。,disease=VASC intent=need_doctor,VASC,need_doctor
+血管瘤 (VASC) 相關問題：VASC 需要看醫生嗎？,VASC 若有變化，請儘早就診。,disease=VASC intent=need_doctor,VASC,need_doctor
+血管瘤 (VASC) 相關問題：得了 VASC 什麼時候需要立刻去看醫生？,最好觀察是否有持續變化。,disease=VASC intent=need_doctor,VASC,need_doctor
+血管瘤 (VASC) 相關問題：有 VASC 要看醫生嗎？,最好觀察是否有持續變化。,disease=VASC intent=need_doctor,VASC,need_doctor
+血管瘤 (VASC) 相關問題：我得了 VASC，去看醫生會有幫助嗎？,最好觀察是否有持續變化。,disease=VASC intent=need_doctor,VASC,need_doctor
+血管瘤 (VASC) 相關問題：我得了 VASC，去看醫生會有幫助嗎？,最好觀察是否有持續變化。,disease=VASC intent=need_doctor,VASC,need_doctor
+血管瘤 (VASC) 相關問題：如果 VASC 惡化了，要立即就醫嗎？,最好觀察是否有持續變化。,disease=VASC intent=need_doctor,VASC,need_doctor
+血管瘤 (VASC) 相關問題：如果 VASC 惡化了，要立即就醫嗎？,若快速變大或出血得就醫。,disease=VASC intent=need_doctor,VASC,need_doctor
+血管瘤 (VASC) 相關問題：如果 VASC 惡化了，要立即就醫嗎？,若快速變大或出血得就醫。,disease=VASC intent=need_doctor,VASC,need_doctor
+血管瘤 (VASC) 相關問題： VASC 可以在一般診所看嗎？還是要去大醫院？,若快速變大或出血得就醫。,disease=VASC intent=need_doctor,VASC,need_doctor
+血管瘤 (VASC) 相關問題：如果 VASC 惡化了，要立即就醫嗎？,若快速變大或出血得就醫。,disease=VASC intent=need_doctor,VASC,need_doctor
+血管瘤 (VASC) 相關問題：我應該在什麼情況下為 VASC 就診？,若快速變大或出血得就醫。,disease=VASC intent=need_doctor,VASC,need_doctor
+血管瘤 (VASC) 相關問題：VASC 需要看醫生嗎？,若血管病變快速變化、出血或影響視力、呼吸等功能，請立即就醫。,disease=VASC intent=need_doctor,VASC,need_doctor
+血管瘤 (VASC) 相關問題：VASC 怎樣才需要看醫生？,若血管病變快速變化、出血或影響視力、呼吸等功能，請立即就醫。,disease=VASC intent=need_doctor,VASC,need_doctor
+血管瘤 (VASC) 相關問題： VASC 需要做什麼檢查嗎？,若血管病變快速變化、出血或影響視力、呼吸等功能，請立即就醫。,disease=VASC intent=need_doctor,VASC,need_doctor
+血管瘤 (VASC) 相關問題：如果我被診斷出 VASC，是否需要馬上就醫？,若血管病變快速變化、出血或影響視力、呼吸等功能，請立即就醫。,disease=VASC intent=need_doctor,VASC,need_doctor
+血管瘤 (VASC) 相關問題：我得了 VASC，去看醫生會有幫助嗎？,若血管病變快速變化、出血或影響視力、呼吸等功能，請立即就醫。,disease=VASC intent=need_doctor,VASC,need_doctor
+血管瘤 (VASC) 相關問題：患有 VASC 的話，有沒有必要去醫院檢查一下？,如果對血管病變有疑慮，或希望進行治療，請諮詢皮膚科或血管外科醫師。,disease=VASC intent=need_doctor,VASC,need_doctor
+血管瘤 (VASC) 相關問題： VASC 需要做什麼檢查嗎？,如果對血管病變有疑慮，或希望進行治療，請諮詢皮膚科或血管外科醫師。,disease=VASC intent=need_doctor,VASC,need_doctor
+血管瘤 (VASC) 相關問題：VASC 這個狀況，我應該去看哪個科別的醫生？,如果對血管病變有疑慮，或希望進行治療，請諮詢皮膚科或血管外科醫師。,disease=VASC intent=need_doctor,VASC,need_doctor
+血管瘤 (VASC) 相關問題：如果 VASC 惡化了，要立即就醫嗎？,如果對血管病變有疑慮，或希望進行治療，請諮詢皮膚科或血管外科醫師。,disease=VASC intent=need_doctor,VASC,need_doctor
+血管瘤 (VASC) 相關問題：得了 VASC 什麼時候需要立刻去看醫生？,如果對血管病變有疑慮，或希望進行治療，請諮詢皮膚科或血管外科醫師。,disease=VASC intent=need_doctor,VASC,need_doctor
+血管瘤 (VASC) 相關問題：關於 VASC，有哪些情況是必須尋求醫生幫助的？,血管病變雖然多為良性，但若造成不適或影響功能，建議尋求專業醫療建議。,disease=VASC intent=need_doctor,VASC,need_doctor
+血管瘤 (VASC) 相關問題：VASC 什麼時候要就診？,血管病變雖然多為良性，但若造成不適或影響功能，建議尋求專業醫療建議。,disease=VASC intent=need_doctor,VASC,need_doctor
+血管瘤 (VASC) 相關問題：我應該在什麼情況下為 VASC 就診？,血管病變雖然多為良性，但若造成不適或影響功能，建議尋求專業醫療建議。,disease=VASC intent=need_doctor,VASC,need_doctor
+血管瘤 (VASC) 相關問題：VASC 要不要去看醫生？,血管病變雖然多為良性，但若造成不適或影響功能，建議尋求專業醫療建議。,disease=VASC intent=need_doctor,VASC,need_doctor
+血管瘤 (VASC) 相關問題：VASC 怎樣才需要看醫生？,血管病變雖然多為良性，但若造成不適或影響功能，建議尋求專業醫療建議。,disease=VASC intent=need_doctor,VASC,need_doctor
+血管瘤 (VASC) 相關問題：有哪些情況下 VASC 會變得更嚴重？,VASC 有可能惡化，建議定期追蹤。,disease=VASC intent=risk,VASC,risk
+血管瘤 (VASC) 相關問題：VASC 需要擔心嗎？,VASC 有可能惡化，建議定期追蹤。,disease=VASC intent=risk,VASC,risk
+血管瘤 (VASC) 相關問題：VASC 會不會危及生命？,VASC 有可能惡化，建議定期追蹤。,disease=VASC intent=risk,VASC,risk
+血管瘤 (VASC) 相關問題：有哪些情況下 VASC 會變得更嚴重？,VASC 有可能惡化，建議定期追蹤。,disease=VASC intent=risk,VASC,risk
+血管瘤 (VASC) 相關問題：VASC 的長期預後如何？會不會有危險？,VASC 有可能惡化，建議定期追蹤。,disease=VASC intent=risk,VASC,risk
+血管瘤 (VASC) 相關問題：VASC 危險嗎？,雖然目前為 VASC，但仍需注意惡性可能。,disease=VASC intent=risk,VASC,risk
+血管瘤 (VASC) 相關問題：VASC 危險嗎？,雖然目前為 VASC，但仍需注意惡性可能。,disease=VASC intent=risk,VASC,risk
+血管瘤 (VASC) 相關問題：VASC 會變嚴重嗎？,雖然目前為 VASC，但仍需注意惡性可能。,disease=VASC intent=risk,VASC,risk
+血管瘤 (VASC) 相關問題：VASC 危險嗎？,雖然目前為 VASC，但仍需注意惡性可能。,disease=VASC intent=risk,VASC,risk
+血管瘤 (VASC) 相關問題：VASC 有什麼潛在問題？,雖然目前為 VASC，但仍需注意惡性可能。,disease=VASC intent=risk,VASC,risk
+血管瘤 (VASC) 相關問題：VASC 會不會留下疤痕？,VASC 有機率癌變，請提高警覺。,disease=VASC intent=risk,VASC,risk
+血管瘤 (VASC) 相關問題： VASC 的復發機率大嗎？,VASC 有機率癌變，請提高警覺。,disease=VASC intent=risk,VASC,risk
+血管瘤 (VASC) 相關問題：VASC 和其他疾病有相關性嗎？,VASC 有機率癌變，請提高警覺。,disease=VASC intent=risk,VASC,risk
+血管瘤 (VASC) 相關問題：患有 VASC 需要擔心癌變嗎？,VASC 有機率癌變，請提高警覺。,disease=VASC intent=risk,VASC,risk
+血管瘤 (VASC) 相關問題：VASC 需要擔心嗎？,VASC 有機率癌變，請提高警覺。,disease=VASC intent=risk,VASC,risk
+血管瘤 (VASC) 相關問題：患有 VASC 需要擔心癌變嗎？,這種病變（VASC）需留意變化與風險。,disease=VASC intent=risk,VASC,risk
+血管瘤 (VASC) 相關問題：有哪些情況下 VASC 會變得更嚴重？,這種病變（VASC）需留意變化與風險。,disease=VASC intent=risk,VASC,risk
+血管瘤 (VASC) 相關問題：VASC 危險嗎？,這種病變（VASC）需留意變化與風險。,disease=VASC intent=risk,VASC,risk
+血管瘤 (VASC) 相關問題：VASC 會變嚴重嗎？,這種病變（VASC）需留意變化與風險。,disease=VASC intent=risk,VASC,risk
+血管瘤 (VASC) 相關問題：患有 VASC 需要擔心癌變嗎？,這種病變（VASC）需留意變化與風險。,disease=VASC intent=risk,VASC,risk
+血管瘤 (VASC) 相關問題：VASC 需要擔心嗎？,一般來說為良性，風險低。,disease=VASC intent=risk,VASC,risk
+血管瘤 (VASC) 相關問題：VASC 有哪些潛在的健康風險或併發症？,一般來說為良性，風險低。,disease=VASC intent=risk,VASC,risk
+血管瘤 (VASC) 相關問題：VASC 會不會危及生命？,一般來說為良性，風險低。,disease=VASC intent=risk,VASC,risk
+血管瘤 (VASC) 相關問題：VASC 和其他疾病有相關性嗎？,一般來說為良性，風險低。,disease=VASC intent=risk,VASC,risk
+血管瘤 (VASC) 相關問題：VASC 會影響生活品質嗎？,一般來說為良性，風險低。,disease=VASC intent=risk,VASC,risk
+血管瘤 (VASC) 相關問題：如果我患有 VASC，需要警惕哪些風險？,醫師可協助判斷是否有更清楚風險。,disease=VASC intent=risk,VASC,risk
+血管瘤 (VASC) 相關問題：VASC 會有併發症嗎？,醫師可協助判斷是否有更清楚風險。,disease=VASC intent=risk,VASC,risk
+血管瘤 (VASC) 相關問題：VASC 會對身體造成什麼影響？,醫師可協助判斷是否有更清楚風險。,disease=VASC intent=risk,VASC,risk
+血管瘤 (VASC) 相關問題： VASC 的復發機率大嗎？,醫師可協助判斷是否有更清楚風險。,disease=VASC intent=risk,VASC,risk
+血管瘤 (VASC) 相關問題： VASC 的致死率高嗎？,醫師可協助判斷是否有更清楚風險。,disease=VASC intent=risk,VASC,risk
+血管瘤 (VASC) 相關問題：得了 VASC 會有哪些不好的影響？,大部分血管病變是良性的，但有些類型可能與系統性疾病相關。,disease=VASC intent=risk,VASC,risk
+血管瘤 (VASC) 相關問題：VASC 會變嚴重嗎？,大部分血管病變是良性的，但有些類型可能與系統性疾病相關。,disease=VASC intent=risk,VASC,risk
+血管瘤 (VASC) 相關問題：VASC 需要擔心嗎？,大部分血管病變是良性的，但有些類型可能與系統性疾病相關。,disease=VASC intent=risk,VASC,risk
+血管瘤 (VASC) 相關問題： VASC 有什麼長期後遺症嗎？,大部分血管病變是良性的，但有些類型可能與系統性疾病相關。,disease=VASC intent=risk,VASC,risk
+血管瘤 (VASC) 相關問題：如果我患有 VASC，需要警惕哪些風險？,大部分血管病變是良性的，但有些類型可能與系統性疾病相關。,disease=VASC intent=risk,VASC,risk
+血管瘤 (VASC) 相關問題： VASC 的復發機率大嗎？,VASC 的惡性風險相對較低，但應注意其是否影響功能或持續擴大。,disease=VASC intent=risk,VASC,risk
+血管瘤 (VASC) 相關問題： VASC 的復發機率大嗎？,VASC 的惡性風險相對較低，但應注意其是否影響功能或持續擴大。,disease=VASC intent=risk,VASC,risk
+血管瘤 (VASC) 相關問題：VASC 危險嗎？,VASC 的惡性風險相對較低，但應注意其是否影響功能或持續擴大。,disease=VASC intent=risk,VASC,risk
+血管瘤 (VASC) 相關問題：VASC 會不會留下疤痕？,VASC 的惡性風險相對較低，但應注意其是否影響功能或持續擴大。,disease=VASC intent=risk,VASC,risk
+血管瘤 (VASC) 相關問題：VASC 需要擔心嗎？,VASC 的惡性風險相對較低，但應注意其是否影響功能或持續擴大。,disease=VASC intent=risk,VASC,risk
+血管瘤 (VASC) 相關問題：VASC 的長期預後如何？會不會有危險？,血管病變多為良性，但若快速增長或出現其他症狀，仍需評估。,disease=VASC intent=risk,VASC,risk
+血管瘤 (VASC) 相關問題：VASC 會不會留下疤痕？,血管病變多為良性，但若快速增長或出現其他症狀，仍需評估。,disease=VASC intent=risk,VASC,risk
+血管瘤 (VASC) 相關問題：患有 VASC 需要擔心癌變嗎？,血管病變多為良性，但若快速增長或出現其他症狀，仍需評估。,disease=VASC intent=risk,VASC,risk
+血管瘤 (VASC) 相關問題：VASC 會不會留下疤痕？,血管病變多為良性，但若快速增長或出現其他症狀，仍需評估。,disease=VASC intent=risk,VASC,risk
+血管瘤 (VASC) 相關問題：VASC 會影響生活品質嗎？,血管病變多為良性，但若快速增長或出現其他症狀，仍需評估。,disease=VASC intent=risk,VASC,risk
+血管瘤 (VASC) 相關問題：治療 VASC 的成功率大概是多少？,VASC 建議依醫師建議進行個別化治療。,disease=VASC intent=treatment,VASC,treatment
+血管瘤 (VASC) 相關問題：VASC 的治療費用高嗎？,VASC 建議依醫師建議進行個別化治療。,disease=VASC intent=treatment,VASC,treatment
+血管瘤 (VASC) 相關問題：VASC 可以怎麼治療？,VASC 建議依醫師建議進行個別化治療。,disease=VASC intent=treatment,VASC,treatment
+血管瘤 (VASC) 相關問題：VASC 要怎麼治療？,VASC 建議依醫師建議進行個別化治療。,disease=VASC intent=treatment,VASC,treatment
+血管瘤 (VASC) 相關問題：VASC 的治療方法是什麼？,VASC 建議依醫師建議進行個別化治療。,disease=VASC intent=treatment,VASC,treatment
+血管瘤 (VASC) 相關問題： VASC 治療期間有什麼需要注意的嗎？,常見治療 VASC 的方式包括外用藥與光療。,disease=VASC intent=treatment,VASC,treatment
+血管瘤 (VASC) 相關問題：治療 VASC 的最新方法是什麼？,常見治療 VASC 的方式包括外用藥與光療。,disease=VASC intent=treatment,VASC,treatment
+血管瘤 (VASC) 相關問題：VASC 如何處理？,常見治療 VASC 的方式包括外用藥與光療。,disease=VASC intent=treatment,VASC,treatment
+血管瘤 (VASC) 相關問題：VASC 的居家護理方法有哪些？,常見治療 VASC 的方式包括外用藥與光療。,disease=VASC intent=treatment,VASC,treatment
+血管瘤 (VASC) 相關問題：VASC 可以不用治療嗎？,常見治療 VASC 的方式包括外用藥與光療。,disease=VASC intent=treatment,VASC,treatment
+血管瘤 (VASC) 相關問題：VASC 可以怎麼治療？,根據嚴重程度，VASC 可接受藥物或物理治療。,disease=VASC intent=treatment,VASC,treatment
+血管瘤 (VASC) 相關問題： VASC 的中醫治療方法是什麼？,根據嚴重程度，VASC 可接受藥物或物理治療。,disease=VASC intent=treatment,VASC,treatment
+血管瘤 (VASC) 相關問題：VASC 的治療費用高嗎？,根據嚴重程度，VASC 可接受藥物或物理治療。,disease=VASC intent=treatment,VASC,treatment
+血管瘤 (VASC) 相關問題：VASC 可以不用治療嗎？,根據嚴重程度，VASC 可接受藥物或物理治療。,disease=VASC intent=treatment,VASC,treatment
+血管瘤 (VASC) 相關問題：針對 VASC 有沒有非手術的治療選項？,根據嚴重程度，VASC 可接受藥物或物理治療。,disease=VASC intent=treatment,VASC,treatment
+血管瘤 (VASC) 相關問題：治療 VASC 的成功率大概是多少？,醫師會判斷一下是否得介入處理。,disease=VASC intent=treatment,VASC,treatment
+血管瘤 (VASC) 相關問題：得了 VASC 的話，有哪些治療方法可以選擇？,醫師會判斷一下是否得介入處理。,disease=VASC intent=treatment,VASC,treatment
+血管瘤 (VASC) 相關問題：VASC 要怎麼治療？,醫師會判斷一下是否得介入處理。,disease=VASC intent=treatment,VASC,treatment
+血管瘤 (VASC) 相關問題：請問 VASC 要如何治療？,醫師會判斷一下是否得介入處理。,disease=VASC intent=treatment,VASC,treatment
+血管瘤 (VASC) 相關問題：如果我被診斷出 VASC，下一步該怎麼辦？,醫師會判斷一下是否得介入處理。,disease=VASC intent=treatment,VASC,treatment
+血管瘤 (VASC) 相關問題：VASC 的治療方法是什麼？,血管病變的治療方式多樣，包括雷射治療、硬化劑注射或手術。,disease=VASC intent=treatment,VASC,treatment
+血管瘤 (VASC) 相關問題：針對 VASC，醫生通常會建議什麼治療？,血管病變的治療方式多樣，包括雷射治療、硬化劑注射或手術。,disease=VASC intent=treatment,VASC,treatment
+血管瘤 (VASC) 相關問題：有什麼方法可以緩解 VASC 的症狀？,血管病變的治療方式多樣，包括雷射治療、硬化劑注射或手術。,disease=VASC intent=treatment,VASC,treatment
+血管瘤 (VASC) 相關問題：VASC 的治療方案有哪些？,血管病變的治療方式多樣，包括雷射治療、硬化劑注射或手術。,disease=VASC intent=treatment,VASC,treatment
+血管瘤 (VASC) 相關問題：我適合哪種 VASC 的治療方式？,血管病變的治療方式多樣，包括雷射治療、硬化劑注射或手術。,disease=VASC intent=treatment,VASC,treatment
+血管瘤 (VASC) 相關問題：針對 VASC 有沒有非手術的治療選項？,針對 VASC，醫師會根據病變類型和嚴重程度推薦合適的治療，如雷射或藥物。,disease=VASC intent=treatment,VASC,treatment
+血管瘤 (VASC) 相關問題：VASC 的治療方案有哪些？,針對 VASC，醫師會根據病變類型和嚴重程度推薦合適的治療，如雷射或藥物。,disease=VASC intent=treatment,VASC,treatment
+血管瘤 (VASC) 相關問題：VASC 的治療方法是什麼？,針對 VASC，醫師會根據病變類型和嚴重程度推薦合適的治療，如雷射或藥物。,disease=VASC intent=treatment,VASC,treatment
+血管瘤 (VASC) 相關問題：VASC 可以不用治療嗎？,針對 VASC，醫師會根據病變類型和嚴重程度推薦合適的治療，如雷射或藥物。,disease=VASC intent=treatment,VASC,treatment
+血管瘤 (VASC) 相關問題：VASC 如何處理？,針對 VASC，醫師會根據病變類型和嚴重程度推薦合適的治療，如雷射或藥物。,disease=VASC intent=treatment,VASC,treatment
+血管瘤 (VASC) 相關問題：我得了 VASC，該怎麼辦？,治療血管病變的方案因人而異，可能涉及雷射、冷凍或外用藥物。,disease=VASC intent=treatment,VASC,treatment
+血管瘤 (VASC) 相關問題：得了 VASC 的話，有哪些治療方法可以選擇？,治療血管病變的方案因人而異，可能涉及雷射、冷凍或外用藥物。,disease=VASC intent=treatment,VASC,treatment
+血管瘤 (VASC) 相關問題： VASC 可以用雷射治療嗎？,治療血管病變的方案因人而異，可能涉及雷射、冷凍或外用藥物。,disease=VASC intent=treatment,VASC,treatment
+血管瘤 (VASC) 相關問題：VASC 有沒有什麼藥物或手術可以處理？,治療血管病變的方案因人而異，可能涉及雷射、冷凍或外用藥物。,disease=VASC intent=treatment,VASC,treatment
+血管瘤 (VASC) 相關問題：VASC 的治療方案有哪些？,治療血管病變的方案因人而異，可能涉及雷射、冷凍或外用藥物。,disease=VASC intent=treatment,VASC,treatment
