@@ -1,0 +1,268 @@
+<!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+    <meta charset="UTF-8">
+    <title>Medical Chatbot</title>
+    <style>
+        body {
+            font-family: 'Segoe UI', sans-serif;
+            background: #f0f0f0;
+            margin: 0;
+            padding: 0;
+        }
+        .chat-container {
+            max-width: 600px;
+            margin: 40px auto;
+            background: white;
+            border-radius: 12px;
+            box-shadow: 0 0 10px rgba(0,0,0,0.1);
+            padding: 20px;
+        }
+        .chat-box {
+            height: 400px;
+            overflow-y: auto;
+            padding: 10px;
+            border: 1px solid #ddd;
+            border-radius: 8px;
+            background: #f9f9f9;
+        }
+        .bubble-user {
+            text-align: right;
+            margin: 10px;
+        }
+        .bubble-user span {
+            background: #9ee37d;
+            padding: 10px 14px;
+            border-radius: 16px;
+            display: inline-block;
+        }
+        .bubble-bot {
+            text-align: left;
+            margin: 10px;
+            position: relative; /* 確保按鈕定位正常 */
+        }
+        .bubble-bot span {
+            background: #e5e5ea;
+            padding: 10px 14px;
+            border-radius: 16px;
+            display: inline-block;
+            max-width: calc(100% - 40px); /* 留出空間給按鈕 */
+        }
+        /* 新增的重新回答按鈕樣式 */
+        .regen-button {
+            background: none;
+            border: none;
+            color: #666;
+            font-size: 16px; /* 圖標大小 */
+            cursor: pointer;
+            position: absolute; /* 相對於 bubble-bot 定位 */
+            right: 0px; /* 調整位置 */
+            top: 50%; /* 垂直居中 */
+            transform: translateY(-50%);
+            padding: 5px;
+            line-height: 1; /* 確保圖標垂直居中 */
+            border-radius: 50%; /* 讓按鈕是圓形 */
+            width: 30px; /* 調整按鈕大小 */
+            height: 30px;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            box-shadow: 0 1px 3px rgba(0,0,0,0.1); /* 添加一點陰影 */
+            transition: background-color 0.2s; /* 添加過渡效果 */
+        }
+        .regen-button:hover {
+            background-color: #ddd; /* 鼠標懸停效果 */
+        }
+
+        .chat-controls {
+            display: flex;
+            gap: 10px;
+            margin-top: 10px;
+        }
+        input[type="text"], input[type="file"] {
+            flex: 1;
+            padding: 10px;
+            border-radius: 8px;
+            border: 1px solid #ccc;
+        }
+        button {
+            padding: 10px 16px;
+            border: none;
+            background: #0078d4;
+            color: white;
+            border-radius: 8px;
+            cursor: pointer;
+        }
+        img.preview {
+            max-width: 200px;
+            border-radius: 8px;
+            margin-top: 5px;
+        }
+    </style>
+</head>
+<body>
+    <button onclick="scrollToTop()" style=" position: fixed; bottom: 100px; right: 30px; width: 40px; height: 40px; border-radius: 50%;
+    background: rgb(170, 170, 175); color: white; border: none; font-size: 20px; display: flex; justify-content: center; align-items: center;
+    box-shadow: 0 2px 6px rgba(0,0,0,0.2); cursor: pointer; ">↑</button>
+    <button onclick="restartChat()" style="position: fixed; bottom: 40px; right: 30px; padding: 10px 12px; border-radius: 8px; background:rgb(122, 153, 243); color: white; border: none; font-size: 14px;">重新開始</button>
+
+<div class="chat-container">
+    <h2 align="center">Scan Skin Medical Chatbot</h2>
+    <div id="chatBox" class="chat-box">
+        <div class="bubble-bot"><span>歡迎來到皮膚病檢測聊天機器人，請上傳皮膚病變區域圖片。</span></div>
+    </div>
+
+    <div class="chat-controls">
+        <input type="file" id="fileInput" accept="image/*">
+        <button onclick="uploadImage()">上傳圖片</button>
+    </div>
+
+    <div class="chat-controls">
+        <input type="text" id="userInput" placeholder="請輸入問題...">
+        <button onclick="sendMessage()">送出</button>
+    </div>
+</div>
+
+<script>
+    let imageUploaded = false;
+    let lastUserMessage = ""; // 新增變數來儲存最後一次使用者發送的問題
+
+    function appendMessage(role, content, isImage = false, isLastBotMessage = false) {
+        const box = document.getElementById("chatBox");
+        const div = document.createElement("div");
+        div.className = role === "user" ? "bubble-user" : "bubble-bot";
+
+        if (isImage) {
+            div.innerHTML = `<span><img src="${content}" class="preview"></span>`;
+        } else {
+            div.innerHTML = `<span>${content}</span>`;
+        }
+
+        // 如果是最後一個機器人訊息，添加重新回答按鈕
+        if (role === "bot" && isLastBotMessage) {
+            // 先移除所有現有的重新回答按鈕，確保只有最新的一個有
+            document.querySelectorAll('.regen-button').forEach(btn => btn.remove());
+
+            const regenBtn = document.createElement("button");
+            regenBtn.className = "regen-button";
+            regenBtn.innerHTML = "&#x21BB;"; // 重新整理箭頭的 Unicode 字符
+            regenBtn.title = "重新生成回答";
+            regenBtn.onclick = function() {
+                regenerateResponse();
+            };
+            div.appendChild(regenBtn);
+        }
+
+        box.appendChild(div);
+        box.scrollTop = box.scrollHeight;
+    }
+
+    function uploadImage() {
+        const fileInput = document.getElementById("fileInput");
+        const file = fileInput.files[0];
+        if (!file) return;
+
+        const formData = new FormData();
+        formData.append("file", file);
+
+        appendMessage("user", "📷 我已上傳圖片");
+
+        const reader = new FileReader();
+        reader.onload = function (e) {
+            appendMessage("user", e.target.result, true);
+        };
+        reader.readAsDataURL(file);
+
+        fetch("/upload", {
+            method: "POST",
+            body: formData
+        })
+            .then(res => res.json())
+            .then(data => {
+                if (data.predicted && data.predicted !== "Unknown") {
+                    appendMessage("bot", `此疾病為：${data.disease_name} (${data.predicted})`, false, true); // 第一個機器人回答也帶按鈕
+                    imageUploaded = true;
+                } else {
+                    appendMessage("bot", "無法正確判斷疾病，請重新上傳照片。", false, true);
+                    imageUploaded = false;
+                }
+            });
+    }
+
+    function sendMessage() {
+        if (!imageUploaded) {
+            appendMessage("bot", "請先上傳皮膚病變區域圖片，再開始提問喔！", false, true);
+            return;
+        }
+
+        const input = document.getElementById("userInput");
+        const text = input.value.trim();
+        if (!text) return;
+
+        appendMessage("user", text);
+        lastUserMessage = text; // 儲存最後一次發送的問題
+        input.value = "";
+
+        // 清除所有現有的重新回答按鈕，因為將會有新的訊息
+        document.querySelectorAll('.regen-button').forEach(btn => btn.remove());
+
+
+        fetch("/chat", {
+            method: "POST",
+            headers: { "Content-Type": "application/json" },
+            body: JSON.stringify({ message: text })
+        })
+            .then(res => res.json())
+            .then(data => {
+                appendMessage("bot", data.reply, false, true); // 標記為最新的機器人訊息
+            });
+    }
+
+    // 新增的重新生成回答函數
+    function regenerateResponse() {
+        if (!imageUploaded || !lastUserMessage) {
+            appendMessage("bot", "無法重新生成回答，請先上傳圖片並提問。", false, true);
+            return;
+        }
+
+        // 移除所有現有的重新回答按鈕，因為將會有新的訊息
+        document.querySelectorAll('.regen-button').forEach(btn => btn.remove());
+
+        // 重新發送最後一個問題到 /chat，但這次是為了重新生成
+        fetch("/chat", {
+            method: "POST",
+            headers: { "Content-Type": "application/json" },
+            body: JSON.stringify({ message: lastUserMessage }) // 使用儲存的最後一個問題
+        })
+            .then(res => res.json())
+            .then(data => {
+                appendMessage("bot", data.reply, false, true); // 標記為最新的機器人訊息
+            });
+    }
+
+
+    document.getElementById("userInput").addEventListener("keydown", function (e) {
+        if (e.key === "Enter") {
+            e.preventDefault();
+            sendMessage();
+        }
+    });
+
+    function scrollToTop() {
+        const box = document.getElementById("chatBox");
+        box.scrollTo({ top: 0, behavior: "smooth" });
+    }
+
+    function restartChat() {
+        const box = document.getElementById("chatBox");
+        box.innerHTML = `<div class="bubble-bot"><span>歡迎來到皮膚病變檢測聊天機器人，請上傳皮膚病變區域圖片。</span></div>`;
+        imageUploaded = false;
+        lastUserMessage = ""; // 重置最後一個問題
+        // 確保重置後沒有舊的生成按鈕
+        document.querySelectorAll('.regen-button').forEach(btn => btn.remove());
+    }
+
+</script>
+
+</body>
+</html>
